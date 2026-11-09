@@ -1,0 +1,99 @@
+{
+  "contentDecoration": {
+    "provider": "Original SVG and CSS",
+    "vectorFrame": "/assets/content-ornaments.svg",
+    "report": "PROJECT_REPORT.txt",
+    "reportSection": "PROJECT_REPORT.txt",
+    "note": "Canva thumbnail retired; provenance retained in consolidated report.",
+    "reportSectionSection": "CONTENT_DESIGN.txt"
+  },
+  "activeArtDirection": {
+    "name": "Mac Nguyet - contemporary historical art",
+    "provider": "Built-in image_gen",
+    "original": "/assets/ink-palace-v2.png",
+    "runtime": "/assets/ink-palace-v2.webp",
+    "width": 1774,
+    "height": 887,
+    "originalBytes": 2500770,
+    "runtimeBytes": 236838,
+    "webpQuality": 88,
+    "theme": "/dynasty.css",
+    "promptAndReport": "PROJECT_REPORT.txt",
+    "note": "Original artwork generated for this project. Current overview and page headers use the local full-size WebP, not a Canva thumbnail.",
+    "gallery": {
+      "name": "Mac Nguyet exhibition",
+      "count": 5,
+      "provider": "Built-in image_gen; 5 separate prompts",
+      "manifest": "/data/gallery-art.json",
+      "stylesheet": "/gallery.css",
+      "originalDirectory": "resources/artwork/gallery",
+      "report": "PROJECT_REPORT.txt",
+      "reportSection": "GALLERY_DESIGN.txt"
+    },
+    "promptAndReportSection": "DYNASTY_DESIGN.txt"
+  },
+  "readingArtwork": {
+    "active": true,
+    "generator": "Built-in ImageGen with local style reference",
+    "reference": "/assets/ink-palace-v2.png",
+    "manifest": "/data/ink-worlds.json",
+    "artworks": 8,
+    "variants": 24,
+    "report": "PROJECT_REPORT.txt",
+    "labelsVisible": false,
+    "originalDirectory": "resources/artwork/ink-worlds",
+    "runtimeDirectory": "public/assets/ink-worlds",
+    "reportSection": "READING_ART_DESIGN.txt"
+  },
+  "finishingOrnaments": {
+    "type": "original code-native SVG",
+    "assets": [
+      "/assets/plum-moon.svg",
+      "/assets/moon-divider.svg",
+      "/assets/moon-mark.svg"
+    ],
+    "totalBytes": 4509,
+    "stylesheet": "/finishing.css",
+    "report": "PROJECT_REPORT.txt",
+    "reportSection": "VISUAL_POLISH_REPORT.txt"
+  },
+  "sectionBackgrounds": {
+    "activeVersion": 2,
+    "generator": "Built-in ImageGen; new composition per image",
+    "manifest": "/data/section-background-art.json",
+    "assets": [
+      "/assets/backgrounds/study-background-v2.webp",
+      "/assets/backgrounds/practice-background-v2.webp"
+    ],
+    "stylesheet": "/section-backgrounds.css",
+    "report": "PROJECT_REPORT.txt",
+    "reportSection": "SECTION_BACKGROUNDS_REPORT.txt"
+  },
+  "lessonBackgrounds": {
+    "active": true,
+    "genre": "Chinese Xianxia",
+    "count": 25,
+    "uniqueDecodedPixelHashes": 25,
+    "variants": 75,
+    "runtimeBytes": 13716146,
+    "generator": "Built-in ImageGen, independent original scenes",
+    "manifest": "/data/lesson-backgrounds.json",
+    "stylesheet": "/lesson-backgrounds.css",
+    "report": "PROJECT_REPORT.txt",
+    "reportSection": "LESSON_BACKGROUNDS_REPORT.txt"
+  },
+  "practiceLessonArt": {
+    "active": true,
+    "count": 25,
+    "pairing": "One person with a spirit beast or cultivation object",
+    "personAndBeast": 8,
+    "personAndObject": 17,
+    "variants": 75,
+    "runtimeBytes": 10570266,
+    "manifest": "/data/practice-lesson-art.json",
+    "stylesheet": "/practice-lesson-art.css",
+    "report": "PROJECT_REPORT.txt",
+    "chapterArtworkUnchanged": true,
+    "reportSection": "PRACTICE_LESSON_ART_REPORT.txt"
+  }
+}

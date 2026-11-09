@@ -1,0 +1,2 @@
+# Applied migrations are checked against their exact SQL bytes.
+database/migrations/*.sql text eol=lf

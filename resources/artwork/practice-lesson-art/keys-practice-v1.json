@@ -1,0 +1,33 @@
+{
+  "id": "keys",
+  "assetStem": "keys-practice-v1",
+  "name": "Huyền Báo Kiếm Sư",
+  "category": "nhân vật & linh thú",
+  "deep": "#283f3d",
+  "scene": "EXACTLY ONE adult Chinese sword artificer in charcoal and copper-trimmed robes and EXACTLY ONE sleek black spirit panther with restrained jade markings. They stand beside a quiet bronze forge doorway on RIGHT, two interlocking jade fittings in the artificer's hands. Copper, teal, black and ivory light; patient focus, full-body silhouettes, no other people/animals.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese sword artificer in charcoal and copper-trimmed robes and EXACTLY ONE sleek black spirit panther with restrained jade markings. They stand beside a quiet bronze forge doorway on RIGHT, two interlocking jade fittings in the artificer's hands. Copper, teal, black and ivory light; patient focus, full-body silhouettes, no other people/animals.",
+  "generator": "Built-in ImageGen; Chinese Xianxia practice motifs; one per lesson",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/keys-practice-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 40336
+    },
+    {
+      "url": "/assets/practice-lesson-art/keys-practice-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 141480
+    },
+    {
+      "url": "/assets/practice-lesson-art/keys-practice-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 301922
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/keys-practice-v1.png"
+}

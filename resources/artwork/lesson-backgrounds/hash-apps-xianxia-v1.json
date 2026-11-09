@@ -1,0 +1,32 @@
+{
+  "id": "hash-apps",
+  "assetStem": "hash-apps-xianxia-v1",
+  "name": "Mùa xuân trở lại cổ thụ",
+  "emotion": "hy vọng, hồi sinh",
+  "scene": "A ruined immortal garden centered on a gigantic ancient tree, WIDE GROUND-LEVEL view. A healer and two young disciples at LOWER CENTER place a jade vessel among the roots; fresh glowing blossoms spread through one branch overhead from LEFT to RIGHT, a small white deer approaches and new grass grows between old stones. Pale pink, fresh green, amber sunrise and ivory. Recovery, hope and renewal after hardship, no buildings dominating the frame.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: hy vọng, hồi sinh. A ruined immortal garden centered on a gigantic ancient tree, WIDE GROUND-LEVEL view. A healer and two young disciples at LOWER CENTER place a jade vessel among the roots; fresh glowing blossoms spread through one branch overhead from LEFT to RIGHT, a small white deer approaches and new grass grows between old stones. Pale pink, fresh green, amber sunrise and ivory. Recovery, hope and renewal after hardship, no buildings dominating the frame.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/hash-apps-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 52316
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hash-apps-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 189014
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hash-apps-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 411638
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/hash-apps-xianxia-v1.png"
+}

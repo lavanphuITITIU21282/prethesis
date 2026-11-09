@@ -1,0 +1,32 @@
+{
+  "id": "hmac",
+  "assetStem": "hmac-xianxia-v1",
+  "name": "Chung một tán ô",
+  "emotion": "tin cậy, gần gũi",
+  "scene": "A rain-soaked immortal tea pavilion beside a narrow mountain stream, CLOSE SIDE-ON composition. Two sworn Chinese companions share one paper umbrella in LEFT foreground while one gives the other a warm porcelain tea cup; their swords rest safely beside a bench, a small fox sleeps near their feet. Golden lamps recede toward RIGHT, mist and fine rain beyond. Warm amber, indigo, dusty burgundy and ivory. Quiet trust and emotional closeness, natural gestures, no large moon.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: tin cậy, gần gũi. A rain-soaked immortal tea pavilion beside a narrow mountain stream, CLOSE SIDE-ON composition. Two sworn Chinese companions share one paper umbrella in LEFT foreground while one gives the other a warm porcelain tea cup; their swords rest safely beside a bench, a small fox sleeps near their feet. Golden lamps recede toward RIGHT, mist and fine rain beyond. Warm amber, indigo, dusty burgundy and ivory. Quiet trust and emotional closeness, natural gestures, no large moon.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/hmac-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 47330
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hmac-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 167688
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hmac-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 349802
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/hmac-xianxia-v1.png"
+}

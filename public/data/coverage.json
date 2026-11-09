@@ -1,0 +1,1744 @@
+{
+  "summary": {
+    "lessons": 25,
+    "sections": 75,
+    "terms": 254,
+    "commands": 21,
+    "questions": 899,
+    "kinds": {
+      "recall": 508,
+      "application": 254,
+      "syntax": 112,
+      "boss": 25
+    },
+    "termCoverage": "254/254",
+    "sourcePages": 203,
+    "detailedGuides": 75,
+    "solvedCheckpoints": 75,
+    "embeddedSourceImages": 71
+  },
+  "terms": [
+    {
+      "term": "Confidentiality",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Integrity",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Availability",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Disclosure",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Alteration",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Destruction",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Privacy",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Reliability",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Identification",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Authentication",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Authorization",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Auditing",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Accountability",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Peer entity authentication",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Data origin authentication",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Asset",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Vulnerability",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Threat",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Attack",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Adversary",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Passive attack",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Active attack",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Insider",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Outsider",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Risk",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Countermeasure",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Residual risk",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Security policy",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Security violation",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Security service",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "Security mechanism",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "Access control",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "Nonrepudiation",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "DoS",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "Prevention",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "Detection",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "Recovery",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "Plaintext",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Ciphertext",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Encryption",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Decryption",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Symmetric encryption",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Asymmetric encryption",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Public key",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Private key",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Encoding",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Hybrid encryption",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "Session key",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "Fingerprint",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "Certificate",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "CA",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "Trust anchor",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "MITM",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "PKI",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "Key ring",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "Digital signature",
+      "lesson": "sign-intro",
+      "questions": 3
+    },
+    {
+      "term": "Signing",
+      "lesson": "sign-intro",
+      "questions": 3
+    },
+    {
+      "term": "Verification",
+      "lesson": "sign-intro",
+      "questions": 3
+    },
+    {
+      "term": "Authenticity",
+      "lesson": "sign-intro",
+      "questions": 3
+    },
+    {
+      "term": "Replay attack",
+      "lesson": "sign-intro",
+      "questions": 3
+    },
+    {
+      "term": "Caesar cipher",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Cryptanalysis",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Brute-force attack",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Keyspace",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Known-plaintext attack",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Computational security",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Unconditional security",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Monoalphabetic substitution",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Frequency analysis",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Bigram",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Trigram",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "N-gram",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Polyalphabetic substitution",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Vigenère cipher",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Playfair cipher",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Hill cipher",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Transposition",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "XOR",
+      "lesson": "otp",
+      "questions": 3
+    },
+    {
+      "term": "One-time pad",
+      "lesson": "otp",
+      "questions": 3
+    },
+    {
+      "term": "Perfect secrecy",
+      "lesson": "otp",
+      "questions": 3
+    },
+    {
+      "term": "Keystream",
+      "lesson": "otp",
+      "questions": 3
+    },
+    {
+      "term": "Key reuse",
+      "lesson": "otp",
+      "questions": 3
+    },
+    {
+      "term": "Entropy",
+      "lesson": "otp",
+      "questions": 3
+    },
+    {
+      "term": "Block cipher",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Stream cipher",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "DES",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Triple-DES",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "AES",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Block size",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Key size",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Mode of operation",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "ECB",
+      "lesson": "cbc",
+      "questions": 3
+    },
+    {
+      "term": "CBC",
+      "lesson": "cbc",
+      "questions": 3
+    },
+    {
+      "term": "IV",
+      "lesson": "cbc",
+      "questions": 3
+    },
+    {
+      "term": "Padding",
+      "lesson": "cbc",
+      "questions": 3
+    },
+    {
+      "term": "PKCS#7",
+      "lesson": "cbc",
+      "questions": 3
+    },
+    {
+      "term": "Padding oracle",
+      "lesson": "cbc",
+      "questions": 3
+    },
+    {
+      "term": "CFB",
+      "lesson": "ctr",
+      "questions": 3
+    },
+    {
+      "term": "OFB",
+      "lesson": "ctr",
+      "questions": 3
+    },
+    {
+      "term": "CTR",
+      "lesson": "ctr",
+      "questions": 3
+    },
+    {
+      "term": "Nonce",
+      "lesson": "ctr",
+      "questions": 3
+    },
+    {
+      "term": "Counter",
+      "lesson": "ctr",
+      "questions": 3
+    },
+    {
+      "term": "AEAD",
+      "lesson": "ctr",
+      "questions": 3
+    },
+    {
+      "term": "AAD",
+      "lesson": "ctr",
+      "questions": 3
+    },
+    {
+      "term": "stdin",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "stdout",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "stderr",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "Pipe",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "Redirection",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "PBKDF2",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "Salt",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "Locale",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "Cryptographic hash function",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "Digest",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "Preimage resistance",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "Second-preimage resistance",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "Collision resistance",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "Birthday bound",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "Avalanche effect",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "MD5",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "SHA-1",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "SHA-2",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "SHA-256",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "SHA-512",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "SHA-3",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "Merkle–Damgård",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "Compression function",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "Sponge construction",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "Checksum",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "Commitment",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "Hiding",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "Binding",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "Trusted timestamp",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "Password hashing",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "Offline guessing",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "MAC",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "HMAC",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "Authentication tag",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "Length extension",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "ipad",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "opad",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "Constant-time comparison",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "Hash chain",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Blockchain",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Proof of work",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Mining nonce",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Consensus",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Collision attack",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Chosen-prefix collision",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Modulo",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "GCD",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "Coprime",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "Euler totient",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "Euler theorem",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "Modular inverse",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "Extended Euclidean algorithm",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "Modular exponentiation",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "Diffie–Hellman",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "Discrete logarithm problem",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "Cyclic group",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "Generator",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "KDF",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "ECDHE",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "Forward secrecy",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "RSA",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "RSA modulus",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "Public exponent",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "Private exponent",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "Textbook RSA",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "Deterministic encryption",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "PEM",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "DER",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "OAEP",
+      "lesson": "oaep",
+      "questions": 3
+    },
+    {
+      "term": "PKCS#1 v1.5 encryption",
+      "lesson": "oaep",
+      "questions": 3
+    },
+    {
+      "term": "MGF1",
+      "lesson": "oaep",
+      "questions": 3
+    },
+    {
+      "term": "OAEP label",
+      "lesson": "oaep",
+      "questions": 3
+    },
+    {
+      "term": "Message length bound",
+      "lesson": "oaep",
+      "questions": 3
+    },
+    {
+      "term": "RSA-PSS",
+      "lesson": "pss",
+      "questions": 3
+    },
+    {
+      "term": "Signature salt",
+      "lesson": "pss",
+      "questions": 3
+    },
+    {
+      "term": "Prehash",
+      "lesson": "pss",
+      "questions": 3
+    },
+    {
+      "term": "Serialization",
+      "lesson": "pss",
+      "questions": 3
+    },
+    {
+      "term": "Signature verification failure",
+      "lesson": "pss",
+      "questions": 3
+    },
+    {
+      "term": "SSH",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "authorized_keys",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "known_hosts",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "Challenge–response",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "TLS",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "HTTPS",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "SSL",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "Transaction binding",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "CIA triad",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "DAD triad",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "AAA",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Base64",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Meet-in-the-middle",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Rail fence",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "MD2",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "MD4",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "MD6",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "Keccak",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "UTF-8",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "SHA-512-crypt",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "Encrypt-then-MAC",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "ASN.1",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "Chinese remainder theorem",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "Ed25519",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "Data integrity",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "System integrity",
+      "lesson": "cia",
+      "questions": 3
+    },
+    {
+      "term": "Least privilege",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Freshness",
+      "lesson": "aaa",
+      "questions": 3
+    },
+    {
+      "term": "Threat model",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Attack surface",
+      "lesson": "risk",
+      "questions": 3
+    },
+    {
+      "term": "Defense in depth",
+      "lesson": "services",
+      "questions": 3
+    },
+    {
+      "term": "CSPRNG",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Key rotation",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "Envelope encryption",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "Certificate chain",
+      "lesson": "hybrid",
+      "questions": 3
+    },
+    {
+      "term": "Domain separation",
+      "lesson": "sign-intro",
+      "questions": 3
+    },
+    {
+      "term": "Ciphertext-only attack",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Chosen-plaintext attack",
+      "lesson": "caesar",
+      "questions": 3
+    },
+    {
+      "term": "Permutation",
+      "lesson": "substitution",
+      "questions": 3
+    },
+    {
+      "term": "Malleability",
+      "lesson": "otp",
+      "questions": 3
+    },
+    {
+      "term": "SubBytes",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Key schedule",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Round key",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Bit-flipping attack",
+      "lesson": "cbc",
+      "questions": 3
+    },
+    {
+      "term": "Counter wraparound",
+      "lesson": "ctr",
+      "questions": 3
+    },
+    {
+      "term": "Exit status",
+      "lesson": "shell",
+      "questions": 3
+    },
+    {
+      "term": "Pigeonhole principle",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "Hash block size",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "Work factor",
+      "lesson": "hash-apps",
+      "questions": 3
+    },
+    {
+      "term": "Secret-prefix MAC",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "Tag truncation",
+      "lesson": "hmac",
+      "questions": 3
+    },
+    {
+      "term": "Target threshold",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Fork",
+      "lesson": "blockchain",
+      "questions": 3
+    },
+    {
+      "term": "Bézout identity",
+      "lesson": "number-theory",
+      "questions": 3
+    },
+    {
+      "term": "Computational Diffie–Hellman problem",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "Small-subgroup attack",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "Broadcast attack",
+      "lesson": "rsa",
+      "questions": 3
+    },
+    {
+      "term": "RSAES-OAEP",
+      "lesson": "oaep",
+      "questions": 3
+    },
+    {
+      "term": "Decryption oracle",
+      "lesson": "oaep",
+      "questions": 3
+    },
+    {
+      "term": "RSASSA-PSS",
+      "lesson": "pss",
+      "questions": 3
+    },
+    {
+      "term": "Handshake transcript",
+      "lesson": "protocols",
+      "questions": 3
+    },
+    {
+      "term": "Key distribution",
+      "lesson": "keys",
+      "questions": 3
+    },
+    {
+      "term": "S-box",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "ShiftRows",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "MixColumns",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "AddRoundKey",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Feistel network",
+      "lesson": "aes",
+      "questions": 3
+    },
+    {
+      "term": "Hamming distance",
+      "lesson": "hash-properties",
+      "questions": 3
+    },
+    {
+      "term": "Sponge rate",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "Sponge capacity",
+      "lesson": "hash-algorithms",
+      "questions": 3
+    },
+    {
+      "term": "ElGamal encryption",
+      "lesson": "dh",
+      "questions": 3
+    },
+    {
+      "term": "Integrated Encryption Scheme",
+      "lesson": "dh",
+      "questions": 3
+    }
+  ],
+  "sections": [
+    {
+      "lesson": "cia",
+      "section": 1,
+      "title": "CIA: ba câu hỏi trước mọi giải pháp",
+      "questions": 12
+    },
+    {
+      "lesson": "cia",
+      "section": 2,
+      "title": "DAD: nhìn sự cố qua hậu quả",
+      "questions": 12
+    },
+    {
+      "lesson": "cia",
+      "section": 3,
+      "title": "Ví dụ có ranh giới rõ ràng",
+      "questions": 21
+    },
+    {
+      "lesson": "aaa",
+      "section": 1,
+      "title": "Năm bước dễ bị trộn lẫn",
+      "questions": 15
+    },
+    {
+      "lesson": "aaa",
+      "section": 2,
+      "title": "Nhật ký có ích khi gắn với hành động",
+      "questions": 9
+    },
+    {
+      "lesson": "aaa",
+      "section": 3,
+      "title": "Xác thực đúng đối tượng",
+      "questions": 15
+    },
+    {
+      "lesson": "risk",
+      "section": 1,
+      "title": "Từ vật cần bảo vệ đến hành vi gây hại",
+      "questions": 21
+    },
+    {
+      "lesson": "risk",
+      "section": 2,
+      "title": "Phân loại tấn công theo hai trục",
+      "questions": 12
+    },
+    {
+      "lesson": "risk",
+      "section": 3,
+      "title": "Rủi ro và giới hạn của biện pháp",
+      "questions": 15
+    },
+    {
+      "lesson": "services",
+      "section": 1,
+      "title": "Dịch vụ trả lời “cần được bảo đảm gì”",
+      "questions": 9
+    },
+    {
+      "lesson": "services",
+      "section": 2,
+      "title": "Đừng suy rộng lời bảo đảm",
+      "questions": 3
+    },
+    {
+      "lesson": "services",
+      "section": 3,
+      "title": "Ghép cơ chế theo tình huống",
+      "questions": 27
+    },
+    {
+      "lesson": "keys",
+      "section": 1,
+      "title": "Một phép mã hóa gồm những gì?",
+      "questions": 18
+    },
+    {
+      "lesson": "keys",
+      "section": 2,
+      "title": "Khóa đối xứng và khóa bất đối xứng",
+      "questions": 12
+    },
+    {
+      "lesson": "keys",
+      "section": 3,
+      "title": "Vấn đề nằm ở phân phối và vòng đời",
+      "questions": 18
+    },
+    {
+      "lesson": "hybrid",
+      "section": 1,
+      "title": "Vì sao kết hợp hai họ mật mã?",
+      "questions": 9
+    },
+    {
+      "lesson": "hybrid",
+      "section": 2,
+      "title": "Khóa công khai cần gắn với danh tính",
+      "questions": 15
+    },
+    {
+      "lesson": "hybrid",
+      "section": 3,
+      "title": "Đặt đúng giả định khi kiểm chứng",
+      "questions": 12
+    },
+    {
+      "lesson": "sign-intro",
+      "section": 1,
+      "title": "Ba công cụ trả lời ba câu khác nhau",
+      "questions": 12
+    },
+    {
+      "lesson": "sign-intro",
+      "section": 2,
+      "title": "Ký không đơn giản là đảo chiều mã hóa",
+      "questions": 9
+    },
+    {
+      "lesson": "sign-intro",
+      "section": 3,
+      "title": "Bảo vệ đúng ngữ cảnh",
+      "questions": 9
+    },
+    {
+      "lesson": "caesar",
+      "section": 1,
+      "title": "Phép dịch chỉ có 26 khả năng",
+      "questions": 6
+    },
+    {
+      "lesson": "caesar",
+      "section": 2,
+      "title": "Hai cách tấn công",
+      "questions": 15
+    },
+    {
+      "lesson": "caesar",
+      "section": 3,
+      "title": "An toàn dưới giả định nào?",
+      "questions": 6
+    },
+    {
+      "lesson": "substitution",
+      "section": 1,
+      "title": "Nhiều khóa vẫn có thể lộ cấu trúc",
+      "questions": 14
+    },
+    {
+      "lesson": "substitution",
+      "section": 2,
+      "title": "Từ phỏng đoán tới bằng chứng",
+      "questions": 17
+    },
+    {
+      "lesson": "substitution",
+      "section": 3,
+      "title": "Các cách thay đổi cấu trúc",
+      "questions": 18
+    },
+    {
+      "lesson": "otp",
+      "section": 1,
+      "title": "Phép XOR theo từng bit",
+      "questions": 6
+    },
+    {
+      "lesson": "otp",
+      "section": 2,
+      "title": "Perfect secrecy có đủ điều kiện",
+      "questions": 9
+    },
+    {
+      "lesson": "otp",
+      "section": 3,
+      "title": "Hai lỗi cần tách biệt",
+      "questions": 9
+    },
+    {
+      "lesson": "aes",
+      "section": 1,
+      "title": "Thuật toán cơ sở và mode",
+      "questions": 27
+    },
+    {
+      "lesson": "aes",
+      "section": 2,
+      "title": "Các con số dễ đọc sai",
+      "questions": 18
+    },
+    {
+      "lesson": "aes",
+      "section": 3,
+      "title": "Số bit chưa đủ cho kết luận",
+      "questions": 15
+    },
+    {
+      "lesson": "cbc",
+      "section": 1,
+      "title": "ECB giữ quan hệ bằng nhau",
+      "questions": 7
+    },
+    {
+      "lesson": "cbc",
+      "section": 2,
+      "title": "CBC liên kết khối",
+      "questions": 24
+    },
+    {
+      "lesson": "cbc",
+      "section": 3,
+      "title": "Đệm và kênh báo lỗi",
+      "questions": 24
+    },
+    {
+      "lesson": "ctr",
+      "section": 1,
+      "title": "Ba cách tạo dòng khóa",
+      "questions": 12
+    },
+    {
+      "lesson": "ctr",
+      "section": 2,
+      "title": "Phụ thuộc và tính song song",
+      "questions": 9
+    },
+    {
+      "lesson": "ctr",
+      "section": 3,
+      "title": "Không được tạo trùng đầu vào",
+      "questions": 15
+    },
+    {
+      "lesson": "shell",
+      "section": 1,
+      "title": "Lệnh là chuỗi biến đổi dữ liệu",
+      "questions": 29
+    },
+    {
+      "lesson": "shell",
+      "section": 2,
+      "title": "Đọc tr và dấu nháy",
+      "questions": 26
+    },
+    {
+      "lesson": "shell",
+      "section": 3,
+      "title": "Đọc ví dụ OpenSSL có giới hạn",
+      "questions": 6
+    },
+    {
+      "lesson": "hash-properties",
+      "section": 1,
+      "title": "Hash khác Encryption như thế nào?",
+      "questions": 14
+    },
+    {
+      "lesson": "hash-properties",
+      "section": 2,
+      "title": "Phân biệt ba yêu cầu kháng tấn công",
+      "questions": 12
+    },
+    {
+      "lesson": "hash-properties",
+      "section": 3,
+      "title": "Avalanche effect cho biết điều gì?",
+      "questions": 6
+    },
+    {
+      "lesson": "hash-algorithms",
+      "section": 1,
+      "title": "Các họ thuật toán",
+      "questions": 30
+    },
+    {
+      "lesson": "hash-algorithms",
+      "section": 2,
+      "title": "Merkle–Damgård và sponge",
+      "questions": 18
+    },
+    {
+      "lesson": "hash-algorithms",
+      "section": 3,
+      "title": "Công cụ phải thống nhất định dạng",
+      "questions": 14
+    },
+    {
+      "lesson": "hash-apps",
+      "section": 1,
+      "title": "Kiểm tra tệp cần giá trị tham chiếu đáng tin",
+      "questions": 6
+    },
+    {
+      "lesson": "hash-apps",
+      "section": 2,
+      "title": "Cam kết trước, công bố sau",
+      "questions": 12
+    },
+    {
+      "lesson": "hash-apps",
+      "section": 3,
+      "title": "Vì sao mật khẩu cần chống dò ngoại tuyến?",
+      "questions": 12
+    },
+    {
+      "lesson": "hmac",
+      "section": 1,
+      "title": "Hash không khóa không xác thực nguồn",
+      "questions": 6
+    },
+    {
+      "lesson": "hmac",
+      "section": 2,
+      "title": "Nguy cơ của secret-prefix MAC",
+      "questions": 6
+    },
+    {
+      "lesson": "hmac",
+      "section": 3,
+      "title": "Cấu trúc HMAC chuẩn",
+      "questions": 23
+    },
+    {
+      "lesson": "blockchain",
+      "section": 1,
+      "title": "Liên kết dữ liệu bằng Hash",
+      "questions": 6
+    },
+    {
+      "lesson": "blockchain",
+      "section": 2,
+      "title": "Proof of work và cách chọn lịch sử",
+      "questions": 15
+    },
+    {
+      "lesson": "blockchain",
+      "section": 3,
+      "title": "Đối thủ được chọn những dữ liệu nào?",
+      "questions": 6
+    },
+    {
+      "lesson": "number-theory",
+      "section": 1,
+      "title": "Đồng dư và hai số nguyên tố cùng nhau",
+      "questions": 9
+    },
+    {
+      "lesson": "number-theory",
+      "section": 2,
+      "title": "Hàm φ và điều kiện của định lý Euler",
+      "questions": 6
+    },
+    {
+      "lesson": "number-theory",
+      "section": 3,
+      "title": "Tính nhanh và kiểm tra kết quả",
+      "questions": 12
+    },
+    {
+      "lesson": "dh",
+      "section": 1,
+      "title": "Hai bên tính bí mật chung như thế nào?",
+      "questions": 9
+    },
+    {
+      "lesson": "dh",
+      "section": 2,
+      "title": "Độ khó và điều kiện của tham số",
+      "questions": 18
+    },
+    {
+      "lesson": "dh",
+      "section": 3,
+      "title": "Trao đổi khóa chưa đủ để xác thực danh tính",
+      "questions": 15
+    },
+    {
+      "lesson": "rsa",
+      "section": 1,
+      "title": "Tạo khóa và tính RSA bằng ví dụ nhỏ",
+      "questions": 17
+    },
+    {
+      "lesson": "rsa",
+      "section": 2,
+      "title": "Vì sao không dùng trực tiếp Textbook RSA?",
+      "questions": 9
+    },
+    {
+      "lesson": "rsa",
+      "section": 3,
+      "title": "Định dạng khóa và công cụ",
+      "questions": 25
+    },
+    {
+      "lesson": "oaep",
+      "section": 1,
+      "title": "OAEP chuẩn bị dữ liệu trước phép RSA",
+      "questions": 15
+    },
+    {
+      "lesson": "oaep",
+      "section": 2,
+      "title": "Tính giới hạn độ dài thông điệp",
+      "questions": 9
+    },
+    {
+      "lesson": "oaep",
+      "section": 3,
+      "title": "Đọc lệnh mã hóa và giải mã OAEP",
+      "questions": 33
+    },
+    {
+      "lesson": "pss",
+      "section": 1,
+      "title": "RSA-PSS tạo và kiểm tra chữ ký",
+      "questions": 9
+    },
+    {
+      "lesson": "pss",
+      "section": 2,
+      "title": "Thống nhất dữ liệu và tham số ở hai bên",
+      "questions": 9
+    },
+    {
+      "lesson": "pss",
+      "section": 3,
+      "title": "Thử cả trường hợp hợp lệ và phải từ chối",
+      "questions": 24
+    },
+    {
+      "lesson": "protocols",
+      "section": 1,
+      "title": "SSH cần xác thực cả máy khách lẫn máy chủ",
+      "questions": 19
+    },
+    {
+      "lesson": "protocols",
+      "section": 2,
+      "title": "TLS bảo vệ kết nối như thế nào?",
+      "questions": 12
+    },
+    {
+      "lesson": "protocols",
+      "section": 3,
+      "title": "Thẻ chip và nội dung giao dịch được ký",
+      "questions": 6
+    }
+  ]
+}

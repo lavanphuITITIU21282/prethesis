@@ -1,0 +1,33 @@
+{
+  "id": "aes",
+  "assetStem": "aes-practice-v2",
+  "name": "Hàn Ngọc Linh Kiếm",
+  "category": "pháp bảo",
+  "deep": "#253e54",
+  "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese sword cultivator in sapphire and silver hanfu stands beside the suspended sword with his hand resting near its hilt. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE magnificent crystalline jade sword suspended diagonally from LOWER CENTER to UPPER RIGHT in a serene ice grotto, its clear blade encasing a soft blue inner light. A restrained symmetrical frost geometry around the hilt and one smooth stone plinth beneath. Ice cyan, sapphire, silver, ivory; precise strength and serene protection, no busy particle storm.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese sword cultivator in sapphire and silver hanfu stands beside the suspended sword with his hand resting near its hilt. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE magnificent crystalline jade sword suspended diagonally from LOWER CENTER to UPPER RIGHT in a serene ice grotto, its clear blade encasing a soft blue inner light. A restrained symmetrical frost geometry around the hilt and one smooth stone plinth beneath. Ice cyan, sapphire, silver, ivory; precise strength and serene protection, no busy particle storm.",
+  "generator": "Built-in ImageGen; person paired with cultivation object",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/aes-practice-v2-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 34956
+    },
+    {
+      "url": "/assets/practice-lesson-art/aes-practice-v2-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 127020
+    },
+    {
+      "url": "/assets/practice-lesson-art/aes-practice-v2.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 284524
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/aes-practice-v2.png"
+}

@@ -1,0 +1,313 @@
+/* Per-lesson practice artwork; no rules match chapter-only or whole-bank scopes. */
+body[data-page='quiz'][data-practice-lesson='cia'] {
+  --practice-photo: url('/assets/practice-lesson-art/cia-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/cia-practice-v1-960.webp');
+  --practice-deep: #244b38;
+  --practice-left: #244b38f5;
+  --practice-mid: #244b38d9;
+  --practice-wash: #244b3855;
+}
+body[data-page='quiz'][data-practice-lesson='aaa'] {
+  --practice-photo: url('/assets/practice-lesson-art/aaa-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/aaa-practice-v1-960.webp');
+  --practice-deep: #42334e;
+  --practice-left: #42334ef5;
+  --practice-mid: #42334ed9;
+  --practice-wash: #42334e55;
+}
+body[data-page='quiz'][data-practice-lesson='risk'] {
+  --practice-photo: url('/assets/practice-lesson-art/risk-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/risk-practice-v1-960.webp');
+  --practice-deep: #56352c;
+  --practice-left: #56352cf5;
+  --practice-mid: #56352cd9;
+  --practice-wash: #56352c55;
+}
+body[data-page='quiz'][data-practice-lesson='services'] {
+  --practice-photo: url('/assets/practice-lesson-art/services-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/services-practice-v1-960.webp');
+  --practice-deep: #2e4e42;
+  --practice-left: #2e4e42f5;
+  --practice-mid: #2e4e42d9;
+  --practice-wash: #2e4e4255;
+}
+body[data-page='quiz'][data-practice-lesson='keys'] {
+  --practice-photo: url('/assets/practice-lesson-art/keys-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/keys-practice-v1-960.webp');
+  --practice-deep: #283f3d;
+  --practice-left: #283f3df5;
+  --practice-mid: #283f3dd9;
+  --practice-wash: #283f3d55;
+}
+body[data-page='quiz'][data-practice-lesson='hybrid'] {
+  --practice-photo: url('/assets/practice-lesson-art/hybrid-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/hybrid-practice-v1-960.webp');
+  --practice-deep: #214b4c;
+  --practice-left: #214b4cf5;
+  --practice-mid: #214b4cd9;
+  --practice-wash: #214b4c55;
+}
+body[data-page='quiz'][data-practice-lesson='sign-intro'] {
+  --practice-photo: url('/assets/practice-lesson-art/sign-intro-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/sign-intro-practice-v2-960.webp');
+  --practice-deep: #413b2c;
+  --practice-left: #413b2cf5;
+  --practice-mid: #413b2cd9;
+  --practice-wash: #413b2c55;
+}
+body[data-page='quiz'][data-practice-lesson='caesar'] {
+  --practice-photo: url('/assets/practice-lesson-art/caesar-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/caesar-practice-v2-960.webp');
+  --practice-deep: #4b3c2a;
+  --practice-left: #4b3c2af5;
+  --practice-mid: #4b3c2ad9;
+  --practice-wash: #4b3c2a55;
+}
+body[data-page='quiz'][data-practice-lesson='substitution'] {
+  --practice-photo: url('/assets/practice-lesson-art/substitution-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/substitution-practice-v2-960.webp');
+  --practice-deep: #44324b;
+  --practice-left: #44324bf5;
+  --practice-mid: #44324bd9;
+  --practice-wash: #44324b55;
+}
+body[data-page='quiz'][data-practice-lesson='otp'] {
+  --practice-photo: url('/assets/practice-lesson-art/otp-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/otp-practice-v2-960.webp');
+  --practice-deep: #273c50;
+  --practice-left: #273c50f5;
+  --practice-mid: #273c50d9;
+  --practice-wash: #273c5055;
+}
+body[data-page='quiz'][data-practice-lesson='aes'] {
+  --practice-photo: url('/assets/practice-lesson-art/aes-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/aes-practice-v2-960.webp');
+  --practice-deep: #253e54;
+  --practice-left: #253e54f5;
+  --practice-mid: #253e54d9;
+  --practice-wash: #253e5455;
+}
+body[data-page='quiz'][data-practice-lesson='cbc'] {
+  --practice-photo: url('/assets/practice-lesson-art/cbc-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/cbc-practice-v1-960.webp');
+  --practice-deep: #2c4a3c;
+  --practice-left: #2c4a3cf5;
+  --practice-mid: #2c4a3cd9;
+  --practice-wash: #2c4a3c55;
+}
+body[data-page='quiz'][data-practice-lesson='ctr'] {
+  --practice-photo: url('/assets/practice-lesson-art/ctr-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/ctr-practice-v2-960.webp');
+  --practice-deep: #294552;
+  --practice-left: #294552f5;
+  --practice-mid: #294552d9;
+  --practice-wash: #29455255;
+}
+body[data-page='quiz'][data-practice-lesson='shell'] {
+  --practice-photo: url('/assets/practice-lesson-art/shell-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/shell-practice-v2-960.webp');
+  --practice-deep: #49412f;
+  --practice-left: #49412ff5;
+  --practice-mid: #49412fd9;
+  --practice-wash: #49412f55;
+}
+body[data-page='quiz'][data-practice-lesson='hash-properties'] {
+  --practice-photo: url('/assets/practice-lesson-art/hash-properties-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/hash-properties-practice-v2-960.webp');
+  --practice-deep: #3c3c50;
+  --practice-left: #3c3c50f5;
+  --practice-mid: #3c3c50d9;
+  --practice-wash: #3c3c5055;
+}
+body[data-page='quiz'][data-practice-lesson='hash-algorithms'] {
+  --practice-photo: url('/assets/practice-lesson-art/hash-algorithms-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/hash-algorithms-practice-v2-960.webp');
+  --practice-deep: #273f50;
+  --practice-left: #273f50f5;
+  --practice-mid: #273f50d9;
+  --practice-wash: #273f5055;
+}
+body[data-page='quiz'][data-practice-lesson='hash-apps'] {
+  --practice-photo: url('/assets/practice-lesson-art/hash-apps-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/hash-apps-practice-v2-960.webp');
+  --practice-deep: #334c37;
+  --practice-left: #334c37f5;
+  --practice-mid: #334c37d9;
+  --practice-wash: #334c3755;
+}
+body[data-page='quiz'][data-practice-lesson='hmac'] {
+  --practice-photo: url('/assets/practice-lesson-art/hmac-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/hmac-practice-v2-960.webp');
+  --practice-deep: #4b3430;
+  --practice-left: #4b3430f5;
+  --practice-mid: #4b3430d9;
+  --practice-wash: #4b343055;
+}
+body[data-page='quiz'][data-practice-lesson='blockchain'] {
+  --practice-photo: url('/assets/practice-lesson-art/blockchain-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/blockchain-practice-v1-960.webp');
+  --practice-deep: #353d50;
+  --practice-left: #353d50f5;
+  --practice-mid: #353d50d9;
+  --practice-wash: #353d5055;
+}
+body[data-page='quiz'][data-practice-lesson='number-theory'] {
+  --practice-photo: url('/assets/practice-lesson-art/number-theory-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/number-theory-practice-v2-960.webp');
+  --practice-deep: #333d52;
+  --practice-left: #333d52f5;
+  --practice-mid: #333d52d9;
+  --practice-wash: #333d5255;
+}
+body[data-page='quiz'][data-practice-lesson='dh'] {
+  --practice-photo: url('/assets/practice-lesson-art/dh-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/dh-practice-v1-960.webp');
+  --practice-deep: #454434;
+  --practice-left: #454434f5;
+  --practice-mid: #454434d9;
+  --practice-wash: #45443455;
+}
+body[data-page='quiz'][data-practice-lesson='rsa'] {
+  --practice-photo: url('/assets/practice-lesson-art/rsa-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/rsa-practice-v2-960.webp');
+  --practice-deep: #394043;
+  --practice-left: #394043f5;
+  --practice-mid: #394043d9;
+  --practice-wash: #39404355;
+}
+body[data-page='quiz'][data-practice-lesson='oaep'] {
+  --practice-photo: url('/assets/practice-lesson-art/oaep-practice-v2.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/oaep-practice-v2-960.webp');
+  --practice-deep: #4a4334;
+  --practice-left: #4a4334f5;
+  --practice-mid: #4a4334d9;
+  --practice-wash: #4a433455;
+}
+body[data-page='quiz'][data-practice-lesson='pss'] {
+  --practice-photo: url('/assets/practice-lesson-art/pss-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/pss-practice-v1-960.webp');
+  --practice-deep: #36404e;
+  --practice-left: #36404ef5;
+  --practice-mid: #36404ed9;
+  --practice-wash: #36404e55;
+}
+body[data-page='quiz'][data-practice-lesson='protocols'] {
+  --practice-photo: url('/assets/practice-lesson-art/protocols-practice-v1.webp');
+  --practice-photo-small: url('/assets/practice-lesson-art/protocols-practice-v1-960.webp');
+  --practice-deep: #4d4133;
+  --practice-left: #4d4133f5;
+  --practice-mid: #4d4133d9;
+  --practice-wash: #4d413355;
+}
+body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) {
+  --practice-display-photo: var(--practice-photo);
+}
+body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .workspace::before {
+  background-image: linear-gradient(180deg, #eadfd5c9, #eadfd5e8), var(--practice-display-photo);
+  background-position: 75% center;
+}
+body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-hero {
+  background: var(--practice-deep);
+}
+body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-hero::before {
+  background: linear-gradient(
+    90deg,
+    var(--practice-left),
+    var(--practice-mid) 39%,
+    var(--practice-wash) 69%,
+    transparent 95%
+  );
+}
+body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson=''])
+  .practice-hero
+  .practice-diptych
+  img:first-child {
+  object-position: 75% center;
+}
+body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-run-masthead {
+  background: var(--practice-deep);
+}
+body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson=''])
+  .practice-run-masthead
+  > img {
+  object-position: 78% center;
+}
+body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-lesson-tag {
+  display: inline-block;
+  max-width: 100%;
+  margin-top: 18px;
+  padding: 7px 10px;
+  border: 1px solid #d8bd7e70;
+  background: #cdb88712;
+  color: #f3e4c3;
+  font-size: 0.74rem;
+  line-height: 1.65;
+  font-weight: 600;
+}
+body.dark[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson=''])
+  .workspace::before {
+  background-image: linear-gradient(180deg, #201a2488, #201a24d4), var(--practice-display-photo);
+}
+@media (max-width: 760px) {
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) {
+    --practice-display-photo: var(--practice-photo-small);
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-hero {
+    min-height: 0;
+    background: var(--practice-deep);
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-hero-copy {
+    padding: 32px 27px 28px;
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson=''])
+    .practice-hero
+    .practice-diptych {
+    position: relative;
+    inset: auto;
+    width: auto;
+    height: auto;
+    max-height: none;
+    margin: 0 17px 19px;
+    z-index: 0;
+    min-height: 0;
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson=''])
+    .practice-hero
+    .practice-diptych
+    img:first-child {
+    width: 100%;
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 2/1;
+    object-fit: contain;
+    border: 1px solid #d8bd7e70;
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson=''])
+    .practice-hero::before {
+    background: linear-gradient(140deg, var(--practice-deep), #161d201a);
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-art-seal {
+    right: 12px;
+    bottom: 12px;
+    font-size: 17px;
+    padding: 5px 6px;
+    opacity: 0.85;
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-lesson-tag {
+    font-size: 0.7rem;
+    margin-top: 14px;
+  }
+}
+@media print {
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .workspace::before {
+    display: none !important;
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-hero {
+    background: white;
+  }
+  body[data-page='quiz'][data-practice-lesson]:not([data-practice-lesson='']) .practice-lesson-tag {
+    color: black;
+    background: white;
+    border-color: #777;
+  }
+}

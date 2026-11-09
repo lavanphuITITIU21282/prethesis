@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" fill="none">
+<defs>
+ <radialGradient id="halo"><stop stop-color="#c7ac73" stop-opacity=".2"/><stop offset="1" stop-color="#c7ac73" stop-opacity="0"/></radialGradient>
+ <linearGradient id="moon" x1="272" y1="38" x2="330" y2="105" gradientUnits="userSpaceOnUse"><stop stop-color="#ddc78e"/><stop offset="1" stop-color="#af8750"/></linearGradient>
+ <g id="bloom"><path d="M0-2C-10-16-18-3-7 3C-21 9-9 20-2 9C2 24 16 13 8 5C23 2 14-12 5-6C8-23-8-23 0-2Z" fill="#b75d52" fill-opacity=".85"/><path d="M0 0-4-7M0 0 6-5M0 0 7 4M0 0-2 8M0 0-8 2" stroke="#e9c687" stroke-width=".9"/><circle r="2.1" fill="#e6c482"/></g>
+ <g id="bud"><path d="M-3 4C-10-6 2-12 6-4C9 2 1 8-3 4Z" fill="#b75d52"/><path d="m-3 4 3 4 4-3" stroke="#8d805e" stroke-width="1.2"/></g>
+</defs>
+<circle cx="299" cy="76" r="73" fill="url(#halo)"/>
+<circle cx="299" cy="76" r="35" fill="url(#moon)" fill-opacity=".64"/>
+<path d="M282 46C261 69 282 113 314 107C285 128 246 90 263 62" stroke="#bd9d65" stroke-opacity=".5"/>
+<path d="M255 91h-35c-14 0-18-9-9-14 8-5 19 2 12 6h33M323 61h34c18 0 24-8 16-13-5-4-15-1-13 4h-24" stroke="#ae925d" stroke-width="1.1" stroke-linecap="round" opacity=".65"/>
+<path d="M399 228c-45-4-68-26-98-35-38-11-72-4-103-22-18-10-24-27-40-35-21-11-47-9-69-17-20-7-28-23-49-27" stroke="#66735a" stroke-width="5.5" stroke-linecap="round"/>
+<path d="M399 228c-40-7-63-32-91-41-31-9-67-8-95-19M302 191c-16-22-19-42-35-56-18-16-39-18-55-36M218 172c-9-26-4-44-15-61-7-10-20-15-28-28M164 139c-11-22-4-44-20-60M106 124c-9 8-28 15-47 11M276 144c8-18 8-30 5-44M201 108c11-12 15-23 13-37" stroke="#7f805e" stroke-width="2" stroke-linecap="round"/>
+<path d="M143 80c-7-10-9-18-9-26M61 135l-20 4M212 99l-9-17M281 101l8-17M40 92l-18-3" stroke="#8a8761" stroke-width="1.2" stroke-linecap="round"/>
+<use href="#bloom" transform="translate(147 79) rotate(-23) scale(.9)"/>
+<use href="#bloom" transform="translate(175 86) rotate(24) scale(.66)"/>
+<use href="#bloom" transform="translate(212 101) rotate(5) scale(1.06)"/>
+<use href="#bloom" transform="translate(274 139) rotate(-15) scale(.86)"/>
+<use href="#bloom" transform="translate(92 119) rotate(32) scale(.76)"/>
+<use href="#bloom" transform="translate(41 94) rotate(-12) scale(.6)"/>
+<use href="#bloom" transform="translate(303 190) rotate(38) scale(.9)"/>
+<use href="#bud" transform="translate(134 55) rotate(-18) scale(.65)"/>
+<use href="#bud" transform="translate(215 72) rotate(20) scale(.7)"/>
+<use href="#bud" transform="translate(289 84) rotate(12) scale(.75)"/>
+<use href="#bud" transform="translate(61 135) rotate(-72) scale(.65)"/>
+<path d="M250 168c7 2 8 5 4 9-6-1-9-5-4-9M119 159c5 4 5 7 0 9-5-3-6-7 0-9M323 116c6 1 9 4 5 8-6 0-9-4-5-8" fill="#bd6b5a" fill-opacity=".55"/>
+</svg>

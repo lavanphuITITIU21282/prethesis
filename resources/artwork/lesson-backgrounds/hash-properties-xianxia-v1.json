@@ -1,0 +1,32 @@
+{
+  "id": "hash-properties",
+  "assetStem": "hash-properties-xianxia-v1",
+  "name": "Bóng người trong Hồ Ký Ức",
+  "emotion": "hoài niệm, bâng khuâng",
+  "scene": "A still immortal memory lake, VIEW FROM BEHIND a seated traveler on the LEFT foreground. The traveler touches a small carved jade memory stone; on the mirror-like water near CENTER a faint luminous reflection suggests an old childhood friendship, while mist covers a far pavilion ruin at RIGHT. One quiet white heron stands nearby. Lavender grey, pale jade, muted blue and ivory. Nostalgia and gentle melancholy, no horror, no giant moon.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: hoài niệm, bâng khuâng. A still immortal memory lake, VIEW FROM BEHIND a seated traveler on the LEFT foreground. The traveler touches a small carved jade memory stone; on the mirror-like water near CENTER a faint luminous reflection suggests an old childhood friendship, while mist covers a far pavilion ruin at RIGHT. One quiet white heron stands nearby. Lavender grey, pale jade, muted blue and ivory. Nostalgia and gentle melancholy, no horror, no giant moon.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/hash-properties-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 42226
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hash-properties-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 152132
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hash-properties-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 320414
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/hash-properties-xianxia-v1.png"
+}

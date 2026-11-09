@@ -1,0 +1,146 @@
+@layer components {
+  .study-guide {
+    margin-top: 30px;
+  }
+  .study-guide > section {
+    margin: 30px 0;
+  }
+  .study-guide h3 {
+    font-family: Cambria, Georgia, serif;
+    font-size: 1.3rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: var(--ink);
+  }
+  .study-guide p,
+  .study-guide li {
+    font-size: 1rem;
+    line-height: 1.95;
+    overflow-wrap: anywhere;
+  }
+  .study-reading-note {
+    display: grid;
+    gap: 6px;
+    border-left: 3px solid var(--green);
+    padding: 14px 18px;
+    background: var(--tint);
+    font-size: 0.8rem;
+    line-height: 1.8;
+  }
+  .study-reading-note span {
+    color: var(--muted);
+  }
+  .study-example {
+    padding: 23px;
+    border: 1px solid var(--line);
+    border-top: 3px solid #b49562;
+    background: var(--soft);
+    border-radius: 4px;
+  }
+  .study-example ol {
+    padding-left: 26px;
+  }
+  .study-example li + li {
+    margin-top: 15px;
+  }
+  .study-example li::marker {
+    color: var(--green);
+    font-weight: 700;
+  }
+  .study-concepts .study-term {
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    margin: 10px 0;
+  }
+  .study-term summary {
+    padding: 14px 17px;
+    font-size: 0.95rem;
+    font-weight: 650;
+  }
+  .study-term > div {
+    padding: 4px 17px 18px;
+  }
+  .study-term p {
+    font-size: 0.9rem;
+  }
+  .study-command {
+    margin: 22px 0;
+    padding-bottom: 24px;
+    border-bottom: 1px solid var(--line);
+  }
+  .study-command h4 {
+    font-size: 1rem;
+    margin-bottom: 14px;
+  }
+  .study-command > p {
+    font-size: 0.9rem;
+  }
+  .study-command pre {
+    margin: 16px 0;
+  }
+  .study-command dl {
+    padding: 16px 0;
+  }
+  .study-command dt {
+    font-weight: 700;
+    margin-top: 18px;
+    overflow-wrap: anywhere;
+  }
+  .study-command dd {
+    margin: 6px 0 0;
+    line-height: 1.9;
+    font-size: 0.9rem;
+  }
+  .study-checkpoint {
+    border-left: 3px solid #ae684b;
+    background: var(--surface);
+    padding: 22px;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .study-checkpoint details {
+    margin-bottom: 0;
+  }
+  .study-checkpoint details > div {
+    padding-top: 15px;
+  }
+  .study-source-figure {
+    margin: 20px 0;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    overflow: hidden;
+    background: var(--surface);
+  }
+  .study-source-figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .study-source-figure figcaption {
+    padding: 15px;
+    font-size: 0.76rem;
+    color: var(--muted);
+    line-height: 1.8;
+  }
+}
+@layer responsive {
+  @media (max-width: 760px) {
+    .study-example,
+    .study-checkpoint {
+      padding: 18px 15px;
+    }
+    .study-guide h3 {
+      font-size: 1.13rem;
+    }
+    .study-guide p,
+    .study-guide li {
+      font-size: 0.97rem;
+    }
+    .study-term summary {
+      padding: 12px;
+    }
+    .study-term > div {
+      padding: 3px 12px 15px;
+    }
+  }
+}

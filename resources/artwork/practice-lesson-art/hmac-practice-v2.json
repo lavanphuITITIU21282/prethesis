@@ -1,0 +1,33 @@
+{
+  "id": "hmac",
+  "assetStem": "hmac-practice-v2",
+  "name": "Đồng Tâm Song Phù",
+  "category": "phù triện",
+  "deep": "#4b3430",
+  "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese talisman artisan in indigo and burgundy hanfu ties the red cord between the two talismans. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A SINGLE BONDED PAIR of matching ivory-and-burgundy paper talismans at RIGHT, linked by one delicate red cord and one warm golden seal-like light between them. Abstract non-lettered strokes echo on both papers, a quiet rain-streaked pavilion wall far behind. Amber, indigo, burgundy, ivory; intimacy and trust, no extra faces or animals.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese talisman artisan in indigo and burgundy hanfu ties the red cord between the two talismans. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A SINGLE BONDED PAIR of matching ivory-and-burgundy paper talismans at RIGHT, linked by one delicate red cord and one warm golden seal-like light between them. Abstract non-lettered strokes echo on both papers, a quiet rain-streaked pavilion wall far behind. Amber, indigo, burgundy, ivory; intimacy and trust, no extra faces or animals.",
+  "generator": "Built-in ImageGen; person paired with cultivation object",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/hmac-practice-v2-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 32986
+    },
+    {
+      "url": "/assets/practice-lesson-art/hmac-practice-v2-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 110806
+    },
+    {
+      "url": "/assets/practice-lesson-art/hmac-practice-v2.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 238368
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/hmac-practice-v2.png"
+}

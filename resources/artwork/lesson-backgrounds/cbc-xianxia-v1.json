@@ -1,0 +1,32 @@
+{
+  "id": "cbc",
+  "assetStem": "cbc-xianxia-v1",
+  "name": "Bạn đường qua suối ngọc",
+  "emotion": "ấm áp, đồng hành",
+  "scene": "A lush immortal bamboo ravine viewed from a HIGH DIAGONAL bank. Three traveling companions cross a winding line of stepping stones over jade water; the leading swordsman at UPPER LEFT reaches back to help a friend in CENTER while a playful spirit deer follows at LOWER RIGHT. One orange traveling lantern reflected in water, layered bamboo and a distant hanging waterfall. Fresh green, turquoise, honey gold. Friendship, warmth and shared effort, no palace or moon.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: ấm áp, đồng hành. A lush immortal bamboo ravine viewed from a HIGH DIAGONAL bank. Three traveling companions cross a winding line of stepping stones over jade water; the leading swordsman at UPPER LEFT reaches back to help a friend in CENTER while a playful spirit deer follows at LOWER RIGHT. One orange traveling lantern reflected in water, layered bamboo and a distant hanging waterfall. Fresh green, turquoise, honey gold. Friendship, warmth and shared effort, no palace or moon.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/cbc-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 54816
+    },
+    {
+      "url": "/assets/lesson-backgrounds/cbc-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 194112
+    },
+    {
+      "url": "/assets/lesson-backgrounds/cbc-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 411488
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/cbc-xianxia-v1.png"
+}

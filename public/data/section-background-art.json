@@ -1,0 +1,45 @@
+{
+  "generator": "Built-in ImageGen; new compositions without image reference; no CLI",
+  "works": [
+    {
+      "id": "study-background-v2",
+      "prompt": "Use case: stylized-concept. Create a NEW contemporary Chinese historical fantasy painting, wide landscape 2:1, exquisite mineral pigments and fine ink on silk. COMPOSITION: camera INSIDE a spacious ancient scholar library, eye-level three-quarter interior perspective. A large circular moon-gate window is centered slightly LEFT, framing a luminous turquoise bamboo garden and a narrow waterfall outside in soft daylight; NO visible moon. A diagonal lacquered scholar desk dominates the LOWER LEFT foreground with an open ivory scroll, brush rest and small celadon lotus vase. Tall dark carved bookshelves rise on the RIGHT foreground, their perspective leads toward the central window. A small ivory-robed scholar seen from behind stands at the circular opening with a tiny white cat beside them. Muted celadon jade, turquoise daylight, warm walnut wood and antique gold. The architecture, objects and focal composition must be genuinely new: INTERIOR, not a mountain panorama with a pavilion on the far right. Rich tactile details concentrated at the desk and woodwork; soft quiet atmospheric space around the window. Clear depth and large shapes, no busy filigree, no letters, no writing, no text, no watermarks, no border, no website UI.",
+      "width": 1774,
+      "height": 887,
+      "variants": [
+        {
+          "url": "/assets/backgrounds/study-background-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 146156
+        },
+        {
+          "url": "/assets/backgrounds/study-background-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 303782
+        }
+      ]
+    },
+    {
+      "id": "practice-background-v2",
+      "prompt": "Use case: stylized-concept. Create a NEW original contemporary Chinese historical fantasy painting, wide landscape 2:1, finely painted mineral pigment and expressive ink on silk, sophisticated cinematic depth. COMPOSITION: dramatic HIGH THREE-QUARTER VIEW looking down into a vast misty sandstone gorge. One elegant ancient vermilion stone bridge crosses DIAGONALLY from the LOWER RIGHT foreground to an ancient gateway at UPPER LEFT. A lone wandering swordswoman in flowing dark burgundy robes stands at the CENTER of the bridge, full silhouette clearly visible, red ribbon in the wind. A magnificent GOLD AND CINNABAR PHOENIX sweeps across the UPPER CENTER sky with a graceful curved tail echoing the bridge. A broad ivory waterfall descends along the LEFT ravine wall; glowing morning mist and river far below to the RIGHT. Palette warm copper, cinnabar, muted burgundy, sandstone ochre, ivory and a few cool slate shadows. Clear bold composition, detailed carved bridge and phoenix feathers with calm mist areas. NO moon, NO lakeside pavilion at far right, NO observatory or armillary sphere, no familiar mountain-lake panorama. No readable symbols, text, letters, borders, watermarks or UI.",
+      "width": 1774,
+      "height": 887,
+      "variants": [
+        {
+          "url": "/assets/backgrounds/practice-background-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 137784
+        },
+        {
+          "url": "/assets/backgrounds/practice-background-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 294176
+        }
+      ]
+    }
+  ]
+}

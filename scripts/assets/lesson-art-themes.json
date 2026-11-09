@@ -1,0 +1,402 @@
+[
+  {
+    "id": "cia",
+    "assetStem": "cia-xianxia-v1",
+    "name": "Ba ngọn đèn giữa phong ba",
+    "story": "Giữa phong ba, người giữ đèn che chở ba ngọn linh đăng cùng chú linh lộc, quyết không để ánh sáng tắt.",
+    "emotion": "kiên định, bảo bọc",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dce8db",
+      "paper": "#fafbef",
+      "accent": "#81916b",
+      "deep": "#203e30"
+    },
+    "focal": 50
+  },
+  {
+    "id": "aaa",
+    "assetStem": "aaa-xianxia-v1",
+    "name": "Bước đầu vào tiên môn",
+    "story": "Một đệ tử trẻ mang hành lý tới tiên môn, vừa hồi hộp vừa háo hức trước lời chào của vị trưởng bối.",
+    "emotion": "háo hức, hy vọng",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#eadfd5",
+      "paper": "#fff8ef",
+      "accent": "#aa8865",
+      "deep": "#483829"
+    },
+    "focal": 35
+  },
+  {
+    "id": "risk",
+    "assetStem": "risk-xianxia-v1",
+    "name": "Một kiếm qua hẻm lửa",
+    "story": "Nữ kiếm tu đứng chắn trước bạn đồng hành giữa hẻm lửa; nỗi sợ nhường chỗ cho quyết tâm bảo vệ.",
+    "emotion": "sợ hãi, quyết tâm",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#ead8cf",
+      "paper": "#fff5ec",
+      "accent": "#a77652",
+      "deep": "#492c2a"
+    },
+    "focal": 50
+  },
+  {
+    "id": "services",
+    "assetStem": "services-xianxia-v1",
+    "name": "Bình minh ở Dược Cốc",
+    "story": "Người y tu chăm sóc cánh hạc bị mỏi, trong khi học trò mang tới bát dược ấm ở Dược Cốc.",
+    "emotion": "dịu dàng, chữa lành",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dfe9db",
+      "paper": "#fafbee",
+      "accent": "#869775",
+      "deep": "#304b37"
+    },
+    "focal": 30
+  },
+  {
+    "id": "keys",
+    "assetStem": "keys-xianxia-v1",
+    "name": "Hai chìa khóa của Kiếm Lư",
+    "story": "Thầy và trò trong Kiếm Lư cùng tìm cách ghép hai mảnh cơ quan, lặng lẽ khám phá một bí mật cổ.",
+    "emotion": "tập trung, tò mò",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dbe5df",
+      "paper": "#f8faef",
+      "accent": "#9b865e",
+      "deep": "#203d38"
+    },
+    "focal": 50
+  },
+  {
+    "id": "hybrid",
+    "assetStem": "hybrid-xianxia-v1",
+    "name": "Chuyến đò hòa ước",
+    "story": "Hai người từ hai môn phái đối nghịch gặp nhau trên chuyến đò; lòng tin bắt đầu từ một lần trao vật quý.",
+    "emotion": "dè dặt, tin tưởng",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e3dce9",
+      "paper": "#faf6ef",
+      "accent": "#927d9f",
+      "deep": "#352c48"
+    },
+    "focal": 50
+  },
+  {
+    "id": "sign-intro",
+    "assetStem": "sign-intro-xianxia-v1",
+    "name": "Ấn ngọc trước ngày xuống núi",
+    "story": "Trước ngày đệ tử xuống núi, người thầy trao ấn ngọc, mang theo niềm tự hào và chút lưu luyến.",
+    "emotion": "lưu luyến, tự hào",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#ebd9d0",
+      "paper": "#fff7ee",
+      "accent": "#a8765f",
+      "deep": "#47302b"
+    },
+    "focal": 45
+  },
+  {
+    "id": "caesar",
+    "assetStem": "caesar-xianxia-v1",
+    "name": "Hội đèn trên mây",
+    "story": "Những người bạn cùng thả đèn sen trong hội mây, vui vì đã tìm được nơi mình thuộc về.",
+    "emotion": "hân hoan, náo nức",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#eadfca",
+      "paper": "#fcf6e9",
+      "accent": "#a88454",
+      "deep": "#46372c"
+    },
+    "focal": 70
+  },
+  {
+    "id": "substitution",
+    "assetStem": "substitution-xianxia-v1",
+    "name": "Sau chiếc mặt nạ Nguyệt Ban",
+    "story": "Sau chiếc mặt nạ của tiên ban là một ánh nhìn khó đoán và lời nhắn bí mật vừa được chuyển tay.",
+    "emotion": "bí ẩn, tò mò",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e9d7df",
+      "paper": "#fdf6f1",
+      "accent": "#95677e",
+      "deep": "#422b3e"
+    },
+    "focal": 50
+  },
+  {
+    "id": "otp",
+    "assetStem": "otp-xianxia-v1",
+    "name": "Cánh sen chở lời hẹn",
+    "story": "Một cánh sen mang lời hẹn trôi đi trong mưa, giữ hộ nỗi nhớ của người vẫn chờ bên cầu.",
+    "emotion": "nhớ nhung, thủy chung",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dce6ed",
+      "paper": "#f8f9f5",
+      "accent": "#75899c",
+      "deep": "#233b4a"
+    },
+    "focal": 75
+  },
+  {
+    "id": "aes",
+    "assetStem": "aes-xianxia-v1",
+    "name": "Người giữ Băng Điện",
+    "story": "Giữa Băng Điện tĩnh lặng, người hộ vệ cùng linh báo bền lòng canh giữ khối ngọc sáng.",
+    "emotion": "tĩnh lặng, vững vàng",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dfe3e8",
+      "paper": "#fbf9f1",
+      "accent": "#767e99",
+      "deep": "#26384e"
+    },
+    "focal": 50
+  },
+  {
+    "id": "cbc",
+    "assetStem": "cbc-xianxia-v1",
+    "name": "Bạn đường qua suối ngọc",
+    "story": "Trên những phiến đá qua suối, người đi trước quay lại nắm tay bạn; cả đoàn cùng vượt một đoạn đường.",
+    "emotion": "ấm áp, đồng hành",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#d9eadf",
+      "paper": "#f6faf0",
+      "accent": "#6b927d",
+      "deep": "#214738"
+    },
+    "focal": 50
+  },
+  {
+    "id": "ctr",
+    "assetStem": "ctr-xianxia-v1",
+    "name": "Đua thuyền giữa biển mây",
+    "story": "Hai người bạn lái thuyền bay xuyên biển mây, cùng reo vui trước cuộc đua và bầu trời rộng mở.",
+    "emotion": "phấn khích, tự do",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#d9e4ed",
+      "paper": "#f7f9f7",
+      "accent": "#6389a4",
+      "deep": "#213951"
+    },
+    "focal": 35
+  },
+  {
+    "id": "shell",
+    "assetStem": "shell-xianxia-v1",
+    "name": "Mẻ đan nở thành hoa",
+    "story": "Mẻ đan bất ngờ nở thành hoa khiến học trò tròn mắt, còn vị sư phụ chỉ mỉm cười dịu dàng.",
+    "emotion": "bất ngờ, dí dỏm",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e5e3d4",
+      "paper": "#fff9ed",
+      "accent": "#8d936f",
+      "deep": "#3f3b46"
+    },
+    "focal": 50
+  },
+  {
+    "id": "hash-properties",
+    "assetStem": "hash-properties-xianxia-v1",
+    "name": "Bóng người trong Hồ Ký Ức",
+    "story": "Bên Hồ Ký Ức, người lữ khách cầm viên ngọc cũ và gặp lại bóng dáng một tình bạn đã xa.",
+    "emotion": "hoài niệm, bâng khuâng",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e2dee8",
+      "paper": "#fbf9f4",
+      "accent": "#8a839e",
+      "deep": "#35374d"
+    },
+    "focal": 30
+  },
+  {
+    "id": "hash-algorithms",
+    "assetStem": "hash-algorithms-xianxia-v1",
+    "name": "Thư hải Thiên Tầng",
+    "story": "Người học trò mở được cuộn sách lạ trong thư hải, sững sờ trước những tầng tri thức chưa từng biết.",
+    "emotion": "kinh ngạc, khám phá",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dce3e9",
+      "paper": "#fbf9ee",
+      "accent": "#8d8b70",
+      "deep": "#213c50"
+    },
+    "focal": 70
+  },
+  {
+    "id": "hash-apps",
+    "assetStem": "hash-apps-xianxia-v1",
+    "name": "Mùa xuân trở lại cổ thụ",
+    "story": "Những y tu đặt bình ngọc vào rễ cổ thụ; chồi non và hoa mới dần trả lại mùa xuân cho khu vườn.",
+    "emotion": "hy vọng, hồi sinh",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e2eadb",
+      "paper": "#fff9f1",
+      "accent": "#929f76",
+      "deep": "#304d3a"
+    },
+    "focal": 50
+  },
+  {
+    "id": "hmac",
+    "assetStem": "hmac-xianxia-v1",
+    "name": "Chung một tán ô",
+    "story": "Hai người bạn chung một tán ô, một chén trà và sự tin cậy không cần nói thành lời.",
+    "emotion": "tin cậy, gần gũi",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e4d6ce",
+      "paper": "#fcf4e9",
+      "accent": "#9e7863",
+      "deep": "#412c29"
+    },
+    "focal": 35
+  },
+  {
+    "id": "blockchain",
+    "assetStem": "blockchain-xianxia-v1",
+    "name": "Dòng đèn vượt Thiên Lĩnh",
+    "story": "Người dẫn đường quay lại đỡ bạn giữa Thiên Lĩnh; dòng đèn nhỏ nối thành sức mạnh của cả đoàn.",
+    "emotion": "bền bỉ, đoàn kết",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e0dce8",
+      "paper": "#faf6ef",
+      "accent": "#928497",
+      "deep": "#303548"
+    },
+    "focal": 72
+  },
+  {
+    "id": "number-theory",
+    "assetStem": "number-theory-xianxia-v1",
+    "name": "Đọc sao trên Thiên Đài",
+    "story": "Thầy trò cùng đọc quy luật sao trời trên Thiên Đài, kiên nhẫn với điều chưa hiểu và vui vì được khám phá.",
+    "emotion": "tò mò, an nhiên",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dfe1e9",
+      "paper": "#faf8ee",
+      "accent": "#8b815e",
+      "deep": "#30354a"
+    },
+    "focal": 50
+  },
+  {
+    "id": "dh",
+    "assetStem": "dh-xianxia-v1",
+    "name": "Hai đỉnh núi, một lời hẹn",
+    "story": "Hai người đứng trên hai đỉnh núi gửi hạc giấy qua mây; khoảng cách vẫn còn nhưng lời hẹn chưa mất.",
+    "emotion": "xa cách, mong chờ",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e7deda",
+      "paper": "#fff8ef",
+      "accent": "#a58a79",
+      "deep": "#3f4540"
+    },
+    "focal": 50
+  },
+  {
+    "id": "rsa",
+    "assetStem": "rsa-xianxia-v1",
+    "name": "Giữ cửa trước vực tối",
+    "story": "Người hộ môn đứng giữ cánh cửa trước vực tối, dành một lối sáng an toàn cho những người phía sau.",
+    "emotion": "bi tráng, can đảm",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dee1db",
+      "paper": "#faf8ef",
+      "accent": "#94836c",
+      "deep": "#283b40"
+    },
+    "focal": 75
+  },
+  {
+    "id": "oaep",
+    "assetStem": "oaep-xianxia-v1",
+    "name": "Món quà của Tiên Hoa Phường",
+    "story": "Người nghệ nhân gói món quà thành cánh sen, trong khi vị khách trẻ ngượng ngùng giấu một nhành hoa.",
+    "emotion": "dịu ngọt, ngượng ngùng",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e3e7d5",
+      "paper": "#fff9ef",
+      "accent": "#8d9267",
+      "deep": "#384230"
+    },
+    "focal": 50
+  },
+  {
+    "id": "pss",
+    "assetStem": "pss-xianxia-v1",
+    "name": "Bức thư giữa thành tuyết",
+    "story": "Kiếm khách trở về thành tuyết, đọc bức thư cũ bên chiếc khăn của người bạn và học cách chấp nhận mất mát.",
+    "emotion": "mất mát, chấp nhận",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#dee6e5",
+      "paper": "#faf9f2",
+      "accent": "#888a89",
+      "deep": "#303e43"
+    },
+    "focal": 30
+  },
+  {
+    "id": "protocols",
+    "assetStem": "protocols-xianxia-v1",
+    "name": "Ngày đoàn viên ở Vân Cảng",
+    "story": "Sau hành trình dài, người đi xa được ôm đón ở Vân Cảng; biển mây bừng sáng trong ngày đoàn viên.",
+    "emotion": "mừng vui, viên mãn",
+    "country": "China",
+    "genre": "Chinese Xianxia",
+    "theme": {
+      "tint": "#e6e0d8",
+      "paper": "#fffbf1",
+      "accent": "#a48764",
+      "deep": "#304653"
+    },
+    "focal": 50
+  }
+]

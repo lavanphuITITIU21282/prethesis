@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="72" viewBox="0 0 1000 72" fill="none">
+<defs><linearGradient id="line"><stop stop-color="#aa9569" stop-opacity="0"/><stop offset=".45" stop-color="#aa9569" stop-opacity=".65"/><stop offset=".55" stop-color="#aa9569" stop-opacity=".65"/><stop offset="1" stop-color="#aa9569" stop-opacity="0"/></linearGradient><linearGradient id="gold" x1="487" y1="14" x2="515" y2="53" gradientUnits="userSpaceOnUse"><stop stop-color="#d7bd80"/><stop offset="1" stop-color="#a77943"/></linearGradient></defs>
+<path d="M18 36h422m120 0h422" stroke="url(#line)"/>
+<path d="M459 36c-13 0-22-11-14-18 7-5 16-1 13 5-2 4-9 1-6-2M541 36c13 0 22-11 14-18-7-5-16-1-13 5 2 4 9 1 6-2M435 45h-40c-15 0-22-7-15-12 6-4 13-1 10 4h26M565 45h40c15 0 22-7 15-12-6-4-13-1-10 4h-26" stroke="#ae925e" stroke-opacity=".6" stroke-linecap="round"/>
+<circle cx="500" cy="32" r="20" stroke="#bca06a" stroke-opacity=".55"/>
+<path d="M504 14a18 18 0 1 0 12 28c-18 8-30-13-12-28Z" fill="url(#gold)"/>
+<path d="M500 59c-8-4-11-10-11-15 7 1 11 5 11 15Zm0 0c8-4 11-10 11-15-7 1-11 5-11 15Zm0 0c-15 1-23-3-25-9 12-1 20 2 25 9Zm0 0c15 1 23-3 25-9-12-1-20 2-25 9Z" stroke="#879078" stroke-width="1.1" stroke-linejoin="round"/>
+<circle cx="467" cy="36" r="2" fill="#a44c3b"/><circle cx="533" cy="36" r="2" fill="#a44c3b"/>
+</svg>

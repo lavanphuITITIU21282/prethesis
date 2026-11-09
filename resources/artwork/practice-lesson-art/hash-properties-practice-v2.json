@@ -1,0 +1,33 @@
+{
+  "id": "hash-properties",
+  "assetStem": "hash-properties-practice-v2",
+  "name": "Khắc Ảnh Chân Phù",
+  "category": "phù triện",
+  "deep": "#3c3c50",
+  "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese talisman scholar in lavender and pale jade hanfu gently touches the edge of the jade tablet. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE translucent lavender jade talisman tablet standing at RIGHT above still black water, its unique abstract carved pattern glowing softly and mirrored precisely below. Weathered rock and a small branch of pale blossoms, distant mist without architecture. Lavender grey, pale jade, silver, ivory; memory and quiet certainty, elegant sculptural composition.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese talisman scholar in lavender and pale jade hanfu gently touches the edge of the jade tablet. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE translucent lavender jade talisman tablet standing at RIGHT above still black water, its unique abstract carved pattern glowing softly and mirrored precisely below. Weathered rock and a small branch of pale blossoms, distant mist without architecture. Lavender grey, pale jade, silver, ivory; memory and quiet certainty, elegant sculptural composition.",
+  "generator": "Built-in ImageGen; person paired with cultivation object",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/hash-properties-practice-v2-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 28190
+    },
+    {
+      "url": "/assets/practice-lesson-art/hash-properties-practice-v2-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 99268
+    },
+    {
+      "url": "/assets/practice-lesson-art/hash-properties-practice-v2.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 215790
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/hash-properties-practice-v2.png"
+}

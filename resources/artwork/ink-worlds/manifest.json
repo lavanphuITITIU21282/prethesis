@@ -1,0 +1,246 @@
+{
+  "generator": "Built-in ImageGen, separate calls with local style reference; no CLI",
+  "reference": "/assets/ink-palace-v2.png",
+  "works": [
+    {
+      "id": "emerald",
+      "prompt": "Create a NEW original painting; the supplied image is a STYLE REFERENCE ONLY. Match its sophisticated contemporary Chinese historical art, layered atmospheric depth, finely painted architecture and rock, restrained gold accents, rich tactile ink and mineral pigment. Wide landscape 2:1. Strong cinematic composition with detailed focal scenery and calm misty areas; about 35 percent quiet negative space, NOT minimal line drawing. Distinct clear focal place; avoid overwhelming repeated ornamental detail, excessive filigree, no text, no letters, no seals, no logo, no border, no UI. Palette must be distinctly as specified rather than default green. The result is an illustration for a learning website. Palette emerald green and old gold, warm ivory mist. Place: an ancient scholar library built into a steep mountain terrace, one open book-filled hall, winding stone stair and pine trees, distant jade peaks beneath a golden moon. Main architecture right, tranquil space left. Include a small scholar in flowing ivory robes reading on the terrace, and a white deer beside a pine, natural integrated scale.",
+      "source": "C:\\Users\\pc\\.codex\\generated_images\\01a18738-8fee-7f62-93e6-e1d0b6894f12\\exec-ec0258ff-6a6a-41dd-9796-5b1b6be2d22f.png",
+      "original": {
+        "path": "resources/artwork/ink-worlds/emerald.png",
+        "width": 1774,
+        "height": 887
+      },
+      "variants": [
+        {
+          "url": "/assets/ink-worlds/emerald-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 32920
+        },
+        {
+          "url": "/assets/ink-worlds/emerald-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 118398
+        },
+        {
+          "url": "/assets/ink-worlds/emerald.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 260698
+        }
+      ]
+    },
+    {
+      "id": "blue",
+      "prompt": "Create a NEW original painting; the supplied image is a STYLE REFERENCE ONLY. Match its sophisticated contemporary Chinese historical art, layered atmospheric depth, finely painted architecture and rock, restrained gold accents, rich tactile ink and mineral pigment. Wide landscape 2:1. Strong cinematic composition with detailed focal scenery and calm misty areas; about 35 percent quiet negative space, NOT minimal line drawing. Distinct clear focal place; avoid overwhelming repeated ornamental detail, excessive filigree, no text, no letters, no seals, no logo, no border, no UI. Palette must be distinctly as specified rather than default green. The result is an illustration for a learning website. Palette deep sapphire and silver, subtle coral accents. Place: one elegant water pavilion on a tranquil moonlit lake, distant island mountains, pale silver full moon and reflections, small arched wooden walkway. Distinct cool blue nocturne. Include a graceful celestial woman in pale blue hanfu standing in the pavilion and two white cranes gliding low across the lake; magical but restrained.",
+      "source": "C:\\Users\\pc\\.codex\\generated_images\\01a18738-8fee-7f62-93e6-e1d0b6894f12\\exec-d56c9b3c-c913-4925-9d62-228be8ecbd34.png",
+      "original": {
+        "path": "resources/artwork/ink-worlds/blue.png",
+        "width": 1774,
+        "height": 887
+      },
+      "variants": [
+        {
+          "url": "/assets/ink-worlds/blue-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 30162
+        },
+        {
+          "url": "/assets/ink-worlds/blue-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 111012
+        },
+        {
+          "url": "/assets/ink-worlds/blue.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 242706
+        }
+      ]
+    },
+    {
+      "id": "cinnabar",
+      "prompt": "Create a NEW original painting; the supplied image is a STYLE REFERENCE ONLY. Match its sophisticated contemporary Chinese historical art, layered atmospheric depth, finely painted architecture and rock, restrained gold accents, rich tactile ink and mineral pigment. Wide landscape 2:1. Strong cinematic composition with detailed focal scenery and calm misty areas; about 35 percent quiet negative space, NOT minimal line drawing. Distinct clear focal place; avoid overwhelming repeated ornamental detail, excessive filigree, no text, no letters, no seals, no logo, no border, no UI. Palette must be distinctly as specified rather than default green. The result is an illustration for a learning website. Palette cinnabar red and burnt orange with charcoal and pale gold mist. Place: a mountain fortress gate at sunset, monumental red walls and one dignified gatehouse, stone path on a ridge and distant dark mountains. Sweeping warm light. Include a lone armored wandering swordsman on the path and a long elegant Chinese dragon emerging partially from distant sunset clouds, powerful composed silhouettes.",
+      "source": "C:\\Users\\pc\\.codex\\generated_images\\01a18738-8fee-7f62-93e6-e1d0b6894f12\\exec-642e9e31-08e8-4926-8e6c-54cb18783cb5.png",
+      "original": {
+        "path": "resources/artwork/ink-worlds/cinnabar.png",
+        "width": 1774,
+        "height": 887
+      },
+      "variants": [
+        {
+          "url": "/assets/ink-worlds/cinnabar-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 31038
+        },
+        {
+          "url": "/assets/ink-worlds/cinnabar-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 113510
+        },
+        {
+          "url": "/assets/ink-worlds/cinnabar.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 244916
+        }
+      ]
+    },
+    {
+      "id": "amber",
+      "prompt": "Create a NEW original painting; the supplied image is a STYLE REFERENCE ONLY. Match its sophisticated contemporary Chinese historical art, layered atmospheric depth, finely painted architecture and rock, restrained gold accents, rich tactile ink and mineral pigment. Wide landscape 2:1. Strong cinematic composition with detailed focal scenery and calm misty areas; about 35 percent quiet negative space, NOT minimal line drawing. Distinct clear focal place; avoid overwhelming repeated ornamental detail, excessive filigree, no text, no letters, no seals, no logo, no border, no UI. Palette must be distinctly as specified rather than default green. The result is an illustration for a learning website. Palette warm amber gold and dark indigo, ivory highlights. Place: an ancient riverside lantern street at dusk, a few beautiful timber shop houses along a canal, warmly glowing red-gold lanterns, one small boat, distant roofline softened in mist. Intimate human-scale architecture, no people or text. Include a few robed pilgrims walking along the canal with lanterns, a small fox sitting on a bridge, atmospheric believable scale, no crowds.",
+      "source": "C:\\Users\\pc\\.codex\\generated_images\\01a18738-8fee-7f62-93e6-e1d0b6894f12\\exec-68f7ee8d-3daf-48cf-9a16-80c352e64d07.png",
+      "original": {
+        "path": "resources/artwork/ink-worlds/amber.png",
+        "width": 1774,
+        "height": 887
+      },
+      "variants": [
+        {
+          "url": "/assets/ink-worlds/amber-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 27224
+        },
+        {
+          "url": "/assets/ink-worlds/amber-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 98084
+        },
+        {
+          "url": "/assets/ink-worlds/amber.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 214080
+        }
+      ]
+    },
+    {
+      "id": "teal",
+      "prompt": "Create a NEW original painting; the supplied image is a STYLE REFERENCE ONLY. Match its sophisticated contemporary Chinese historical art, layered atmospheric depth, finely painted architecture and rock, restrained gold accents, rich tactile ink and mineral pigment. Wide landscape 2:1. Strong cinematic composition with detailed focal scenery and calm misty areas; about 35 percent quiet negative space, NOT minimal line drawing. Distinct clear focal place; avoid overwhelming repeated ornamental detail, excessive filigree, no text, no letters, no seals, no logo, no border, no UI. Palette must be distinctly as specified rather than default green. The result is an illustration for a learning website. Palette turquoise teal and blue-green with misty ivory and a tiny vermilion accent. Place: a deep bamboo grove with a winding stone path and one small secluded tea house beside a stream, shafts of soft light, fine bamboo leaves focused in one area. Include one Taoist sage in flowing robes with a wooden staff on the path and a small spirit fox resting by the stream, subtle fantasy.",
+      "source": "C:\\Users\\pc\\.codex\\generated_images\\01a18738-8fee-7f62-93e6-e1d0b6894f12\\exec-db58d03e-1ccf-4c91-9b77-06202ceac2b4.png",
+      "original": {
+        "path": "resources/artwork/ink-worlds/teal.png",
+        "width": 1774,
+        "height": 887
+      },
+      "variants": [
+        {
+          "url": "/assets/ink-worlds/teal-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 39252
+        },
+        {
+          "url": "/assets/ink-worlds/teal-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 143014
+        },
+        {
+          "url": "/assets/ink-worlds/teal.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 313488
+        }
+      ]
+    },
+    {
+      "id": "rose",
+      "prompt": "Create a NEW original painting; the supplied image is a STYLE REFERENCE ONLY. Match its sophisticated contemporary Chinese historical art, layered atmospheric depth, finely painted architecture and rock, restrained gold accents, rich tactile ink and mineral pigment. Wide landscape 2:1. Strong cinematic composition with detailed focal scenery and calm misty areas; about 35 percent quiet negative space, NOT minimal line drawing. Distinct clear focal place; avoid overwhelming repeated ornamental detail, excessive filigree, no text, no letters, no seals, no logo, no border, no UI. Palette must be distinctly as specified rather than default green. The result is an illustration for a learning website. Palette dusty rose, plum red and warm cream with muted olive. Place: a peach blossom garden surrounding one red pavilion beside a lotus pond, a few flowering trees, distant rolling hills in pink mist, soft sunrise. Rich blossoms in a focused cluster, calm water. Include an immortal woman in flowing rose hanfu beneath a peach tree and a white deer by the pond, petals moving softly, delicate narrative focus.",
+      "source": "C:\\Users\\pc\\.codex\\generated_images\\01a18738-8fee-7f62-93e6-e1d0b6894f12\\exec-031fe31e-20f6-42c1-80ec-b04553404a8d.png",
+      "original": {
+        "path": "resources/artwork/ink-worlds/rose.png",
+        "width": 1774,
+        "height": 887
+      },
+      "variants": [
+        {
+          "url": "/assets/ink-worlds/rose-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 38038
+        },
+        {
+          "url": "/assets/ink-worlds/rose-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 136354
+        },
+        {
+          "url": "/assets/ink-worlds/rose.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 293890
+        }
+      ]
+    },
+    {
+      "id": "violet",
+      "prompt": "Create a NEW original painting; the supplied image is a STYLE REFERENCE ONLY. Match its sophisticated contemporary Chinese historical art, layered atmospheric depth, finely painted architecture and rock, restrained gold accents, rich tactile ink and mineral pigment. Wide landscape 2:1. Strong cinematic composition with detailed focal scenery and calm misty areas; about 35 percent quiet negative space, NOT minimal line drawing. Distinct clear focal place; avoid overwhelming repeated ornamental detail, excessive filigree, no text, no letters, no seals, no logo, no border, no UI. Palette must be distinctly as specified rather than default green. The result is an illustration for a learning website. Palette amethyst violet and lavender with dark aubergine and antique gold. Place: a secluded ancient astronomical observation terrace atop a mountain, one bronze armillary sphere and a graceful observatory tower against moon and stars, vast violet cloud sea. Include an enigmatic fictional dark-robed mystic sect adept contemplating the celestial sphere, one elegant raven on a stone balustrade, violet aura as faint mist, no religious logos or writing.",
+      "source": "C:\\Users\\pc\\.codex\\generated_images\\01a18738-8fee-7f62-93e6-e1d0b6894f12\\exec-c5651d6d-108d-42e3-9e61-cfb9092ea3e0.png",
+      "original": {
+        "path": "resources/artwork/ink-worlds/violet.png",
+        "width": 1774,
+        "height": 887
+      },
+      "variants": [
+        {
+          "url": "/assets/ink-worlds/violet-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 35000
+        },
+        {
+          "url": "/assets/ink-worlds/violet-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 134612
+        },
+        {
+          "url": "/assets/ink-worlds/violet.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 300068
+        }
+      ]
+    },
+    {
+      "id": "slate",
+      "prompt": "Create a NEW original painting; the supplied image is a STYLE REFERENCE ONLY. Match its sophisticated contemporary Chinese historical art, layered atmospheric depth, finely painted architecture and rock, restrained gold accents, rich tactile ink and mineral pigment. Wide landscape 2:1. Strong cinematic composition with detailed focal scenery and calm misty areas; about 35 percent quiet negative space, NOT minimal line drawing. Distinct clear focal place; avoid overwhelming repeated ornamental detail, excessive filigree, no text, no letters, no seals, no logo, no border, no UI. Palette must be distinctly as specified rather than default green. The result is an illustration for a learning website. Palette slate blue, graphite grey and silver with one small scarlet accent. Place: a dramatic mist-filled mountain gorge with an elegant single stone arch bridge spanning the ravine, waterfalls and weathered pine, distant pale moon and layers of grey mountains. Include a Buddhist monk with staff crossing the bridge and a distant crane in flight, quiet sacred mountainous atmosphere, no written symbols.",
+      "source": "C:\\Users\\pc\\.codex\\generated_images\\01a18738-8fee-7f62-93e6-e1d0b6894f12\\exec-353de33f-a5eb-4bde-8068-44e8ab7911d1.png",
+      "original": {
+        "path": "resources/artwork/ink-worlds/slate.png",
+        "width": 1774,
+        "height": 887
+      },
+      "variants": [
+        {
+          "url": "/assets/ink-worlds/slate-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 27314
+        },
+        {
+          "url": "/assets/ink-worlds/slate-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 99186
+        },
+        {
+          "url": "/assets/ink-worlds/slate.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 215514
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+/* Keep the original English name prominent and its Vietnamese gloss readable. */
+.term-label {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3px;
+  min-width: 0;
+  text-align: left;
+  line-height: 1.5;
+}
+.term-label > small {
+  font-size: 0.76rem;
+  font-weight: 400;
+  color: var(--muted);
+  line-height: 1.55;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+.term-annotation {
+  margin: 13px 0 19px;
+  padding: 12px 15px;
+  border-left: 2px solid var(--gold, #b99b63);
+  background: var(--soft);
+  font-size: 0.86rem;
+  line-height: 1.75;
+  overflow-wrap: anywhere;
+}
+.term-annotation > div + div {
+  margin-top: 9px;
+}
+.term-annotation dt {
+  font-size: 0.64rem;
+  font-weight: 650;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+.term-annotation dd {
+  margin: 2px 0 0;
+  color: var(--ink);
+  font-weight: 500;
+}
+.term-card .term-annotation {
+  font-size: 0.82rem;
+  margin-top: 10px;
+  padding: 10px 12px;
+}
+.study-term summary > .term-label {
+  flex: 1;
+}
+.study-keyword .term-label > small {
+  font-size: 0.69rem;
+  max-width: 240px;
+}
+.study-keyword {
+  vertical-align: top;
+}
+.reader-side .term-label {
+  max-width: 100%;
+}
+.term-modal .term-annotation {
+  margin-top: 16px;
+}
+@media (max-width: 760px) {
+  .term-annotation {
+    padding: 11px 13px;
+    font-size: 0.85rem;
+  }
+  .study-keyword .term-label > small {
+    max-width: 210px;
+  }
+  .study-term summary {
+    align-items: flex-start;
+  }
+  .study-term-chevron {
+    margin-top: 3px;
+  }
+}

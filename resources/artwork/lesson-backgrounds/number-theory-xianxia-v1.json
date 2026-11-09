@@ -1,0 +1,32 @@
+{
+  "id": "number-theory",
+  "assetStem": "number-theory-xianxia-v1",
+  "name": "Đọc sao trên Thiên Đài",
+  "emotion": "tò mò, an nhiên",
+  "scene": "A quiet immortal astronomical terrace beneath a gently luminous celestial sky, TOP-DOWN OBLIQUE view. A Chinese elder and young disciple lean in from OPPOSITE CORNERS of a circular stone table holding an elegant brass armillary sphere and geometric stones WITHOUT numerals or writing; reflected stars shimmer in a small water basin at CENTER. Lapis, walnut, antique gold and cream. Patient curiosity and shared understanding, no large moon or modern technology.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: tò mò, an nhiên. A quiet immortal astronomical terrace beneath a gently luminous celestial sky, TOP-DOWN OBLIQUE view. A Chinese elder and young disciple lean in from OPPOSITE CORNERS of a circular stone table holding an elegant brass armillary sphere and geometric stones WITHOUT numerals or writing; reflected stars shimmer in a small water basin at CENTER. Lapis, walnut, antique gold and cream. Patient curiosity and shared understanding, no large moon or modern technology.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/number-theory-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 53156
+    },
+    {
+      "url": "/assets/lesson-backgrounds/number-theory-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 189774
+    },
+    {
+      "url": "/assets/lesson-backgrounds/number-theory-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 410098
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/number-theory-xianxia-v1.png"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "substitution",
+  "assetStem": "substitution-practice-v2",
+  "name": "Huyễn Ảnh Linh Phù",
+  "category": "phù triện",
+  "deep": "#44324b",
+  "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese illusion master in smoky violet hanfu holds the floating talisman above one palm. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE broad enchanted violet paper talisman suspended vertically at RIGHT above a polished black stone, its abstract gold-and-silver sigil strokes casting a softly shifted mirrored pattern, not a human face. A folded silk fan and pale plum petals support the scene. Smoky violet, dusty rose, black and silver; mysterious and refined, uncluttered LEFT.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese illusion master in smoky violet hanfu holds the floating talisman above one palm. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE broad enchanted violet paper talisman suspended vertically at RIGHT above a polished black stone, its abstract gold-and-silver sigil strokes casting a softly shifted mirrored pattern, not a human face. A folded silk fan and pale plum petals support the scene. Smoky violet, dusty rose, black and silver; mysterious and refined, uncluttered LEFT.",
+  "generator": "Built-in ImageGen; person paired with cultivation object",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/substitution-practice-v2-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 31036
+    },
+    {
+      "url": "/assets/practice-lesson-art/substitution-practice-v2-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 104754
+    },
+    {
+      "url": "/assets/practice-lesson-art/substitution-practice-v2.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 215320
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/substitution-practice-v2.png"
+}

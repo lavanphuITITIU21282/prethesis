@@ -1,0 +1,429 @@
+/* Small, local vector ornaments; reading copy and answer choices stay clear. */
+:root {
+  --ornament-accent: #a88c58;
+  --ornament-rose: #b2685a;
+}
+body[data-page='glossary'] {
+  --ornament-accent: #95647b;
+}
+body[data-page='commands'] {
+  --ornament-accent: #a8783e;
+}
+body[data-page='library'] {
+  --ornament-accent: #718490;
+}
+body[data-page='progress'] {
+  --ornament-accent: #5e857d;
+}
+::selection {
+  background: #b78d4840;
+  color: var(--ink);
+}
+:where(a, button, input, select, textarea, summary):focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 4px;
+}
+:where(a, button, input, select, textarea, summary) {
+  -webkit-tap-highlight-color: transparent;
+}
+.topbar {
+  box-shadow: 0 3px 15px #243b3204;
+}
+.breadcrumb strong {
+  letter-spacing: 0.015em;
+}
+.search-trigger kbd {
+  background: var(--surface);
+  box-shadow: 0 2px 0 var(--line);
+  min-width: 18px;
+  text-align: center;
+}
+.sidebar .nav-link,
+.sidebar .nav-module {
+  transition:
+    background 0.16s,
+    border-color 0.16s,
+    color 0.16s;
+}
+.sidebar :where(a, button):focus-visible {
+  outline-color: #e4c992;
+}
+.page-head {
+  box-shadow: 0 8px 26px #263a2607;
+  border-top-color: var(--ornament-accent);
+}
+.page-catalog {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  letter-spacing: 0.06em;
+}
+.page-catalog::before {
+  content: '';
+  display: block;
+  width: 25px;
+  height: 25px;
+  flex: none;
+  background: url('/assets/moon-mark.svg') center/contain no-repeat;
+}
+.page-scene {
+  border-left: 1px solid var(--line);
+}
+.seasonal-divider {
+  display: block;
+  width: 100%;
+  height: 64px;
+  object-fit: contain;
+  margin: -23px 0 26px;
+  pointer-events: none;
+  user-select: none;
+}
+.learning-pulse {
+  box-shadow: 0 5px 20px #243b3205;
+}
+.chapter-card {
+  border-left: 3px solid var(--chapter-accent, #a88c58);
+  box-shadow: 0 2px 5px #243b3203;
+  transition:
+    border-color 0.18s,
+    box-shadow 0.18s,
+    background 0.18s;
+}
+.chapter-card[data-chapter='foundation'] {
+  --chapter-accent: #5b8067;
+}
+.chapter-card[data-chapter='applied'] {
+  --chapter-accent: #b16b50;
+}
+.chapter-card[data-chapter='symmetric'] {
+  --chapter-accent: #668395;
+}
+.chapter-card[data-chapter='hash'] {
+  --chapter-accent: #8a718e;
+}
+.chapter-card[data-chapter='public'] {
+  --chapter-accent: #b29355;
+}
+.chapter-card:hover {
+  box-shadow: 0 6px 19px #243b3210;
+  border-color: var(--chapter-accent);
+  background: var(--surface);
+}
+.chapter-art {
+  filter: saturate(0.93);
+  border: 1px solid #bda57540;
+}
+.chapter-tail .progress > span {
+  background: var(--chapter-accent);
+}
+.today-card {
+  box-shadow:
+    inset 0 0 0 5px var(--surface),
+    inset 0 0 0 6px #b49a6526;
+}
+.recall-card {
+  box-shadow:
+    inset 0 0 0 5px #16362b,
+    inset 0 0 0 6px #d5bc8230;
+}
+.margin-note {
+  background: url('/assets/plum-moon.svg') right bottom/250px 150px no-repeat;
+  padding-bottom: 138px;
+  min-height: 245px;
+}
+.margin-note p,
+.margin-note small {
+  position: relative;
+  z-index: 1;
+}
+.lesson-row {
+  border-radius: 3px;
+  transition:
+    border-color 0.16s,
+    box-shadow 0.16s;
+}
+.lesson-row:hover {
+  box-shadow: 0 4px 15px #243b3209;
+  border-color: var(--ornament-accent);
+}
+.lesson-num {
+  border-radius: 3px;
+  box-shadow: inset 0 0 0 3px var(--surface);
+  background: var(--soft);
+}
+.lesson-meta {
+  row-gap: 7px;
+  flex-wrap: wrap;
+}
+.lesson-meta > span + span::before {
+  content: '·';
+  margin-right: 10px;
+  color: var(--ornament-accent);
+}
+.term-card {
+  border-top: 3px solid var(--ornament-accent);
+  box-shadow: 0 3px 10px #243b3204;
+  transition:
+    border-color 0.16s,
+    box-shadow 0.16s;
+}
+.term-card:hover {
+  box-shadow: 0 7px 22px #243b320b;
+  border-color: var(--ornament-accent);
+}
+.term-card h3 {
+  overflow-wrap: anywhere;
+}
+.term-category {
+  letter-spacing: 0.055em;
+}
+.toolbar:not(.quiz-filters) {
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  gap: 18px;
+}
+.toolbar > label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  gap: 9px;
+}
+input,
+select,
+textarea {
+  transition:
+    border-color 0.16s,
+    box-shadow 0.16s;
+}
+input:hover,
+select:hover,
+textarea:hover {
+  border-color: var(--ornament-accent);
+}
+.source-badge {
+  border-radius: 2px;
+  box-shadow:
+    inset 3px 0 #a9915e40,
+    inset -3px 0 #a9915e20;
+}
+.source-card {
+  box-shadow: 0 3px 12px #243b3205;
+}
+.token-table {
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  overflow: hidden;
+}
+.token-table th {
+  padding-block: 16px;
+}
+.token-table tr:nth-child(even) td {
+  background: var(--soft);
+}
+.token-table td {
+  line-height: 1.9;
+}
+.command-nav {
+  padding-right: 6px;
+}
+.command-link {
+  border-radius: 3px;
+  border-left: 2px solid transparent;
+}
+.command-link.active {
+  border-left-color: var(--ornament-accent);
+}
+.reader-side .card {
+  border-top-width: 2px;
+  border-top-color: var(--ornament-accent);
+}
+.outline-link {
+  border: 1px solid transparent;
+}
+.outline-link.current {
+  border-color: var(--line);
+  box-shadow: inset 3px 0 var(--green);
+}
+.study-block-heading {
+  scroll-margin-top: 24px;
+}
+.study-step-number {
+  font-variant-numeric: tabular-nums;
+}
+.study-term summary:hover {
+  background: var(--soft);
+}
+.study-term[open] {
+  border-color: var(--ornament-accent);
+}
+.reader-actions {
+  row-gap: 12px;
+}
+.reader-actions .btn {
+  white-space: normal;
+  text-align: center;
+}
+.empty {
+  border: 1px dashed var(--line);
+  border-radius: 3px;
+  background: var(--surface) url('/assets/moon-mark.svg') center 25px/34px no-repeat;
+  padding: 78px 25px 30px;
+  line-height: 1.9;
+}
+.loading {
+  background: url('/assets/moon-mark.svg') center 30px/34px no-repeat;
+}
+dialog {
+  border-radius: 5px;
+  border-top: 3px solid var(--ornament-accent);
+}
+.modal-head {
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--line);
+}
+.modal-head h2 {
+  overflow-wrap: anywhere;
+  line-height: 1.5;
+}
+.modal-head h2::before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  width: 26px;
+  height: 26px;
+  margin-right: 11px;
+  background: url('/assets/moon-mark.svg') center/contain no-repeat;
+}
+.search-result {
+  padding: 16px 10px;
+  border-radius: 2px;
+}
+.search-result:hover {
+  box-shadow: inset 3px 0 var(--ornament-accent);
+}
+.timer-dock {
+  border-color: #9d875c;
+  box-shadow: 0 8px 25px #102d2726;
+}
+.timer-dock strong {
+  font-variant-numeric: tabular-nums;
+}
+footer {
+  position: relative;
+  padding-top: 29px;
+  border-top-color: #bda57675;
+}
+footer::before {
+  content: '';
+  display: block;
+  width: 34px;
+  height: 34px;
+  flex: none;
+  background: url('/assets/moon-mark.svg') center/contain no-repeat;
+  color: transparent;
+}
+.dark .page-head,
+.dark .chapter-card,
+.dark .term-card,
+.dark .source-card {
+  box-shadow: none;
+}
+.dark .margin-note {
+  background-image: linear-gradient(#12272210, #12272210), url('/assets/plum-moon.svg');
+}
+.dark .today-card {
+  box-shadow:
+    inset 0 0 0 5px var(--surface),
+    inset 0 0 0 6px #baa36a40;
+}
+.dark .term-card h3 {
+  color: var(--ink);
+}
+.dark .search-trigger kbd {
+  color: var(--ink);
+}
+.focus-mode .seasonal-divider,
+.focus-mode .page-catalog::before {
+  display: none;
+}
+@media (max-width: 1050px) {
+  .margin-note {
+    background-size: 230px 138px;
+    padding-bottom: 95px;
+    min-height: 205px;
+  }
+}
+@media (max-width: 760px) {
+  .seasonal-divider {
+    height: 44px;
+    margin: -15px 0 20px;
+  }
+  .page-catalog {
+    font-size: 0.6rem;
+    gap: 8px;
+  }
+  .page-catalog::before {
+    width: 22px;
+    height: 22px;
+  }
+  .page-scene {
+    border-left: 0;
+    border-top: 1px solid var(--line);
+  }
+  .toolbar:not(.quiz-filters) {
+    padding: 17px;
+    gap: 14px;
+  }
+  .margin-note {
+    background-size: 210px 126px;
+    padding-bottom: 110px;
+  }
+  .lesson-meta > span + span::before {
+    margin-right: 6px;
+  }
+  .modal-head h2::before {
+    width: 22px;
+    height: 22px;
+    margin-right: 8px;
+  }
+  footer {
+    gap: 12px;
+  }
+  footer::before {
+    width: 28px;
+    height: 28px;
+  }
+  .reader-actions .btn {
+    flex: 1;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+@media print {
+  .seasonal-divider,
+  .page-catalog::before,
+  .modal-head h2::before {
+    display: none;
+  }
+  .margin-note {
+    background: none;
+    padding-bottom: 0;
+    min-height: 0;
+  }
+  .chapter-card,
+  .term-card,
+  .source-card {
+    box-shadow: none;
+  }
+  .toolbar {
+    display: none;
+  }
+}

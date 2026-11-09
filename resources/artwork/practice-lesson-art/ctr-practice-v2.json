@@ -1,0 +1,33 @@
+{
+  "id": "ctr",
+  "assetStem": "ctr-practice-v2",
+  "name": "Đạp Phong Bộ",
+  "category": "võ công",
+  "deep": "#294552",
+  "scene": "EXACTLY ONE adult Chinese cultivator in white and cobalt robes stepping lightly across three floating stones in a cloud canyon on RIGHT. He holds ONE clearly visible open jade-and-gold magic folding fan in his forward hand. A single flowing silk sash and a restrained golden wind arc show agile movement, with no body clones or repeated afterimages. Turquoise, cobalt, warm orange, ivory; exhilaration and freedom, clear full-body silhouette, no animals or other humans.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese cultivator in white and cobalt robes stepping lightly across three floating stones in a cloud canyon on RIGHT. He holds ONE clearly visible open jade-and-gold magic folding fan in his forward hand. A single flowing silk sash and a restrained golden wind arc show agile movement, with no body clones or repeated afterimages. Turquoise, cobalt, warm orange, ivory; exhilaration and freedom, clear full-body silhouette, no animals or other humans.",
+  "generator": "Built-in ImageGen; person with magic folding fan edit",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/ctr-practice-v2-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 35320
+    },
+    {
+      "url": "/assets/practice-lesson-art/ctr-practice-v2-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 113366
+    },
+    {
+      "url": "/assets/practice-lesson-art/ctr-practice-v2.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 216806
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/ctr-practice-v2.png"
+}

@@ -1,0 +1,277 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Trạm học: Khởi tạo database đầy đủ",
+      "dependsOrder": "sequence",
+      "dependsOn": [
+        "Trạm học: Chuẩn bị PostgreSQL",
+        "Trạm học: Áp dụng migration",
+        "Trạm học: Seed nội dung",
+        "Trạm học: Tạo role runtime"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Áp dụng migration",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "db:migrate"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Seed nội dung",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "db:seed"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Tạo role runtime",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "db:provision"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Test PostgreSQL",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "test:db"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Chuẩn bị PostgreSQL",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "db:setup"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Kiểm tra PostgreSQL",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "db:check"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Dừng PostgreSQL",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "db:stop"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Kiểm tra ESLint",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "lint"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": "$eslint-stylish"
+    },
+    {
+      "label": "Trạm học: Kiểm tra format",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "format:check"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Format code",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "format"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Đóng gói source",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/release/package.ps1"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Dừng máy chủ",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/STOP-BACKGROUND.ps1"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Chạy website",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/RUN-VSCODE.ps1"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true },
+      "detail": "Ctrl+Shift+B để chạy Next.js tại http://localhost:4173. Dependencies được kiểm tra trước khi chạy."
+    },
+    {
+      "label": "Trạm học: Cài dependencies",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${workspaceFolder}/SETUP.ps1"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Kiểm tra TypeScript",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "typecheck"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": "$tsc"
+    },
+    {
+      "label": "Trạm học: Chạy test",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "test"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Trạm học: Build production",
+      "type": "process",
+      "command": "powershell.exe",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/windows/Run-Task.ps1",
+        "-Task",
+        "build"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cia",
+  "assetStem": "cia-xianxia-v1",
+  "name": "Ba ngọn đèn giữa phong ba",
+  "emotion": "kiên định, bảo bọc",
+  "scene": "Triangular composition over THREE floating sacred garden terraces connected by thin luminous paths, seen from a high oblique angle. A young guardian at LOWER CENTER shields three small spirit lanterns with their robe as dark clouds roll in from LEFT; a white stag stands by them; a quiet jade sanctuary rests far UPPER RIGHT. Jade, deep green, pale gold and ivory storm mist. A small courageous act of protection; NO large moon. Genuine xianxia atmosphere, refined and composed.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: kiên định, bảo bọc. Triangular composition over THREE floating sacred garden terraces connected by thin luminous paths, seen from a high oblique angle. A young guardian at LOWER CENTER shields three small spirit lanterns with their robe as dark clouds roll in from LEFT; a white stag stands by them; a quiet jade sanctuary rests far UPPER RIGHT. Jade, deep green, pale gold and ivory storm mist. A small courageous act of protection; NO large moon. Genuine xianxia atmosphere, refined and composed.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/cia-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 47538
+    },
+    {
+      "url": "/assets/lesson-backgrounds/cia-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 172696
+    },
+    {
+      "url": "/assets/lesson-backgrounds/cia-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 370326
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/cia-xianxia-v1.png"
+}

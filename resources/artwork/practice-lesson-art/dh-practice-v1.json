@@ -1,0 +1,33 @@
+{
+  "id": "dh",
+  "assetStem": "dh-practice-v1",
+  "name": "Kim Bằng Truyền Tín",
+  "category": "nhân vật & linh thú",
+  "deep": "#454434",
+  "scene": "EXACTLY ONE adult Chinese female messenger in ivory and rust-red robes at RIGHT and EXACTLY ONE majestic golden roc/eagle with partially opened wings beside her. She ties a small unmarked silk message tube to its leg on a high maple-covered cliff. Russet, muted teal, rose dawn, gold; longing and hopeful trust, no other birds, humans or beast-shaped clouds.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese female messenger in ivory and rust-red robes at RIGHT and EXACTLY ONE majestic golden roc/eagle with partially opened wings beside her. She ties a small unmarked silk message tube to its leg on a high maple-covered cliff. Russet, muted teal, rose dawn, gold; longing and hopeful trust, no other birds, humans or beast-shaped clouds.",
+  "generator": "Built-in ImageGen; Chinese Xianxia practice motifs; one per lesson",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/dh-practice-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 40238
+    },
+    {
+      "url": "/assets/practice-lesson-art/dh-practice-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 137376
+    },
+    {
+      "url": "/assets/practice-lesson-art/dh-practice-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 288958
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/dh-practice-v1.png"
+}

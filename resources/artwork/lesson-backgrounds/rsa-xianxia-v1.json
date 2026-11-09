@@ -1,0 +1,32 @@
+{
+  "id": "rsa",
+  "assetStem": "rsa-xianxia-v1",
+  "name": "Giữ cửa trước vực tối",
+  "emotion": "bi tráng, can đảm",
+  "scene": "A monumental ancient bronze spirit gate set into a towering cliff on the LEFT, DRAMATIC LOW THREE-QUARTER view. A lone Chinese sword guardian at LOWER RIGHT braces a luminous blade against a tide of dark violet mist coming through a narrow crack; a small group of companions retreat safely into warm light behind the guardian at FAR RIGHT. Oxidized bronze, deep jade, violet and restrained gold. Noble courage and sacrifice, no gore, no grotesque creatures, clear heroic silhouette.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: bi tráng, can đảm. A monumental ancient bronze spirit gate set into a towering cliff on the LEFT, DRAMATIC LOW THREE-QUARTER view. A lone Chinese sword guardian at LOWER RIGHT braces a luminous blade against a tide of dark violet mist coming through a narrow crack; a small group of companions retreat safely into warm light behind the guardian at FAR RIGHT. Oxidized bronze, deep jade, violet and restrained gold. Noble courage and sacrifice, no gore, no grotesque creatures, clear heroic silhouette.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/rsa-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 44818
+    },
+    {
+      "url": "/assets/lesson-backgrounds/rsa-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 158890
+    },
+    {
+      "url": "/assets/lesson-backgrounds/rsa-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 332080
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/rsa-xianxia-v1.png"
+}

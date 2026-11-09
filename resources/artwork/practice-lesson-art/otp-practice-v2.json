@@ -1,0 +1,33 @@
+{
+  "id": "otp",
+  "assetStem": "otp-practice-v2",
+  "name": "Nhất Niệm Châu",
+  "category": "đan dược",
+  "deep": "#273c50",
+  "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese alchemist in midnight blue and pale pink hanfu carefully catches the single pearl pill above the vial. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A SINGLE luminous pearl-like spiritual pill floating above the open mouth of a delicate blue crystal vial at RIGHT, one drop of moonlit dew suspended beneath it. Quiet lotus water and fine rain in the distance, a long horizontal silk ribbon below. Midnight blue, pale pink, silver and restrained gold; precious fleeting promise, elegant narrative composition.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese alchemist in midnight blue and pale pink hanfu carefully catches the single pearl pill above the vial. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A SINGLE luminous pearl-like spiritual pill floating above the open mouth of a delicate blue crystal vial at RIGHT, one drop of moonlit dew suspended beneath it. Quiet lotus water and fine rain in the distance, a long horizontal silk ribbon below. Midnight blue, pale pink, silver and restrained gold; precious fleeting promise, elegant narrative composition.",
+  "generator": "Built-in ImageGen; person paired with cultivation object",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/otp-practice-v2-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 33364
+    },
+    {
+      "url": "/assets/practice-lesson-art/otp-practice-v2-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 114906
+    },
+    {
+      "url": "/assets/practice-lesson-art/otp-practice-v2.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 247230
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/otp-practice-v2.png"
+}

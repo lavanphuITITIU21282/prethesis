@@ -1,0 +1,488 @@
+/* Reading layout: aligned images, explicit learning hierarchy, no artwork labels. */
+.lesson-art {
+  overflow: hidden;
+  background: #17342e;
+  border: 1px solid var(--line);
+  margin: 0 0 24px;
+  border-radius: 3px;
+}
+.lesson-art img,
+.lesson-image-grid img,
+.study-image-pair img,
+.study-image-break img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  aspect-ratio: 2/1;
+}
+.chapter-exhibit img {
+  max-height: 290px;
+  object-position: center;
+}
+.lesson-image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
+  margin: 36px 0 12px;
+  padding-top: 28px;
+  border-top: 1px solid var(--line);
+}
+.lesson-image-grid img {
+  border-radius: 3px;
+  border: 1px solid var(--line);
+  aspect-ratio: 2/1;
+}
+.chapter-card .chapter-art {
+  display: block;
+  width: 180px;
+  height: 110px;
+  object-fit: cover;
+  flex: none;
+  order: -1;
+  border-radius: 2px;
+}
+.chapter-card .module-icon,
+.chapter-card .chapter-brush {
+  display: none;
+}
+.chapter-card {
+  gap: 23px;
+  transform: none;
+}
+.chapter-card:hover {
+  transform: none;
+}
+.chapter-copy h3 {
+  font-family: var(--sans, Segoe UI, Arial, sans-serif);
+  font-weight: 700;
+  font-size: 1.13rem;
+  line-height: 1.55;
+}
+.chapter-copy .eyebrow {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  margin-bottom: 7px;
+}
+.dynasty-section-head h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.35;
+}
+.dynasty-section-head h2 em {
+  font-style: normal;
+  font-size: 1.35rem;
+}
+.dynasty-kicker {
+  font-size: 0.65rem;
+  letter-spacing: 0.09em;
+}
+.page-head {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 34%;
+  padding: 0;
+  overflow: hidden;
+  gap: 0;
+  align-items: stretch;
+}
+.page-head::before,
+.page-emblem {
+  display: none;
+}
+.page-scene {
+  grid-column: 2;
+  grid-row: 1/3;
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 220px;
+  object-fit: cover;
+}
+.page-heading-copy {
+  grid-column: 1;
+  grid-row: 1;
+  max-width: 100%;
+  padding: 30px 30px 18px;
+}
+.page-head h1 {
+  font-size: 2.2rem;
+  line-height: 1.3;
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  max-width: 100%;
+}
+.page-catalog {
+  font-size: 0.65rem;
+  line-height: 1.7;
+  letter-spacing: 0.08em;
+  margin-bottom: 13px;
+}
+.page-head p {
+  max-width: 100%;
+  font-size: 0.9rem;
+  line-height: 1.85;
+}
+.page-head > .btn {
+  grid-column: 1;
+  grid-row: 2;
+  justify-self: start;
+  margin: 0 30px 25px;
+}
+.reader-title-panel {
+  background: var(--surface);
+  padding: 25px;
+  margin: 0 0 28px;
+  min-height: 0;
+  border: 1px solid var(--line);
+  border-top: 4px solid #a84230;
+}
+.reader-title-panel::before,
+.reader-title-panel::after {
+  display: none;
+}
+.reader-title-panel > .eyebrow {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+.reader-title-panel h1 {
+  font:
+    700 clamp(1.7rem, 2.6vw, 2.5rem) / 1.4 Segoe UI,
+    Arial,
+    sans-serif;
+  color: var(--ink);
+  max-width: 100%;
+  margin-top: 12px;
+}
+.reader-title-panel .reader-intro {
+  color: var(--muted);
+  font-size: 0.97rem;
+  max-width: 100%;
+  line-height: 1.9;
+}
+.reader-scene {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 2px;
+  margin: 23px 0;
+}
+.reader-passport {
+  margin-top: 16px;
+}
+.reader-passport span {
+  color: var(--ink);
+  background: var(--soft);
+  border-color: var(--line);
+  font-size: 0.72rem;
+}
+.reader-body > h2 {
+  font:
+    700 clamp(1.4rem, 2vw, 1.85rem) / 1.5 Segoe UI,
+    Arial,
+    sans-serif;
+  letter-spacing: 0;
+  padding: 20px 22px;
+  margin: 30px 0 22px;
+  background: var(--soft);
+  border-left: 4px solid #a84230;
+  color: var(--ink);
+}
+.section-kicker {
+  display: block;
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  margin-bottom: 8px;
+}
+.study-guide > section {
+  margin: 38px 0;
+}
+.study-block-heading {
+  padding: 16px 0 16px;
+  border-bottom: 2px solid var(--line);
+  gap: 15px;
+  align-items: center;
+}
+.study-block-heading h3 {
+  font:
+    700 1.28rem/1.5 Segoe UI,
+    Arial,
+    sans-serif;
+  color: var(--ink);
+  letter-spacing: 0;
+}
+.study-block-heading .eyebrow {
+  font-size: 0.69rem;
+  letter-spacing: 0.045em;
+  font-weight: 700;
+  line-height: 1.7;
+  color: var(--muted);
+  margin-bottom: 5px;
+}
+.study-block-number {
+  width: 43px;
+  height: 47px;
+  flex: none;
+  display: grid;
+  place-items: center;
+  font:
+    700 1.1rem/1 Segoe UI,
+    Arial,
+    sans-serif;
+  background: var(--green);
+  color: var(--surface);
+  border: 0;
+  border-radius: 3px;
+}
+.study-block-heading > .study-emblem {
+  width: 34px;
+  height: 34px;
+  opacity: 0.55;
+}
+.study-example,
+.study-checkpoint {
+  border-radius: 3px;
+  padding: 24px;
+}
+.study-question-paper h4,
+.study-command h4 {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  font-weight: 700;
+}
+.study-image-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin: 32px 0;
+}
+.study-image-pair img {
+  border-radius: 3px;
+  aspect-ratio: 3/2;
+}
+.study-image-break {
+  margin: 32px 0;
+}
+.study-image-break img {
+  max-height: 230px;
+  border-radius: 3px;
+}
+.reader-artwork {
+  margin: 0;
+}
+.reader-artwork img {
+  aspect-ratio: 3/2;
+}
+.dark .reader-title-panel {
+  background: var(--surface);
+}
+.dark .reader-title-panel h1,
+.dark .study-block-heading h3 {
+  color: var(--ink);
+}
+.dark .reader-title-panel .reader-intro,
+.dark .reader-title-panel > .eyebrow {
+  color: var(--muted);
+}
+.dark .reader-passport span {
+  background: var(--soft);
+  color: var(--ink);
+  border-color: var(--line);
+}
+.dark .study-block-number {
+  background: #d6bd86;
+  color: #18352b;
+}
+.focus-mode .reader-artwork,
+.focus-mode .reader-scene,
+.focus-mode .study-image-pair,
+.focus-mode .study-image-break {
+  display: none;
+}
+@media (max-width: 1250px) {
+  .chapter-card .chapter-art {
+    width: 125px;
+    height: 100px;
+  }
+  .page-head h1 {
+    font-size: 1.9rem;
+  }
+  .page-heading-copy {
+    padding: 24px;
+  }
+  .page-head > .btn {
+    margin-left: 24px;
+  }
+  .chapter-card {
+    gap: 16px;
+  }
+}
+@media (max-width: 760px) {
+  .lesson-image-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px;
+    margin-top: 25px;
+  }
+  .chapter-card .chapter-art {
+    width: 93px;
+    height: 95px;
+  }
+  .chapter-card {
+    gap: 14px;
+  }
+  .chapter-copy h3 {
+    font-size: 1rem;
+  }
+  .chapter-copy .eyebrow {
+    font-size: 0.62rem;
+  }
+  .chapter-tail {
+    display: none;
+  }
+  .page-head {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .page-scene {
+    grid-column: 1;
+    grid-row: 3;
+    width: 100%;
+    height: 145px;
+    min-height: 0;
+  }
+  .page-heading-copy {
+    grid-column: 1;
+    grid-row: 1;
+    padding: 23px;
+  }
+  .page-head > .btn {
+    grid-column: 1;
+    grid-row: 2;
+    margin: 0 23px 22px;
+  }
+  .page-head h1 {
+    font-size: 1.85rem;
+  }
+  .page-catalog {
+    font-size: 0.6rem;
+  }
+  .reader-title-panel {
+    padding: 20px 17px;
+    margin: 0 0 24px;
+  }
+  .reader-title-panel h1 {
+    font-size: 1.75rem;
+  }
+  .reader-scene {
+    height: 160px;
+    margin: 20px 0;
+  }
+  .reader-title-panel .reader-intro {
+    font-size: 0.91rem;
+  }
+  .reader-body > h2 {
+    padding: 17px 15px;
+    font-size: 1.4rem;
+  }
+  .study-block-heading h3 {
+    font-size: 1.15rem;
+  }
+  .study-block-heading .eyebrow {
+    font-size: 0.66rem;
+  }
+  .study-block-number {
+    width: 37px;
+    height: 43px;
+  }
+  .study-block-heading > .study-emblem {
+    display: none;
+  }
+  .study-example,
+  .study-checkpoint {
+    padding: 19px 15px;
+  }
+  .study-image-pair {
+    gap: 12px;
+    margin: 25px 0;
+  }
+  .study-image-pair img {
+    aspect-ratio: 1/1;
+  }
+  .study-image-break img {
+    max-height: 170px;
+  }
+  .dynasty-section-head h2 {
+    font-size: 1.6rem;
+  }
+  .dynasty-section-head h2 em {
+    font-size: 1.15rem;
+  }
+}
+@media (max-width: 430px) {
+  .chapter-card .chapter-art {
+    width: 78px;
+    height: 92px;
+  }
+  .chapter-copy p {
+    line-height: 1.9;
+  }
+  .chapter-card {
+    gap: 12px;
+    padding: 17px 12px;
+  }
+  .study-block-heading {
+    gap: 11px;
+  }
+  .reader-passport span {
+    font-size: 0.65rem;
+  }
+}
+@media print {
+  .lesson-art,
+  .lesson-image-grid,
+  .chapter-art,
+  .page-scene,
+  .reader-scene,
+  .study-image-pair,
+  .study-image-break {
+    display: none !important;
+  }
+  .page-head {
+    display: block;
+  }
+  .reader-title-panel {
+    background: white;
+    color: black;
+  }
+  .reader-title-panel h1 {
+    color: black;
+  }
+}
+
+/* Keep subjects on the detailed side visible when a wide illustration is cropped. */
+.chapter-art,
+.page-scene,
+.reader-artwork img,
+.study-image-pair img {
+  object-position: 80% center;
+}
+.reader-side h2 {
+  font:
+    700 1.08rem/1.55 Segoe UI,
+    Arial,
+    sans-serif;
+  margin-bottom: 16px;
+}
+.reader-side .outline-link {
+  font-size: 0.88rem;
+  line-height: 1.75;
+  padding-block: 12px;
+}
+@media (max-width: 430px) {
+  .lesson-image-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

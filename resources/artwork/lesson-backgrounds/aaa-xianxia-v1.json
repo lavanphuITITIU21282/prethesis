@@ -1,0 +1,32 @@
+{
+  "id": "aaa",
+  "assetStem": "aaa-xianxia-v1",
+  "name": "Bước đầu vào tiên môn",
+  "emotion": "háo hức, hy vọng",
+  "scene": "A vast immortal sect entrance carved into a cloud cliff, viewed FROM THE BOTTOM of a long diagonal stair rising from LOWER LEFT to UPPER CENTER. A nervous young disciple with a small travel bundle is welcomed by a gentle elder and a curious spirit fox on the steps. Peach dawn, celadon stone, cream and warm copper. Hopeful initiation and tender anticipation; monumental Chinese timber gate, drifting cloud sea, NO moon.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: háo hức, hy vọng. A vast immortal sect entrance carved into a cloud cliff, viewed FROM THE BOTTOM of a long diagonal stair rising from LOWER LEFT to UPPER CENTER. A nervous young disciple with a small travel bundle is welcomed by a gentle elder and a curious spirit fox on the steps. Peach dawn, celadon stone, cream and warm copper. Hopeful initiation and tender anticipation; monumental Chinese timber gate, drifting cloud sea, NO moon.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/aaa-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 44036
+    },
+    {
+      "url": "/assets/lesson-backgrounds/aaa-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 149254
+    },
+    {
+      "url": "/assets/lesson-backgrounds/aaa-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 309090
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/aaa-xianxia-v1.png"
+}

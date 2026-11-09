@@ -1,0 +1,32 @@
+[
+  {
+    "id": "source-1",
+    "file": "FCoDS note 14_10.pdf",
+    "pageCount": 3
+  },
+  {
+    "id": "source-2",
+    "file": "FCoDS_W01 - Information Security Concepts.pdf",
+    "pageCount": 30
+  },
+  {
+    "id": "source-3",
+    "file": "FCoDS_W02 - Applied Cryptography.pdf",
+    "pageCount": 22
+  },
+  {
+    "id": "source-4",
+    "file": "FCoDS_W03-W04_Secret_Key_Encryption.pdf",
+    "pageCount": 45
+  },
+  {
+    "id": "source-5",
+    "file": "FCoDS_W5_One-Way Hash Function.pdf",
+    "pageCount": 45
+  },
+  {
+    "id": "source-6",
+    "file": "FCoDS_W7_ Public Key Cryptography.pdf",
+    "pageCount": 58
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "generator": "Built-in image_gen; 5 separate prompts",
+  "works": [
+    {
+      "id": "foundation",
+      "title": "Tàng thư trong núi",
+      "prompt": "Use case: stylized-concept. Asset type: standalone fine-art painting for a learning website art exhibition. Contemporary Chinese historical art, exquisite gongbi detail merged with expressive ink wash, mineral pigment on silk, antique gold accents, deep jade, warm ivory, cinnabar red. Museum-quality ambitious composition with breathing space. Landscape 3:2. No words, letters, captions, borders, logos or watermarks. Not a website mockup. An impossible scholar's library carved into monumental limestone mountains; cascading terraces, warm lantern-lit windows, a tiny red bridge over a still jade lake, mist and a distant gold sun. Theme: foundations and knowledge. Sweeping spatial depth, pale ivory sky, intricate architecture.",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "url": "/assets/gallery/foundation-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 58778
+        },
+        {
+          "url": "/assets/gallery/foundation-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 223682
+        },
+        {
+          "url": "/assets/gallery/foundation.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 517588
+        }
+      ]
+    },
+    {
+      "id": "applied",
+      "title": "Vân thành",
+      "prompt": "Use case: stylized-concept. Asset type: standalone fine-art painting for a learning website art exhibition. Contemporary Chinese historical art, exquisite gongbi detail merged with expressive ink wash, mineral pigment on silk, antique gold accents, deep jade, warm ivory, cinnabar red. Museum-quality ambitious composition with breathing space. Landscape 3:2. No words, letters, captions, borders, logos or watermarks. Not a website mockup. An ancient vermilion palace fortress floating above a sea of clouds, graceful watchtowers, luminous gold defensive rings encircling the architecture, red silk ribbons following the wind. Theme: protecting knowledge. Dramatic diagonal composition, ink navy and cinnabar, extremely refined.",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "url": "/assets/gallery/applied-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 59298
+        },
+        {
+          "url": "/assets/gallery/applied-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 212378
+        },
+        {
+          "url": "/assets/gallery/applied.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 478260
+        }
+      ]
+    },
+    {
+      "id": "symmetric",
+      "title": "Song hạc · Một bí mật",
+      "prompt": "Use case: stylized-concept. Asset type: standalone fine-art painting for a learning website art exhibition. Contemporary Chinese historical art, exquisite gongbi detail merged with expressive ink wash, mineral pigment on silk, antique gold accents, deep jade, warm ivory, cinnabar red. Museum-quality ambitious composition with breathing space. Landscape 3:2. No words, letters, captions, borders, logos or watermarks. Not a website mockup. Two mirrored celestial cranes with white and vermilion feathers circling a suspended jade bi disc, delicate golden threads linking them, ancient pavilion and lotus water beneath. Theme: a shared secret. Elegant organic symmetry, luminous jade green, ivory mist, painterly plum branches.",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "url": "/assets/gallery/symmetric-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 66786
+        },
+        {
+          "url": "/assets/gallery/symmetric-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 231508
+        },
+        {
+          "url": "/assets/gallery/symmetric.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 513930
+        }
+      ]
+    },
+    {
+      "id": "hash",
+      "title": "Dấu mực thiên sơn",
+      "prompt": "Use case: stylized-concept. Asset type: standalone fine-art painting for a learning website art exhibition. Contemporary Chinese historical art, exquisite gongbi detail merged with expressive ink wash, mineral pigment on silk, antique gold accents, deep jade, warm ivory, cinnabar red. Museum-quality ambitious composition with breathing space. Landscape 3:2. No words, letters, captions, borders, logos or watermarks. Not a website mockup. A monumental cinnabar stone seal beside an inkstone in a scholar's studio, hundreds of tiny golden square impressions transform into a winding river through misty mountains. Theme: a unique imprint. Macro-to-landscape dreamlike scale, exquisite carved stone and silk textures, deep ink and antique gold. No legible lettering even on the seal.",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "url": "/assets/gallery/hash-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 58374
+        },
+        {
+          "url": "/assets/gallery/hash-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 206092
+        },
+        {
+          "url": "/assets/gallery/hash.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 455270
+        }
+      ]
+    },
+    {
+      "id": "public",
+      "title": "Nhật nguyệt song môn",
+      "prompt": "Use case: stylized-concept. Asset type: standalone fine-art painting for a learning website art exhibition. Contemporary Chinese historical art, exquisite gongbi detail merged with expressive ink wash, mineral pigment on silk, antique gold accents, deep jade, warm ivory, cinnabar red. Museum-quality ambitious composition with breathing space. Landscape 3:2. No words, letters, captions, borders, logos or watermarks. Not a website mockup. Two ancient gates on opposite mountain peaks linked by a luminous golden bridge, one open vermilion gate under a golden sun and one closed jade gate under a silver moon, river and mist below. Theme: complementary keys. Cinematic yet painterly Chinese contemporary landscape, intricate architecture, celestial geometry.",
+      "width": 1536,
+      "height": 1024,
+      "variants": [
+        {
+          "url": "/assets/gallery/public-480.webp",
+          "width": 480,
+          "height": 320,
+          "bytes": 58832
+        },
+        {
+          "url": "/assets/gallery/public-960.webp",
+          "width": 960,
+          "height": 640,
+          "bytes": 216100
+        },
+        {
+          "url": "/assets/gallery/public.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 493288
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "hybrid",
+  "assetStem": "hybrid-xianxia-v1",
+  "name": "Chuyến đò hòa ước",
+  "emotion": "dè dặt, tin tưởng",
+  "scene": "A small immortal ferry suspended just above a misty river, viewed ALONG ITS DIAGONAL DECK. Two disciples from rival sects, one in indigo and one in ivory, meet at CENTER and exchange a sealed jade box while their elders wait on opposite banks. A tiny golden carp spirit swims through the air below LEFT; slender willow branches at RIGHT. Smoky violet, warm amber, ink blue and ivory. Guarded trust and a fragile new friendship, no giant moon.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: dè dặt, tin tưởng. A small immortal ferry suspended just above a misty river, viewed ALONG ITS DIAGONAL DECK. Two disciples from rival sects, one in indigo and one in ivory, meet at CENTER and exchange a sealed jade box while their elders wait on opposite banks. A tiny golden carp spirit swims through the air below LEFT; slender willow branches at RIGHT. Smoky violet, warm amber, ink blue and ivory. Guarded trust and a fragile new friendship, no giant moon.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/hybrid-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 44550
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hybrid-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 151916
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hybrid-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 314782
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/hybrid-xianxia-v1.png"
+}

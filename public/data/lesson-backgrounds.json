@@ -1,0 +1,1132 @@
+{
+  "generator": "Built-in ImageGen: 25 independent Chinese Xianxia scenes, emotional storytelling, one per lesson",
+  "version": 1,
+  "count": 25,
+  "works": [
+    {
+      "id": "cia",
+      "assetStem": "cia-xianxia-v1",
+      "name": "Ba ngọn đèn giữa phong ba",
+      "story": "Giữa phong ba, người giữ đèn che chở ba ngọn linh đăng cùng chú linh lộc, quyết không để ánh sáng tắt.",
+      "emotion": "kiên định, bảo bọc",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dce8db",
+        "paper": "#fafbef",
+        "accent": "#81916b",
+        "deep": "#203e30"
+      },
+      "focal": 50,
+      "lessonTitle": "Ba mục tiêu, sáu kiểu mất mát",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: kiên định, bảo bọc. Triangular composition over THREE floating sacred garden terraces connected by thin luminous paths, seen from a high oblique angle. A young guardian at LOWER CENTER shields three small spirit lanterns with their robe as dark clouds roll in from LEFT; a white stag stands by them; a quiet jade sanctuary rests far UPPER RIGHT. Jade, deep green, pale gold and ivory storm mist. A small courageous act of protection; NO large moon. Genuine xianxia atmosphere, refined and composed.",
+      "scene": "Triangular composition over THREE floating sacred garden terraces connected by thin luminous paths, seen from a high oblique angle. A young guardian at LOWER CENTER shields three small spirit lanterns with their robe as dark clouds roll in from LEFT; a white stag stands by them; a quiet jade sanctuary rests far UPPER RIGHT. Jade, deep green, pale gold and ivory storm mist. A small courageous act of protection; NO large moon. Genuine xianxia atmosphere, refined and composed.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "a77239d423bfbc66a7110ead92d909e8db8fd0dc91c20dd47d5ae32414b62b86",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/cia-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 47538,
+          "sha256": "4b6bb8be53f2d3293aec948d09441a8e78a5f1cc1bc1c23db69d5eca960ca783"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/cia-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 172696,
+          "sha256": "7f3f28d676ab431066a1c6a8afcd6f35bf7f6cee08e2c551d96130c9320fc347"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/cia-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 370326,
+          "sha256": "da43b7bb9106007c875d0c0ac178a5f380c1f8a60c5fcd1f3de05ed4f0cb72c3"
+        }
+      ]
+    },
+    {
+      "id": "aaa",
+      "assetStem": "aaa-xianxia-v1",
+      "name": "Bước đầu vào tiên môn",
+      "story": "Một đệ tử trẻ mang hành lý tới tiên môn, vừa hồi hộp vừa háo hức trước lời chào của vị trưởng bối.",
+      "emotion": "háo hức, hy vọng",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#eadfd5",
+        "paper": "#fff8ef",
+        "accent": "#aa8865",
+        "deep": "#483829"
+      },
+      "focal": 35,
+      "lessonTitle": "Danh tính, quyền và trách nhiệm",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: háo hức, hy vọng. A vast immortal sect entrance carved into a cloud cliff, viewed FROM THE BOTTOM of a long diagonal stair rising from LOWER LEFT to UPPER CENTER. A nervous young disciple with a small travel bundle is welcomed by a gentle elder and a curious spirit fox on the steps. Peach dawn, celadon stone, cream and warm copper. Hopeful initiation and tender anticipation; monumental Chinese timber gate, drifting cloud sea, NO moon.",
+      "scene": "A vast immortal sect entrance carved into a cloud cliff, viewed FROM THE BOTTOM of a long diagonal stair rising from LOWER LEFT to UPPER CENTER. A nervous young disciple with a small travel bundle is welcomed by a gentle elder and a curious spirit fox on the steps. Peach dawn, celadon stone, cream and warm copper. Hopeful initiation and tender anticipation; monumental Chinese timber gate, drifting cloud sea, NO moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "79b72f7b8911bd41180bb0c9b0836e3491a8d493695728ffd02006a6e47c2272",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/aaa-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 44036,
+          "sha256": "9f8e858e1462d3ab7718bfe861c902847c98c192b25197c90b08cb54962808a0"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/aaa-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 149254,
+          "sha256": "d5e4788fdac07d69806fdcf7732e2fdc2beecb6c218eee4ad117cd1754f71555"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/aaa-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 309090,
+          "sha256": "32aafe965c865c0c9d057da621447f9a03c5f1575e1d905c7955667446ce9bee"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "assetStem": "risk-xianxia-v1",
+      "name": "Một kiếm qua hẻm lửa",
+      "story": "Nữ kiếm tu đứng chắn trước bạn đồng hành giữa hẻm lửa; nỗi sợ nhường chỗ cho quyết tâm bảo vệ.",
+      "emotion": "sợ hãi, quyết tâm",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#ead8cf",
+        "paper": "#fff5ec",
+        "accent": "#a77652",
+        "deep": "#492c2a"
+      },
+      "focal": 50,
+      "lessonTitle": "Tài sản, mối đe dọa và rủi ro",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: sợ hãi, quyết tâm. Dramatic SIDE VIEW of a narrow broken stone ledge across a red volcanic ravine. A Chinese swordswoman at CENTER extends a luminous sword as a shield in front of a younger companion; a phoenix-shaped plume of warm fire curls upward on LEFT while a safe green mountain opening appears at FAR RIGHT. Cinnabar, charcoal, antique gold and emerald contrast. Fear becoming resolve, no gore, no giant moon or palace.",
+      "scene": "Dramatic SIDE VIEW of a narrow broken stone ledge across a red volcanic ravine. A Chinese swordswoman at CENTER extends a luminous sword as a shield in front of a younger companion; a phoenix-shaped plume of warm fire curls upward on LEFT while a safe green mountain opening appears at FAR RIGHT. Cinnabar, charcoal, antique gold and emerald contrast. Fear becoming resolve, no gore, no giant moon or palace.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "6cbb564016642fa820f736fc342f456e05736b6cc8656bda5dd9e34e6b52a891",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/risk-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 48944,
+          "sha256": "79ab01b29792051099b362fa4a809d0290d7ed670e089ff4181eb924b7ecb62a"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/risk-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 174050,
+          "sha256": "89b393e2fa65c49e9f41ffe445479ef17f34bb554ff3c77dd2610bd9e11211ab"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/risk-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 376062,
+          "sha256": "c9a972805f091cf45421d8faf13c0dacf7f0d6e41bef3eca15c5ac0e3044b737"
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "assetStem": "services-xianxia-v1",
+      "name": "Bình minh ở Dược Cốc",
+      "story": "Người y tu chăm sóc cánh hạc bị mỏi, trong khi học trò mang tới bát dược ấm ở Dược Cốc.",
+      "emotion": "dịu dàng, chữa lành",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dfe9db",
+        "paper": "#fafbee",
+        "accent": "#869775",
+        "deep": "#304b37"
+      },
+      "focal": 30,
+      "lessonTitle": "Dịch vụ và cơ chế bảo vệ",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: dịu dàng, chữa lành. An intimate immortal herbal valley, viewed FROM UNDER A LOW BAMBOO EAVE. A healer kneels at LEFT foreground to gently bind a tired white crane's wing, an apprentice brings a celadon bowl from CENTER, blooming medicinal flowers and a waterfall-fed pool stretch toward RIGHT. Pale sage, soft coral, creamy gold and misty turquoise. Compassion and relief, one small alchemy hut tucked among giant roots, subtle spiritual glow, no moon.",
+      "scene": "An intimate immortal herbal valley, viewed FROM UNDER A LOW BAMBOO EAVE. A healer kneels at LEFT foreground to gently bind a tired white crane's wing, an apprentice brings a celadon bowl from CENTER, blooming medicinal flowers and a waterfall-fed pool stretch toward RIGHT. Pale sage, soft coral, creamy gold and misty turquoise. Compassion and relief, one small alchemy hut tucked among giant roots, subtle spiritual glow, no moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "ac7a778df47f5add23addb1894dca6230e8ade91b7bf3de3a2d01ec447b935ec",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/services-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 49174,
+          "sha256": "49d197e056591a63566177e645d266678a13aee287d23cb84171e2f1a30b2cdd"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/services-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 174752,
+          "sha256": "3c64b5b8a486d020bfe7f14ff192a44c32bc75e6ccf15405acd0fddbd14bee6a"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/services-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 374580,
+          "sha256": "83f6aa7b6e32d11c86af97f538a245d66520ec68d27c7d90410ac552b7a45d8c"
+        }
+      ]
+    },
+    {
+      "id": "keys",
+      "assetStem": "keys-xianxia-v1",
+      "name": "Hai chìa khóa của Kiếm Lư",
+      "story": "Thầy và trò trong Kiếm Lư cùng tìm cách ghép hai mảnh cơ quan, lặng lẽ khám phá một bí mật cổ.",
+      "emotion": "tập trung, tò mò",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dbe5df",
+        "paper": "#f8faef",
+        "accent": "#9b865e",
+        "deep": "#203d38"
+      },
+      "focal": 50,
+      "lessonTitle": "Bản rõ, bản mã và hai họ khóa",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: tập trung, tò mò. INTERIOR THREE-QUARTER perspective in a celestial swordsmith's forge. Two complementary jade-and-bronze key-like sword fittings rest at CENTER on a diagonal dark worktable; an elderly Chinese swordsmith on RIGHT guides a young disciple at LEFT as they study the mechanism. A circular furnace glows behind them, one magical sword floats above a water trough in BACKGROUND. Warm copper, midnight teal and ivory sparks. Tactile concentration and discovery, sparse controlled sparks, no text.",
+      "scene": "INTERIOR THREE-QUARTER perspective in a celestial swordsmith's forge. Two complementary jade-and-bronze key-like sword fittings rest at CENTER on a diagonal dark worktable; an elderly Chinese swordsmith on RIGHT guides a young disciple at LEFT as they study the mechanism. A circular furnace glows behind them, one magical sword floats above a water trough in BACKGROUND. Warm copper, midnight teal and ivory sparks. Tactile concentration and discovery, sparse controlled sparks, no text.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "994f651a22e19d7da318f68e51c44b31724fab1e9f17f9439183f101ae83cbba",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/keys-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 45708,
+          "sha256": "197a4a20b8fae349277490f655ce8d3fe91db57eb25cfe824cd9a074c234cd94"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/keys-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 150492,
+          "sha256": "7f2a05cc13df7664125a6263acd0839f9556f11032e6edbc1dd44aa0d2aea1fc"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/keys-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 305484,
+          "sha256": "d60736bbdf4deaa4c42be836a17bcb52eee2f956b4d8fbda2b2ad8dc93550757"
+        }
+      ]
+    },
+    {
+      "id": "hybrid",
+      "assetStem": "hybrid-xianxia-v1",
+      "name": "Chuyến đò hòa ước",
+      "story": "Hai người từ hai môn phái đối nghịch gặp nhau trên chuyến đò; lòng tin bắt đầu từ một lần trao vật quý.",
+      "emotion": "dè dặt, tin tưởng",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e3dce9",
+        "paper": "#faf6ef",
+        "accent": "#927d9f",
+        "deep": "#352c48"
+      },
+      "focal": 50,
+      "lessonTitle": "Mã hóa lai và niềm tin vào khóa",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: dè dặt, tin tưởng. A small immortal ferry suspended just above a misty river, viewed ALONG ITS DIAGONAL DECK. Two disciples from rival sects, one in indigo and one in ivory, meet at CENTER and exchange a sealed jade box while their elders wait on opposite banks. A tiny golden carp spirit swims through the air below LEFT; slender willow branches at RIGHT. Smoky violet, warm amber, ink blue and ivory. Guarded trust and a fragile new friendship, no giant moon.",
+      "scene": "A small immortal ferry suspended just above a misty river, viewed ALONG ITS DIAGONAL DECK. Two disciples from rival sects, one in indigo and one in ivory, meet at CENTER and exchange a sealed jade box while their elders wait on opposite banks. A tiny golden carp spirit swims through the air below LEFT; slender willow branches at RIGHT. Smoky violet, warm amber, ink blue and ivory. Guarded trust and a fragile new friendship, no giant moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "9d538042f6a7558505c48be069aa6f88493e6a32afb37147cebc291d8b3b90ea",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/hybrid-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 44550,
+          "sha256": "43276f39e43ee77399fb54c85781071545565446b3f5cfd19a67e02644aa6016"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hybrid-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 151916,
+          "sha256": "6b3b100a954815ea6edcb5083480dbf35c85c68d0b5bcc5e4782d83f4cc87c21"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hybrid-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 314782,
+          "sha256": "dc1f5eec3d941feb22df99a6a105f22807251ebd90e9d01eee9b51a956ed8ca8"
+        }
+      ]
+    },
+    {
+      "id": "sign-intro",
+      "assetStem": "sign-intro-xianxia-v1",
+      "name": "Ấn ngọc trước ngày xuống núi",
+      "story": "Trước ngày đệ tử xuống núi, người thầy trao ấn ngọc, mang theo niềm tự hào và chút lưu luyến.",
+      "emotion": "lưu luyến, tự hào",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#ebd9d0",
+        "paper": "#fff7ee",
+        "accent": "#a8765f",
+        "deep": "#47302b"
+      },
+      "focal": 45,
+      "lessonTitle": "Hash, MAC và chữ ký khác nhau ở đâu?",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: lưu luyến, tự hào. A quiet celestial scholar hall at sunset, close TABLE-SIDE view. An old master seated on LEFT gives a carved jade seal with ABSTRACT non-lettered design to a departing young disciple standing at CENTER, a small fox curls beside a travel bundle at RIGHT. An open octagonal window frames falling golden ginkgo leaves and distant floating rocks. Warm ivory, dark walnut, muted olive and old gold. Pride mixed with a tender farewell; readable gesture, not posed portraits.",
+      "scene": "A quiet celestial scholar hall at sunset, close TABLE-SIDE view. An old master seated on LEFT gives a carved jade seal with ABSTRACT non-lettered design to a departing young disciple standing at CENTER, a small fox curls beside a travel bundle at RIGHT. An open octagonal window frames falling golden ginkgo leaves and distant floating rocks. Warm ivory, dark walnut, muted olive and old gold. Pride mixed with a tender farewell; readable gesture, not posed portraits.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "3a1b83b2a1468cc28a3c1c6019404a9babb1b7001861f494f161310b5620df48",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/sign-intro-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 42040,
+          "sha256": "56d8d00281bcf78fc3d453b86dbb308b600cb914020398239208a5a63cc143c3"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/sign-intro-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 142430,
+          "sha256": "9e2b2c5cc4d6ee84f4819fcaa75247f5d9ad234315f4028f2cd3b0372530ac40"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/sign-intro-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 297466,
+          "sha256": "4f30e718f850707ef52501b856efe74601355cd9cab58008f59e3a53e696ce0c"
+        }
+      ]
+    },
+    {
+      "id": "caesar",
+      "assetStem": "caesar-xianxia-v1",
+      "name": "Hội đèn trên mây",
+      "story": "Những người bạn cùng thả đèn sen trong hội mây, vui vì đã tìm được nơi mình thuộc về.",
+      "emotion": "hân hoan, náo nức",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#eadfca",
+        "paper": "#fcf6e9",
+        "accent": "#a88454",
+        "deep": "#46372c"
+      },
+      "focal": 70,
+      "lessonTitle": "Caesar và cách đánh giá độ an toàn",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: hân hoan, náo nức. A joyful immortal lantern festival in an ancient Chinese sky-market, HIGH CURVED-BRIDGE viewpoint. A group of young disciples laugh while releasing glowing lotus lanterns at LOWER RIGHT; a dragon-shaped kite curves across UPPER LEFT and a lively lantern street spirals around a cloud island in the middle distance. Vermilion, turquoise, warm cream and gold. Warm celebration and belonging; compose one main cluster with airy sky, no readable shop signs, no giant moon.",
+      "scene": "A joyful immortal lantern festival in an ancient Chinese sky-market, HIGH CURVED-BRIDGE viewpoint. A group of young disciples laugh while releasing glowing lotus lanterns at LOWER RIGHT; a dragon-shaped kite curves across UPPER LEFT and a lively lantern street spirals around a cloud island in the middle distance. Vermilion, turquoise, warm cream and gold. Warm celebration and belonging; compose one main cluster with airy sky, no readable shop signs, no giant moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "04bdbb804d908398d3b6d7c911f570d7a284004fc5077b06f562ff4b3ed0eaef",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/caesar-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 49060,
+          "sha256": "e14d8e7eb6e0c45ce216c8c6c05273beba55b9ac33d4065d33587bcedeab9faa"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/caesar-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 167844,
+          "sha256": "c577181fc699c04f77ed2bb7a7265270c2514e09600a9ee196a2687abaf335bc"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/caesar-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 350234,
+          "sha256": "5f44991b5f8f087fce1c4a54fd7efef4a700ca3522ebd122364f839025a98bb8"
+        }
+      ]
+    },
+    {
+      "id": "substitution",
+      "assetStem": "substitution-xianxia-v1",
+      "name": "Sau chiếc mặt nạ Nguyệt Ban",
+      "story": "Sau chiếc mặt nạ của tiên ban là một ánh nhìn khó đoán và lời nhắn bí mật vừa được chuyển tay.",
+      "emotion": "bí ẩn, tò mò",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e9d7df",
+        "paper": "#fdf6f1",
+        "accent": "#95677e",
+        "deep": "#422b3e"
+      },
+      "focal": 50,
+      "lessonTitle": "Thay thế đơn bảng và dấu vết ngôn ngữ",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: bí ẩn, tò mò. Backstage of a traveling immortal Chinese opera troupe, view THROUGH A PARTED SILK CURTAIN at LEFT. An enigmatic performer at CENTER lowers an ornate mask just enough to meet the eyes of a visiting swordswoman at RIGHT; a folded blank silk message passes between them, enchanted paper butterflies hover above one dressing mirror. Dusty rose, deep plum, teal, candle gold. Intrigue and a delicate secret, layered but uncluttered costumes, no moon.",
+      "scene": "Backstage of a traveling immortal Chinese opera troupe, view THROUGH A PARTED SILK CURTAIN at LEFT. An enigmatic performer at CENTER lowers an ornate mask just enough to meet the eyes of a visiting swordswoman at RIGHT; a folded blank silk message passes between them, enchanted paper butterflies hover above one dressing mirror. Dusty rose, deep plum, teal, candle gold. Intrigue and a delicate secret, layered but uncluttered costumes, no moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "62b926ec40fdace3ed236d76de660fa6d1eb03cdeda6656e3ed630d463d99738",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/substitution-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 37476,
+          "sha256": "f923cd4ec5299a3c948e74d3c049bb00ef647f17153a2884171d5325e45c47ea"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/substitution-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 119670,
+          "sha256": "93aad13a034759d9f231a4bc8f2d6851c849c459427acf3da6feb5ffda0048f4"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/substitution-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 247280,
+          "sha256": "aebbb02ed439b1b9cc1d13657080937b6c06fba43389cfb5f71af49b3535a7cb"
+        }
+      ]
+    },
+    {
+      "id": "otp",
+      "assetStem": "otp-xianxia-v1",
+      "name": "Cánh sen chở lời hẹn",
+      "story": "Một cánh sen mang lời hẹn trôi đi trong mưa, giữ hộ nỗi nhớ của người vẫn chờ bên cầu.",
+      "emotion": "nhớ nhung, thủy chung",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dce6ed",
+        "paper": "#f8f9f5",
+        "accent": "#75899c",
+        "deep": "#233b4a"
+      },
+      "focal": 75,
+      "lessonTitle": "XOR và điều kiện của one-time pad",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: nhớ nhung, thủy chung. A lonely stone bridge in a vast rain-filled lotus marsh, WIDE LOW WATER-LEVEL perspective. A young immortal woman at RIGHT kneels to set a single glowing lotus carrying an unlettered folded message onto the water; far LEFT an indistinct lantern hints at someone waiting. Thin rain, long reflected ripples, no buildings in foreground. Midnight blue, soft pink, silver and a little warm gold. Devotion and yearning, poetic quiet, one small crescent reflected in the water only.",
+      "scene": "A lonely stone bridge in a vast rain-filled lotus marsh, WIDE LOW WATER-LEVEL perspective. A young immortal woman at RIGHT kneels to set a single glowing lotus carrying an unlettered folded message onto the water; far LEFT an indistinct lantern hints at someone waiting. Thin rain, long reflected ripples, no buildings in foreground. Midnight blue, soft pink, silver and a little warm gold. Devotion and yearning, poetic quiet, one small crescent reflected in the water only.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "3be54d1af6733928b449ede32011fc95111837906877a2d5e33785b1190095a7",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/otp-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 38078,
+          "sha256": "1ba857c9e0a0482176977fd83b8053a96ca7b26a3e151ada74950ad92927a791"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/otp-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 124504,
+          "sha256": "ba9eec9ac2a08cae3e57d49489194123d244a41fdb59cef7f1265409018f1055"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/otp-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 258050,
+          "sha256": "143fdeb5999a9523e9e747cc64986fb825845100647a3af480ea9f01710c6d07"
+        }
+      ]
+    },
+    {
+      "id": "aes",
+      "assetStem": "aes-xianxia-v1",
+      "name": "Người giữ Băng Điện",
+      "story": "Giữa Băng Điện tĩnh lặng, người hộ vệ cùng linh báo bền lòng canh giữ khối ngọc sáng.",
+      "emotion": "tĩnh lặng, vững vàng",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dfe3e8",
+        "paper": "#fbf9f1",
+        "accent": "#767e99",
+        "deep": "#26384e"
+      },
+      "focal": 50,
+      "lessonTitle": "DES, AES và hai loại kích thước",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: tĩnh lặng, vững vàng. A crystalline immortal ice hall, STRONG CENTRAL ONE-POINT perspective. A lone white-and-blue armored guardian stands at CENTER before a small suspended jade crystal inside a geometric frost shrine; a snow leopard rests at LEFT foreground, fine ice columns recede along both sides, pale morning light enters from a high arch. Ice cyan, ultramarine, silver and ivory. Stoic calm and steadfastness, elegant Chinese roof geometry in ice, no moon or decorative clutter.",
+      "scene": "A crystalline immortal ice hall, STRONG CENTRAL ONE-POINT perspective. A lone white-and-blue armored guardian stands at CENTER before a small suspended jade crystal inside a geometric frost shrine; a snow leopard rests at LEFT foreground, fine ice columns recede along both sides, pale morning light enters from a high arch. Ice cyan, ultramarine, silver and ivory. Stoic calm and steadfastness, elegant Chinese roof geometry in ice, no moon or decorative clutter.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "09b42846d549b51fb2a3a6d16659ba85af1ba63773cd67b01c64a2b82f963680",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/aes-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 46026,
+          "sha256": "b67f880899dd009195ee6f7b9a2334db6285796be2cf226232037df14e463ab8"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/aes-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 168514,
+          "sha256": "ce0889da541157e75bc8b0fd6dced01e1d44e2513e7ee6dd0f81e159400eb56c"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/aes-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 375674,
+          "sha256": "d9e2573e18943553b4d9bb5d4b2795b9ce167a801ce0fd64527dd744d99100c6"
+        }
+      ]
+    },
+    {
+      "id": "cbc",
+      "assetStem": "cbc-xianxia-v1",
+      "name": "Bạn đường qua suối ngọc",
+      "story": "Trên những phiến đá qua suối, người đi trước quay lại nắm tay bạn; cả đoàn cùng vượt một đoạn đường.",
+      "emotion": "ấm áp, đồng hành",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#d9eadf",
+        "paper": "#f6faf0",
+        "accent": "#6b927d",
+        "deep": "#214738"
+      },
+      "focal": 50,
+      "lessonTitle": "ECB, CBC, IV và padding",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: ấm áp, đồng hành. A lush immortal bamboo ravine viewed from a HIGH DIAGONAL bank. Three traveling companions cross a winding line of stepping stones over jade water; the leading swordsman at UPPER LEFT reaches back to help a friend in CENTER while a playful spirit deer follows at LOWER RIGHT. One orange traveling lantern reflected in water, layered bamboo and a distant hanging waterfall. Fresh green, turquoise, honey gold. Friendship, warmth and shared effort, no palace or moon.",
+      "scene": "A lush immortal bamboo ravine viewed from a HIGH DIAGONAL bank. Three traveling companions cross a winding line of stepping stones over jade water; the leading swordsman at UPPER LEFT reaches back to help a friend in CENTER while a playful spirit deer follows at LOWER RIGHT. One orange traveling lantern reflected in water, layered bamboo and a distant hanging waterfall. Fresh green, turquoise, honey gold. Friendship, warmth and shared effort, no palace or moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "bc255824de4996b45c7208ddf8fe55f11709b5e5f23abac9f6b331b631ac23b4",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/cbc-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 54816,
+          "sha256": "7f64de6b44b06fdd9a4df25a56c198e2d1bd3261a82a56c48ea55b67a61a56d4"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/cbc-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 194112,
+          "sha256": "ffd0a50ed51de021d1b3f6b71a056fe2043b537fd26e773d55dd71d28fb11a1d"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/cbc-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 411488,
+          "sha256": "71aa818b9dcac5743d16f67896ea7ddfda21d6ae30cdd86198d9213998f20244"
+        }
+      ]
+    },
+    {
+      "id": "ctr",
+      "assetStem": "ctr-xianxia-v1",
+      "name": "Đua thuyền giữa biển mây",
+      "story": "Hai người bạn lái thuyền bay xuyên biển mây, cùng reo vui trước cuộc đua và bầu trời rộng mở.",
+      "emotion": "phấn khích, tự do",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#d9e4ed",
+        "paper": "#f7f9f7",
+        "accent": "#6389a4",
+        "deep": "#213951"
+      },
+      "focal": 35,
+      "lessonTitle": "CFB, OFB và CTR: theo dấu dòng khóa",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: phấn khích, tự do. An exhilarating immortal sky-boat regatta, dynamic VIEW FROM A NEAR BOAT'S BOW at LOWER LEFT. Two young Chinese cultivators steer an elegant wooden flying skiff diagonally toward UPPER RIGHT through a canyon of floating islands; a rival boat sweeps past BELOW CENTER and long silk pennants curve in the wind. Turquoise, warm orange, cloud white, cobalt. Joyful speed and freedom; broad clear composition, a few controlled magical trails, no modern machinery or moon.",
+      "scene": "An exhilarating immortal sky-boat regatta, dynamic VIEW FROM A NEAR BOAT'S BOW at LOWER LEFT. Two young Chinese cultivators steer an elegant wooden flying skiff diagonally toward UPPER RIGHT through a canyon of floating islands; a rival boat sweeps past BELOW CENTER and long silk pennants curve in the wind. Turquoise, warm orange, cloud white, cobalt. Joyful speed and freedom; broad clear composition, a few controlled magical trails, no modern machinery or moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "4ea2177a20eb64a7a84d4b0359e9b868070be88d03ff635ba027ce7f7f356908",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/ctr-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 48044,
+          "sha256": "9ff731fe0caaf5fbacfc57eec9114eed4cee99945b1c79b44049d9f5522c8df7"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/ctr-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 161052,
+          "sha256": "d38443b58e690e1ea7c611183d7366d5981acbb5c977fad6a15ba21a523faaca"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/ctr-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 338290,
+          "sha256": "1a29a9fadf64297e42a3d00e89ae4071c808f15c6658d1b378187eb444c9638f"
+        }
+      ]
+    },
+    {
+      "id": "shell",
+      "assetStem": "shell-xianxia-v1",
+      "name": "Mẻ đan nở thành hoa",
+      "story": "Mẻ đan bất ngờ nở thành hoa khiến học trò tròn mắt, còn vị sư phụ chỉ mỉm cười dịu dàng.",
+      "emotion": "bất ngờ, dí dỏm",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e5e3d4",
+        "paper": "#fff9ed",
+        "accent": "#8d936f",
+        "deep": "#3f3b46"
+      },
+      "focal": 50,
+      "lessonTitle": "Đọc lệnh theo ngữ cảnh",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: bất ngờ, dí dỏm. A charming celestial alchemy courtyard, INTERIOR-TO-GARDEN oblique view. A young alchemist at CENTER stares in surprised delight as a small bronze cauldron releases a bouquet of luminous blossoms and two butterflies instead of smoke; an elder on LEFT laughs gently and a spirit rabbit peeks from behind jars at RIGHT. Sage, plum, amber, cream. Playful wonder and a harmless mistake, Chinese lattice roof and giant medicinal leaves, no words or chaotic explosion.",
+      "scene": "A charming celestial alchemy courtyard, INTERIOR-TO-GARDEN oblique view. A young alchemist at CENTER stares in surprised delight as a small bronze cauldron releases a bouquet of luminous blossoms and two butterflies instead of smoke; an elder on LEFT laughs gently and a spirit rabbit peeks from behind jars at RIGHT. Sage, plum, amber, cream. Playful wonder and a harmless mistake, Chinese lattice roof and giant medicinal leaves, no words or chaotic explosion.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "56e29507e1c91d5caf1dd789d7463e0657d08638bf9fc500d929ffbac0234474",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/shell-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 47402,
+          "sha256": "8af13ed604b3c672e2721edb9352b93a6bb66b36e7eb123afd162243940869d0"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/shell-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 164424,
+          "sha256": "41c0df084611e69e324dd45ac0dbf4e38dcf2ac368611130f0ca5b84e50b55cc"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/shell-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 339158,
+          "sha256": "acb6e3c9887fefa669be6c5aaae143a759def71dbcb7d4cb3c5f78300bd15bda"
+        }
+      ]
+    },
+    {
+      "id": "hash-properties",
+      "assetStem": "hash-properties-xianxia-v1",
+      "name": "Bóng người trong Hồ Ký Ức",
+      "story": "Bên Hồ Ký Ức, người lữ khách cầm viên ngọc cũ và gặp lại bóng dáng một tình bạn đã xa.",
+      "emotion": "hoài niệm, bâng khuâng",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e2dee8",
+        "paper": "#fbf9f4",
+        "accent": "#8a839e",
+        "deep": "#35374d"
+      },
+      "focal": 30,
+      "lessonTitle": "Hàm băm và ba bài toán không được nhầm",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: hoài niệm, bâng khuâng. A still immortal memory lake, VIEW FROM BEHIND a seated traveler on the LEFT foreground. The traveler touches a small carved jade memory stone; on the mirror-like water near CENTER a faint luminous reflection suggests an old childhood friendship, while mist covers a far pavilion ruin at RIGHT. One quiet white heron stands nearby. Lavender grey, pale jade, muted blue and ivory. Nostalgia and gentle melancholy, no horror, no giant moon.",
+      "scene": "A still immortal memory lake, VIEW FROM BEHIND a seated traveler on the LEFT foreground. The traveler touches a small carved jade memory stone; on the mirror-like water near CENTER a faint luminous reflection suggests an old childhood friendship, while mist covers a far pavilion ruin at RIGHT. One quiet white heron stands nearby. Lavender grey, pale jade, muted blue and ivory. Nostalgia and gentle melancholy, no horror, no giant moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "9d2815748e8019b5ee46c3826c3d2e818f96ada81aed6bef5aa4668659024e48",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/hash-properties-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 42226,
+          "sha256": "25ad077287f1b9a2f4670926898792e88dadec1bf8c894480719a7aa877e3814"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hash-properties-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 152132,
+          "sha256": "7db38eb0cf65ea662c2cf8711a81aa743cc2628749266c72e63789860b78d70d"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hash-properties-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 320414,
+          "sha256": "7f10512de49c7a78bd30f0342aa683fdd769b915270e8960e5ca9139151cf4e2"
+        }
+      ]
+    },
+    {
+      "id": "hash-algorithms",
+      "assetStem": "hash-algorithms-xianxia-v1",
+      "name": "Thư hải Thiên Tầng",
+      "story": "Người học trò mở được cuộn sách lạ trong thư hải, sững sờ trước những tầng tri thức chưa từng biết.",
+      "emotion": "kinh ngạc, khám phá",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dce3e9",
+        "paper": "#fbf9ee",
+        "accent": "#8d8b70",
+        "deep": "#213c50"
+      },
+      "focal": 70,
+      "lessonTitle": "MD, SHA và cấu trúc bên trong",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: kinh ngạc, khám phá. An immense celestial Chinese library with a SPIRAL COMPOSITION seen from a HIGH INTERIOR balcony. A young scholar and a small golden spirit bird at LOWER RIGHT discover a glowing unlettered scroll; elegant curved stairways and book galleries coil toward an open luminous cloud well at CENTER. Sapphire, dark teal, warm ivory and gold. Awe and discovery, exquisite wooden craftsmanship; readable large architecture instead of overwhelming tiny objects, no visible letters.",
+      "scene": "An immense celestial Chinese library with a SPIRAL COMPOSITION seen from a HIGH INTERIOR balcony. A young scholar and a small golden spirit bird at LOWER RIGHT discover a glowing unlettered scroll; elegant curved stairways and book galleries coil toward an open luminous cloud well at CENTER. Sapphire, dark teal, warm ivory and gold. Awe and discovery, exquisite wooden craftsmanship; readable large architecture instead of overwhelming tiny objects, no visible letters.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "83942cd63e5d09e52346e7d753cb8f3539c1330770aaa51eab0839d5edc92438",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/hash-algorithms-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 49046,
+          "sha256": "58a412d84621931d92e84ffe895e6c72900ce62232722f04afb0d63cc6c077d4"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hash-algorithms-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 175354,
+          "sha256": "64d0745a69c133f05fc7236551215742cc3f91edd6a3a018c0542e64427ca4ed"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hash-algorithms-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 379292,
+          "sha256": "b7fc5f47c43c2e691826b21079a9f2bf443421e924b921a9aada3d988835abca"
+        }
+      ]
+    },
+    {
+      "id": "hash-apps",
+      "assetStem": "hash-apps-xianxia-v1",
+      "name": "Mùa xuân trở lại cổ thụ",
+      "story": "Những y tu đặt bình ngọc vào rễ cổ thụ; chồi non và hoa mới dần trả lại mùa xuân cho khu vườn.",
+      "emotion": "hy vọng, hồi sinh",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e2eadb",
+        "paper": "#fff9f1",
+        "accent": "#929f76",
+        "deep": "#304d3a"
+      },
+      "focal": 50,
+      "lessonTitle": "Toàn vẹn, cam kết và mật khẩu",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: hy vọng, hồi sinh. A ruined immortal garden centered on a gigantic ancient tree, WIDE GROUND-LEVEL view. A healer and two young disciples at LOWER CENTER place a jade vessel among the roots; fresh glowing blossoms spread through one branch overhead from LEFT to RIGHT, a small white deer approaches and new grass grows between old stones. Pale pink, fresh green, amber sunrise and ivory. Recovery, hope and renewal after hardship, no buildings dominating the frame.",
+      "scene": "A ruined immortal garden centered on a gigantic ancient tree, WIDE GROUND-LEVEL view. A healer and two young disciples at LOWER CENTER place a jade vessel among the roots; fresh glowing blossoms spread through one branch overhead from LEFT to RIGHT, a small white deer approaches and new grass grows between old stones. Pale pink, fresh green, amber sunrise and ivory. Recovery, hope and renewal after hardship, no buildings dominating the frame.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "f6c295463c3f444da250a5995491b1147ff26920f50629974d06a075d28a5917",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/hash-apps-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 52316,
+          "sha256": "5a21882e979cf27f3b09c6ffdcb4d72c4be786108a77e203dacc1c11df54babd"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hash-apps-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 189014,
+          "sha256": "e80d620e6c24e6457664bbb85c7a599f3f7a681b0d30820cc15775822f916a7f"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hash-apps-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 411638,
+          "sha256": "9b688d6ed156e6c55d1c8ae98514aaad91774c18e74a8f1b45f6143b4216b666"
+        }
+      ]
+    },
+    {
+      "id": "hmac",
+      "assetStem": "hmac-xianxia-v1",
+      "name": "Chung một tán ô",
+      "story": "Hai người bạn chung một tán ô, một chén trà và sự tin cậy không cần nói thành lời.",
+      "emotion": "tin cậy, gần gũi",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e4d6ce",
+        "paper": "#fcf4e9",
+        "accent": "#9e7863",
+        "deep": "#412c29"
+      },
+      "focal": 35,
+      "lessonTitle": "MAC, HMAC và mở rộng độ dài",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: tin cậy, gần gũi. A rain-soaked immortal tea pavilion beside a narrow mountain stream, CLOSE SIDE-ON composition. Two sworn Chinese companions share one paper umbrella in LEFT foreground while one gives the other a warm porcelain tea cup; their swords rest safely beside a bench, a small fox sleeps near their feet. Golden lamps recede toward RIGHT, mist and fine rain beyond. Warm amber, indigo, dusty burgundy and ivory. Quiet trust and emotional closeness, natural gestures, no large moon.",
+      "scene": "A rain-soaked immortal tea pavilion beside a narrow mountain stream, CLOSE SIDE-ON composition. Two sworn Chinese companions share one paper umbrella in LEFT foreground while one gives the other a warm porcelain tea cup; their swords rest safely beside a bench, a small fox sleeps near their feet. Golden lamps recede toward RIGHT, mist and fine rain beyond. Warm amber, indigo, dusty burgundy and ivory. Quiet trust and emotional closeness, natural gestures, no large moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "9764e2dac690c0141706cfa4529088f6019207571f0999a105a099601dcc9a87",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/hmac-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 47330,
+          "sha256": "9959caa83fd4cd9eb8d779dd29bdebf6e168b942c12f284d81726c20807f4917"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hmac-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 167688,
+          "sha256": "f7637353cd66037d40cb4e6bea716709d3b85be7826e009e1111604133c89122"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/hmac-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 349802,
+          "sha256": "36c88aebf72ebcff3070c7cb4114d11941dbe76685bdf64b7ff97c1a38760448"
+        }
+      ]
+    },
+    {
+      "id": "blockchain",
+      "assetStem": "blockchain-xianxia-v1",
+      "name": "Dòng đèn vượt Thiên Lĩnh",
+      "story": "Người dẫn đường quay lại đỡ bạn giữa Thiên Lĩnh; dòng đèn nhỏ nối thành sức mạnh của cả đoàn.",
+      "emotion": "bền bỉ, đoàn kết",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e0dce8",
+        "paper": "#faf6ef",
+        "accent": "#928497",
+        "deep": "#303548"
+      },
+      "focal": 72,
+      "lessonTitle": "Chuỗi băm, proof of work và va chạm",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: bền bỉ, đoàn kết. A long pilgrimage of immortal travelers crossing a steep mountain pass at blue twilight, PANORAMIC HIGH VIEW. A guide at LOWER RIGHT turns back to help an exhausted friend, while many small lanterns trace a graceful S-CURVE through mist toward a distant sanctuary at UPPER LEFT. Pack spirit deer, winter pines and a vast cloud sea. Smoky violet, deep blue, olive and lantern gold. Solidarity and endurance, no crowd packed in foreground, no giant moon.",
+      "scene": "A long pilgrimage of immortal travelers crossing a steep mountain pass at blue twilight, PANORAMIC HIGH VIEW. A guide at LOWER RIGHT turns back to help an exhausted friend, while many small lanterns trace a graceful S-CURVE through mist toward a distant sanctuary at UPPER LEFT. Pack spirit deer, winter pines and a vast cloud sea. Smoky violet, deep blue, olive and lantern gold. Solidarity and endurance, no crowd packed in foreground, no giant moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "37c353af1cb2cb6f9263192f0a11c1694a3a620a7d667ca6883a4d2428f12298",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/blockchain-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 45524,
+          "sha256": "021a16b6aa5c00cdcbab26f8113985e8757c5e1f58e60521ddf078960c5525fb"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/blockchain-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 166438,
+          "sha256": "00458bc6a4449be332bfd16a4da3c3a8686d4818909ceb9cfd1986b3585012c9"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/blockchain-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 363082,
+          "sha256": "3633f0f20ca5b22c4713caea9eb19160906320815df1d10bffda55f0a51c0cbe"
+        }
+      ]
+    },
+    {
+      "id": "number-theory",
+      "assetStem": "number-theory-xianxia-v1",
+      "name": "Đọc sao trên Thiên Đài",
+      "story": "Thầy trò cùng đọc quy luật sao trời trên Thiên Đài, kiên nhẫn với điều chưa hiểu và vui vì được khám phá.",
+      "emotion": "tò mò, an nhiên",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dfe1e9",
+        "paper": "#faf8ee",
+        "accent": "#8b815e",
+        "deep": "#30354a"
+      },
+      "focal": 50,
+      "lessonTitle": "Modulo, Euler và Euclid mở rộng",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: tò mò, an nhiên. A quiet immortal astronomical terrace beneath a gently luminous celestial sky, TOP-DOWN OBLIQUE view. A Chinese elder and young disciple lean in from OPPOSITE CORNERS of a circular stone table holding an elegant brass armillary sphere and geometric stones WITHOUT numerals or writing; reflected stars shimmer in a small water basin at CENTER. Lapis, walnut, antique gold and cream. Patient curiosity and shared understanding, no large moon or modern technology.",
+      "scene": "A quiet immortal astronomical terrace beneath a gently luminous celestial sky, TOP-DOWN OBLIQUE view. A Chinese elder and young disciple lean in from OPPOSITE CORNERS of a circular stone table holding an elegant brass armillary sphere and geometric stones WITHOUT numerals or writing; reflected stars shimmer in a small water basin at CENTER. Lapis, walnut, antique gold and cream. Patient curiosity and shared understanding, no large moon or modern technology.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "e49f26ccd2ecb3d969024e1871a0ef7a2bcfad1c3474ee8cb2028b0a54616d72",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/number-theory-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 53156,
+          "sha256": "307155dc92751659a0657339354168f1c4783a09d5db10bce9b866c72733ce39"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/number-theory-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 189774,
+          "sha256": "762588e871feea9ac4ebe2ec5681b39a8937ac5c2e54f58e8c35679165c35ff2"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/number-theory-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 410098,
+          "sha256": "5204db5efb3a71364897512798ae8df26df220e0c14893c2cf81912cf3575e53"
+        }
+      ]
+    },
+    {
+      "id": "dh",
+      "assetStem": "dh-xianxia-v1",
+      "name": "Hai đỉnh núi, một lời hẹn",
+      "story": "Hai người đứng trên hai đỉnh núi gửi hạc giấy qua mây; khoảng cách vẫn còn nhưng lời hẹn chưa mất.",
+      "emotion": "xa cách, mong chờ",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e7deda",
+        "paper": "#fff8ef",
+        "accent": "#a58a79",
+        "deep": "#3f4540"
+      },
+      "focal": 50,
+      "lessonTitle": "Diffie–Hellman và điều gì chưa được xác thực",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: xa cách, mong chờ. Two remote immortal mountain peaks facing each other across a wide misty chasm, BALANCED WIDE SIDE VIEW. An ivory-robed woman at LEFT sends a glowing paper crane toward a dark-robed young man at RIGHT; the crane is small at CENTER and a thin dawn light connects the fog between them. Scarlet maple leaves on one peak, pale plum on the other. Muted teal, russet, rose dawn and silver. Separation, longing and hope, no bridge and no giant moon.",
+      "scene": "Two remote immortal mountain peaks facing each other across a wide misty chasm, BALANCED WIDE SIDE VIEW. An ivory-robed woman at LEFT sends a glowing paper crane toward a dark-robed young man at RIGHT; the crane is small at CENTER and a thin dawn light connects the fog between them. Scarlet maple leaves on one peak, pale plum on the other. Muted teal, russet, rose dawn and silver. Separation, longing and hope, no bridge and no giant moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "c12e20d42ea91b5f735a5ab9c9a7aa5df31c7cd62b56d7cd0bf9562a27c4e5d3",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/dh-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 40438,
+          "sha256": "db25fe59dafcd87dba97225eb1cca6e2bbdb312d087ac105d86623af11a276af"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/dh-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 145168,
+          "sha256": "bdf4961952bb80d976d91d07e938332d7148d7e93a64216d60f783e5092df001"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/dh-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 314614,
+          "sha256": "a4e85bdcff1912d05e5389111ea936a2ac1d8011a6613f15be4677e68443011a"
+        }
+      ]
+    },
+    {
+      "id": "rsa",
+      "assetStem": "rsa-xianxia-v1",
+      "name": "Giữ cửa trước vực tối",
+      "story": "Người hộ môn đứng giữ cánh cửa trước vực tối, dành một lối sáng an toàn cho những người phía sau.",
+      "emotion": "bi tráng, can đảm",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dee1db",
+        "paper": "#faf8ef",
+        "accent": "#94836c",
+        "deep": "#283b40"
+      },
+      "focal": 75,
+      "lessonTitle": "RSA: từ p, q đến khóa công khai",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: bi tráng, can đảm. A monumental ancient bronze spirit gate set into a towering cliff on the LEFT, DRAMATIC LOW THREE-QUARTER view. A lone Chinese sword guardian at LOWER RIGHT braces a luminous blade against a tide of dark violet mist coming through a narrow crack; a small group of companions retreat safely into warm light behind the guardian at FAR RIGHT. Oxidized bronze, deep jade, violet and restrained gold. Noble courage and sacrifice, no gore, no grotesque creatures, clear heroic silhouette.",
+      "scene": "A monumental ancient bronze spirit gate set into a towering cliff on the LEFT, DRAMATIC LOW THREE-QUARTER view. A lone Chinese sword guardian at LOWER RIGHT braces a luminous blade against a tide of dark violet mist coming through a narrow crack; a small group of companions retreat safely into warm light behind the guardian at FAR RIGHT. Oxidized bronze, deep jade, violet and restrained gold. Noble courage and sacrifice, no gore, no grotesque creatures, clear heroic silhouette.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "e230100866165671289712bbc652d8e1c263c8ce8b48cf2dc5716ce7fa45bf08",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/rsa-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 44818,
+          "sha256": "01eb5851ebe6127dcd7970ca5d53acdb38e34a5455f0fd963e97b61c88640dd6"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/rsa-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 158890,
+          "sha256": "af2388074d62cfad6288cf6fb8c69cb26b24831ad91011414e6586d7a711639f"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/rsa-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 332080,
+          "sha256": "f97df3aa257c5bd4fef1b9636c04547abe7fdcdc9fdd11d5f6935f4a34fe8841"
+        }
+      ]
+    },
+    {
+      "id": "oaep",
+      "assetStem": "oaep-xianxia-v1",
+      "name": "Món quà của Tiên Hoa Phường",
+      "story": "Người nghệ nhân gói món quà thành cánh sen, trong khi vị khách trẻ ngượng ngùng giấu một nhành hoa.",
+      "emotion": "dịu ngọt, ngượng ngùng",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e3e7d5",
+        "paper": "#fff9ef",
+        "accent": "#8d9267",
+        "deep": "#384230"
+      },
+      "focal": 50,
+      "lessonTitle": "OAEP và giới hạn dữ liệu RSA",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: dịu ngọt, ngượng ngùng. A sunlit immortal flower-and-paper atelier on a floating garden terrace, WAIST-HEIGHT CENTRAL TABLE composition. A young Chinese artisan on LEFT carefully folds a glowing lotus wrapping around a small celadon gift while a shy visiting cultivator on RIGHT waits holding one blossom; tiny cloud-carps drift beneath the transparent jade table edge. Cream, sage, coral, honey gold. Tender affection and quiet delight, rich petals focused near the gift, no giant moon.",
+      "scene": "A sunlit immortal flower-and-paper atelier on a floating garden terrace, WAIST-HEIGHT CENTRAL TABLE composition. A young Chinese artisan on LEFT carefully folds a glowing lotus wrapping around a small celadon gift while a shy visiting cultivator on RIGHT waits holding one blossom; tiny cloud-carps drift beneath the transparent jade table edge. Cream, sage, coral, honey gold. Tender affection and quiet delight, rich petals focused near the gift, no giant moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "5259382f90996caa5f3d94a0c5fe8b3f54ea33929fc8c2ead8b0835cb636593d",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/oaep-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 44224,
+          "sha256": "0e700b15e4d3d123dd6d9481d396a4e53a927113749bbbc357ddaf424fd12879"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/oaep-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 141698,
+          "sha256": "dfc4d1b556c6b046f075aa8d789cf5872825a22114278d1754f36b281c30228a"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/oaep-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 286582,
+          "sha256": "260aeeb773f193a646f88fb807152dacc2e7fe2df5e668bc02e906e838d92e68"
+        }
+      ]
+    },
+    {
+      "id": "pss",
+      "assetStem": "pss-xianxia-v1",
+      "name": "Bức thư giữa thành tuyết",
+      "story": "Kiếm khách trở về thành tuyết, đọc bức thư cũ bên chiếc khăn của người bạn và học cách chấp nhận mất mát.",
+      "emotion": "mất mát, chấp nhận",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#dee6e5",
+        "paper": "#faf9f2",
+        "accent": "#888a89",
+        "deep": "#303e43"
+      },
+      "focal": 30,
+      "lessonTitle": "RSA-PSS: ký, kiểm chứng và byte được bảo vệ",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: mất mát, chấp nhận. An abandoned immortal mountain town after first snow, cinematic SIDE VIEW through one broken stone arch on RIGHT. A returning swordsman sits on the LEFT foreground step reading an UNLETTERED folded letter beside an old companion's scarf; a small white bird rests nearby and a single red plum branch blooms over the grey ruins. Snow ivory, slate blue, faded burgundy and restrained warm gold at the horizon. Quiet grief and acceptance, beautiful and dignified, no bodies, no gore, no giant moon.",
+      "scene": "An abandoned immortal mountain town after first snow, cinematic SIDE VIEW through one broken stone arch on RIGHT. A returning swordsman sits on the LEFT foreground step reading an UNLETTERED folded letter beside an old companion's scarf; a small white bird rests nearby and a single red plum branch blooms over the grey ruins. Snow ivory, slate blue, faded burgundy and restrained warm gold at the horizon. Quiet grief and acceptance, beautiful and dignified, no bodies, no gore, no giant moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "b89909f5c3ea03dbb58df8c472b8d94d36e1d81524552672fe05dec80a05f239",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/pss-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 45668,
+          "sha256": "0dd54e501d5e735658b07ad7c82f532bd905e4e3e4e8f4a0bba6729165e82e46"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/pss-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 158510,
+          "sha256": "cada737f4c559c89f39073b544f61c3c1ce92420ded4f5c5d65e5ce5265a9002"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/pss-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 347718,
+          "sha256": "75d5043df6325e8c1fc5b5221cfa3c4d2e4359e5a5faa337bd633c02286cca57"
+        }
+      ]
+    },
+    {
+      "id": "protocols",
+      "assetStem": "protocols-xianxia-v1",
+      "name": "Ngày đoàn viên ở Vân Cảng",
+      "story": "Sau hành trình dài, người đi xa được ôm đón ở Vân Cảng; biển mây bừng sáng trong ngày đoàn viên.",
+      "emotion": "mừng vui, viên mãn",
+      "country": "China",
+      "genre": "Chinese Xianxia",
+      "theme": {
+        "tint": "#e6e0d8",
+        "paper": "#fffbf1",
+        "accent": "#a48764",
+        "deep": "#304653"
+      },
+      "focal": 50,
+      "lessonTitle": "SSH, TLS và xác thực giao dịch",
+      "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: mừng vui, viên mãn. A glorious immortal cloud harbor at sunrise, broad PANORAMIC TERRACE composition. Two travelers reunite in a warm embrace at LOWER CENTER as a graceful Chinese wooden flying ship docks from LEFT; a welcoming family and spirit deer wait near RIGHT stairs, distant sky vessels pass above peach-gold clouds and ancient rooflines. Peach, sea jade, ivory, gold. The fulfillment of a long journey and joyful reunion, spacious luminous atmosphere, no modern buildings or giant moon.",
+      "scene": "A glorious immortal cloud harbor at sunrise, broad PANORAMIC TERRACE composition. Two travelers reunite in a warm embrace at LOWER CENTER as a graceful Chinese wooden flying ship docks from LEFT; a welcoming family and spirit deer wait near RIGHT stairs, distant sky vessels pass above peach-gold clouds and ancient rooflines. Peach, sea jade, ivory, gold. The fulfillment of a long journey and joyful reunion, spacious luminous atmosphere, no modern buildings or giant moon.",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "c3e89dc0cb49583df68439225712682971bf64b22ffc085731ad2e09eaa17ea9",
+      "variants": [
+        {
+          "url": "/assets/lesson-backgrounds/protocols-xianxia-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 46500,
+          "sha256": "a18ab3dcd057d219931ce20fdaa8bbae18af911883cc5e622fad4c36dd6a08c0"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/protocols-xianxia-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 165464,
+          "sha256": "a5a4e3e8fbf40eb687900953e1205cd4fd37cad30e7a511327615b0082fb851e"
+        },
+        {
+          "url": "/assets/lesson-backgrounds/protocols-xianxia-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 352884,
+          "sha256": "33d5670a89db23dd5caa4ee92607dc3590fa69c2c3abdc172d8792b6624fdff6"
+        }
+      ]
+    }
+  ]
+}

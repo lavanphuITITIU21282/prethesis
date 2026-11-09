@@ -1,0 +1,35 @@
+/* Preserve the established cascade while the visual system is migrated unchanged. */
+@import './styles.css';
+@import './auth.css';
+@import './grading.css';
+@import './study.css';
+@import './content-decor.css';
+@import './dynasty.css';
+@import './gallery.css';
+@import './practice-art.css';
+@import './reading-layout.css';
+@import './finishing.css';
+@import './section-backgrounds.css';
+@import './glowup.css';
+@import './atelier.css';
+@import './lesson-backgrounds.css';
+@import './practice-lesson-art.css';
+@import './term-annotations.css';
+
+/* Keep Next.js route content aligned with the existing page-level layout. */
+.study-loading {
+  min-height: 45vh;
+  display: grid;
+  place-items: center;
+}
+.recovery-warning {
+  position: relative;
+  z-index: 10;
+}
+.study-notes {
+  white-space: pre-wrap;
+}
+.source-text {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}

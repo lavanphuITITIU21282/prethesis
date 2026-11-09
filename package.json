@@ -1,0 +1,58 @@
+{
+  "name": "tram-hoc-security",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Trạm học an toàn thông tin bằng tiếng Việt, chạy offline trong LAN",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/runtime/run-next.mjs dev",
+    "build": "node scripts/runtime/task.mjs build",
+    "start": "node scripts/runtime/run-next.mjs start",
+    "typecheck": "node scripts/runtime/task.mjs typecheck",
+    "lint": "node scripts/runtime/task.mjs lint",
+    "lint:fix": "node scripts/runtime/task.mjs lint:fix",
+    "test": "node scripts/runtime/task.mjs test",
+    "format": "node scripts/runtime/task.mjs format",
+    "format:check": "node scripts/runtime/task.mjs format:check",
+    "db:setup": "node scripts/runtime/task.mjs db:setup",
+    "db:start": "node scripts/runtime/task.mjs db:start",
+    "db:stop": "node scripts/runtime/task.mjs db:stop",
+    "db:status": "node scripts/runtime/task.mjs db:status",
+    "db:check": "node scripts/runtime/task.mjs db:check",
+    "db:shell": "node scripts/runtime/task.mjs db:shell",
+    "db:migrate": "node scripts/runtime/task.mjs db:migrate",
+    "db:seed": "node scripts/runtime/task.mjs db:seed",
+    "db:provision": "node scripts/runtime/task.mjs db:provision",
+    "test:db": "node scripts/runtime/task.mjs test:db",
+    "db:backup": "node scripts/runtime/task.mjs db:backup",
+    "db:verify-backup": "node scripts/runtime/task.mjs db:verify-backup",
+    "check": "node scripts/checks/validate-content.mjs",
+    "check:architecture": "node scripts/checks/check-architecture.mjs",
+    "pack": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/release/package.ps1"
+  },
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24.0.0"
+  },
+  "dependencies": {
+    "google-auth-library": "10.9.1",
+    "next": "16.4.3",
+    "pg": "8.23.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.3.0",
+    "@types/node": "^24.0.0",
+    "@types/pg": "8.23.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "10.14.0",
+    "eslint-config-next": "16.4.3",
+    "eslint-config-prettier": "10.1.8",
+    "jsdom": "^27.0.0",
+    "prettier": "3.6.2",
+    "sharp": "0.35.5",
+    "tsx": "^4.20.0",
+    "typescript": "~5.9.3"
+  }
+}

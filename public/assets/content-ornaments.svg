@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" fill="none">
+ <title>Họa tiết thư phòng: cửa nguyệt, trúc, sách và mây</title>
+ <defs><linearGradient id="moon" x2="1" y2="1"><stop stop-color="#ece6cf"/><stop offset="1" stop-color="#d7dfc5"/></linearGradient><pattern id="lattice" width="18" height="18" patternUnits="userSpaceOnUse"><path d="M0 9H18M9 0V18M0 0L18 18M18 0L0 18" stroke="#ad9562" stroke-width=".5" opacity=".3"/></pattern></defs>
+ <path d="M1 36V1H36M864 1H899V36M899 194V229H864M36 229H1V194" stroke="#aa8a53"/>
+ <path d="M7 31V7H31M869 7H893V31M893 199V223H869M31 223H7V199" stroke="#c9b483" stroke-width=".7"/>
+ <path d="M24 14H106M794 216H876" stroke="#c3aa74" stroke-width=".8"/>
+ <circle cx="762" cy="116" r="91" fill="url(#moon)" opacity=".8"/>
+ <circle cx="762" cy="116" r="82" stroke="#b9a473" stroke-width=".7"/>
+ <path d="M676 159L712 121L732 143L760 104L784 137L813 111L847 164" fill="#a5b39b" opacity=".5"/>
+ <path d="M677 174L723 149L748 165L785 138L850 179" fill="#6f8e77" opacity=".35"/>
+ <path d="M674 183Q760 173 850 183M694 193H839M721 201H816" stroke="#7f9a7f" stroke-width=".8"/>
+ <path d="M828 222Q836 127 854 29M846 218Q853 109 875 12" stroke="#456c4d" stroke-width="2"/>
+ <path d="M849 64Q826 37 820 46Q827 64 849 64M853 87Q875 60 882 65Q876 86 853 87M840 117Q815 92 808 102Q815 119 840 117M836 144Q857 114 869 121Q861 143 836 144M859 122Q884 94 892 103Q882 122 859 122M851 164Q879 139 886 148Q875 166 851 164M832 183Q807 162 800 173Q809 185 832 183" fill="#456c4d" opacity=".8"/>
+ <path d="M688 202V180L746 172L783 181V204M688 190L746 182L783 190M696 196L744 190L775 196" fill="#ede3c5" stroke="#876e43"/>
+ <path d="M682 211L749 200L790 210L722 220Z" fill="#e8ddbc" stroke="#876e43"/>
+ <path d="M691 211L723 215L781 208" stroke="#baa374"/>
+ <rect x="803" y="41" width="24" height="29" rx="2" fill="#a0523c" opacity=".8"/>
+ <path d="M809 46V62H820V53H814V48M807 65H821M818 46H822" stroke="#f3e8cb" stroke-width="1.5"/>
+ <path d="M583 47H633Q647 47 647 38Q647 29 638 29Q632 29 631 35M616 47Q604 47 604 39Q604 32 611 32M591 55H657" stroke="#a9925e" stroke-width=".9" opacity=".6"/>
+ <path d="M39 196H92Q107 196 107 185Q107 174 96 174Q87 174 87 184M78 196Q65 196 65 186Q65 178 73 178M46 205H115" stroke="#ad9562" stroke-width=".9" opacity=".45"/>
+ <path d="M888 75H896V175H888Z" fill="url(#lattice)"/>
+</svg>

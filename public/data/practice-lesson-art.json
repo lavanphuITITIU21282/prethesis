@@ -1,0 +1,908 @@
+{
+  "version": 1,
+  "generator": "Built-in ImageGen, original Chinese Xianxia practice art",
+  "scope": "Specific lesson or term; chapter and whole-bank views unchanged",
+  "count": 25,
+  "works": [
+    {
+      "id": "cia",
+      "assetStem": "cia-practice-v1",
+      "name": "Ngọc Lân Hộ Pháp",
+      "category": "nhân vật & linh thú",
+      "deep": "#244b38",
+      "scene": "EXACTLY ONE adult Chinese guardian in ivory and jade hanfu and EXACTLY ONE elegant jade qilin, standing together on a mossy stone terrace above a golden cloud sea. The guardian gently rests a hand by the qilin's golden antler, protective calm and trust. Triangular full-body arrangement on RIGHT, the qilin lower in the frame; emerald, ivory, gold. No other humans, animals, beast statues or creature-shaped clouds.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese guardian in ivory and jade hanfu and EXACTLY ONE elegant jade qilin, standing together on a mossy stone terrace above a golden cloud sea. The guardian gently rests a hand by the qilin's golden antler, protective calm and trust. Triangular full-body arrangement on RIGHT, the qilin lower in the frame; emerald, ivory, gold. No other humans, animals, beast statues or creature-shaped clouds.",
+      "lessonTitle": "Ba mục tiêu, sáu kiểu mất mát",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "728303f90ea42444a67bb97c6dd6fe02e592e71a2e88ffec292ccc0d155d8c69",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/cia-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 33478,
+          "sha256": "9c47af9c025ff2f0fd9bd2cbd37a9175308390b390541b9744162737a2e6bbca"
+        },
+        {
+          "url": "/assets/practice-lesson-art/cia-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 119594,
+          "sha256": "3fb1c148436c42f801fbd2b60e56e788a50e3436e41a27ac72d953ac2d03e689"
+        },
+        {
+          "url": "/assets/practice-lesson-art/cia-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 260812,
+          "sha256": "e2ccaaa970b49b70127944a785dc85339f428140148ce6e6634563ee8865084e"
+        }
+      ]
+    },
+    {
+      "id": "aaa",
+      "assetStem": "aaa-practice-v1",
+      "name": "Huyền Hồ Giữ Ấn",
+      "category": "nhân vật & linh thú",
+      "deep": "#42334e",
+      "scene": "EXACTLY ONE adult female sect keeper wearing a graceful plum robe and a simple half-mask and EXACTLY ONE silver spirit fox with a single long flowing tail, meeting eyes beside an ancient moon-shaped doorway at RIGHT. One jade identity token hangs from her hand. Plum purple, silver, pale rose and old gold; intriguing confidence, full figures, no extra people, animals or reflections.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult female sect keeper wearing a graceful plum robe and a simple half-mask and EXACTLY ONE silver spirit fox with a single long flowing tail, meeting eyes beside an ancient moon-shaped doorway at RIGHT. One jade identity token hangs from her hand. Plum purple, silver, pale rose and old gold; intriguing confidence, full figures, no extra people, animals or reflections.",
+      "lessonTitle": "Danh tính, quyền và trách nhiệm",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "ef335b4c29de3e965a7c3204568e2eb2058249751988bd75abe9c549556b9c0f",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/aaa-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 38712,
+          "sha256": "9193fcc292b6f7611e26b9207e8d3433934a4a0050b02f872eb7a6840caac78a"
+        },
+        {
+          "url": "/assets/practice-lesson-art/aaa-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 136682,
+          "sha256": "84c9db4c96ccc21802669aa482badd8eec83473078629b1331513719708119ac"
+        },
+        {
+          "url": "/assets/practice-lesson-art/aaa-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 293080,
+          "sha256": "1dc9e273aa694862bc528c17accff8d7eaa79cd9afe99de75ea5b39c45c52895"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "assetStem": "risk-practice-v1",
+      "name": "Bạch Hổ Vượt Kiếp",
+      "category": "nhân vật & linh thú",
+      "deep": "#56352c",
+      "scene": "EXACTLY ONE adult Chinese swordswoman in dark red robes and EXACTLY ONE majestic white spirit tiger on a jagged red rock ledge at RIGHT. She stands braced with a lowered glowing sword while the tiger watches an approaching storm from her side. Cinnabar, charcoal, ivory, antique gold; courage and resolve, dramatic diagonal foreground, no combat victims or other people/creatures.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese swordswoman in dark red robes and EXACTLY ONE majestic white spirit tiger on a jagged red rock ledge at RIGHT. She stands braced with a lowered glowing sword while the tiger watches an approaching storm from her side. Cinnabar, charcoal, ivory, antique gold; courage and resolve, dramatic diagonal foreground, no combat victims or other people/creatures.",
+      "lessonTitle": "Tài sản, mối đe dọa và rủi ro",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "de09a9d85db101f8cb642c04bf0c90e86e878fe5ec62e319b89b4a9545f8769b",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/risk-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 40096,
+          "sha256": "261071936ee4239ae7b732ff43837c024b5dd46fd321af3e36f9407a977fb4d4"
+        },
+        {
+          "url": "/assets/practice-lesson-art/risk-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 138240,
+          "sha256": "2f16931c8e7f2ca43796c0eb69e4a20568e0d834e4b07e053b5d300715ea87fa"
+        },
+        {
+          "url": "/assets/practice-lesson-art/risk-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 291668,
+          "sha256": "68df935202d393c1e1c708d36d8a4678828cb0cc8027a844ec424fd3a06f1f25"
+        }
+      ]
+    },
+    {
+      "id": "services",
+      "assetStem": "services-practice-v1",
+      "name": "Linh Hạc Dược Sư",
+      "category": "nhân vật & linh thú",
+      "deep": "#2e4e42",
+      "scene": "EXACTLY ONE adult Chinese healer in pale celadon robes and EXACTLY ONE white spiritual crane, the healer seated on a low root at RIGHT beside the crane with one gentle hand on its wing. A small jade medicine bowl and misty medicinal garden, a stream fading into LEFT. Sage, ivory, soft coral, luminous gold; compassion, no other humans or animals.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese healer in pale celadon robes and EXACTLY ONE white spiritual crane, the healer seated on a low root at RIGHT beside the crane with one gentle hand on its wing. A small jade medicine bowl and misty medicinal garden, a stream fading into LEFT. Sage, ivory, soft coral, luminous gold; compassion, no other humans or animals.",
+      "lessonTitle": "Dịch vụ và cơ chế bảo vệ",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "6abb7da08ca36098dbeadb47c702809da3d1e7ea3d0fc0f3dbcd887fd2dc0242",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/services-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 39966,
+          "sha256": "cc34ce8e5508c193ec84f06ea41e34130ea3318a49d69546d44af205d0e45f83"
+        },
+        {
+          "url": "/assets/practice-lesson-art/services-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 140544,
+          "sha256": "20cb4aa06d30f96626a391e96c5e43411d7c32db41a4a2417153786cb5c3cacf"
+        },
+        {
+          "url": "/assets/practice-lesson-art/services-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 304036,
+          "sha256": "e2cd4030bfeac3f770f655c609b1cbada5527f44fb8c91a708bbbb907f789692"
+        }
+      ]
+    },
+    {
+      "id": "keys",
+      "assetStem": "keys-practice-v1",
+      "name": "Huyền Báo Kiếm Sư",
+      "category": "nhân vật & linh thú",
+      "deep": "#283f3d",
+      "scene": "EXACTLY ONE adult Chinese sword artificer in charcoal and copper-trimmed robes and EXACTLY ONE sleek black spirit panther with restrained jade markings. They stand beside a quiet bronze forge doorway on RIGHT, two interlocking jade fittings in the artificer's hands. Copper, teal, black and ivory light; patient focus, full-body silhouettes, no other people/animals.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese sword artificer in charcoal and copper-trimmed robes and EXACTLY ONE sleek black spirit panther with restrained jade markings. They stand beside a quiet bronze forge doorway on RIGHT, two interlocking jade fittings in the artificer's hands. Copper, teal, black and ivory light; patient focus, full-body silhouettes, no other people/animals.",
+      "lessonTitle": "Bản rõ, bản mã và hai họ khóa",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "562e836ec2af5e86b597eddc2b4fb56183652cb025b18664f3a796e6f9d5c7f0",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/keys-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 40336,
+          "sha256": "856307b145f17778588ad924db838eccb4ff5896e76d81b0c561c97df60089ac"
+        },
+        {
+          "url": "/assets/practice-lesson-art/keys-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 141480,
+          "sha256": "b992c555f0b04d1a95adb23981c6b82248161328d1afed356e672b5a9c5c26cf"
+        },
+        {
+          "url": "/assets/practice-lesson-art/keys-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 301922,
+          "sha256": "6c9b6a268f22e0facd6f786817f179b42476f979f34a489e998d754276e1ca5b"
+        }
+      ]
+    },
+    {
+      "id": "hybrid",
+      "assetStem": "hybrid-practice-v1",
+      "name": "Thanh Long Đồng Hành",
+      "category": "nhân vật & linh thú",
+      "deep": "#214b4c",
+      "scene": "EXACTLY ONE adult Chinese immortal traveler in pale blue hanfu on a small cloud terrace at RIGHT and EXACTLY ONE graceful azure Chinese dragon curling behind and below them in ONE continuous body. The traveler reaches toward the dragon with quiet affection. Turquoise, pale blue, ivory, warm gold; joyful trust, calm open cloud sea on LEFT, no additional beings or dragon-shaped clouds.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese immortal traveler in pale blue hanfu on a small cloud terrace at RIGHT and EXACTLY ONE graceful azure Chinese dragon curling behind and below them in ONE continuous body. The traveler reaches toward the dragon with quiet affection. Turquoise, pale blue, ivory, warm gold; joyful trust, calm open cloud sea on LEFT, no additional beings or dragon-shaped clouds.",
+      "lessonTitle": "Mã hóa lai và niềm tin vào khóa",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "4c98ebf33005fad7d6257afa1719c8332846d6d749ea82914834dccc761ae274",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/hybrid-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 33916,
+          "sha256": "b8bb2aadc0b6d37d4718b010e695f649ddd37260aa101f8687dfcff2ce6091a8"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hybrid-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 118340,
+          "sha256": "e4b1052bfd7b2cf8aa0b3c471becbcbe30d141d5f05e332e2e07b4a91cb2ce8d"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hybrid-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 256164,
+          "sha256": "2ae7a66953fa9d8d7ff5d763840c84383679eac35d67bc3e25ff48a3767bfe08"
+        }
+      ]
+    },
+    {
+      "id": "sign-intro",
+      "assetStem": "sign-intro-practice-v2",
+      "name": "Ấn Ngọc Thiên Tín",
+      "category": "pháp bảo",
+      "deep": "#413b2c",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One dignified adult male Chinese seal keeper in ivory and amber hanfu gently guides the floating seal with one open hand. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A single exquisite carved JADE SEAL artifact levitating above a dark scholar's stone at RIGHT, abstract non-lettered gold patterns on the seal and one luminous circular impression reflected below. An unmarked silk scroll and subtle ginkgo leaves form quiet supporting shapes. Warm jade, dark walnut, old gold, ivory; precious tactile craftsmanship, asymmetrical narrative composition.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One dignified adult male Chinese seal keeper in ivory and amber hanfu gently guides the floating seal with one open hand. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A single exquisite carved JADE SEAL artifact levitating above a dark scholar's stone at RIGHT, abstract non-lettered gold patterns on the seal and one luminous circular impression reflected below. An unmarked silk scroll and subtle ginkgo leaves form quiet supporting shapes. Warm jade, dark walnut, old gold, ivory; precious tactile craftsmanship, asymmetrical narrative composition.",
+      "lessonTitle": "Hash, MAC và chữ ký khác nhau ở đâu?",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "574fc8fd4527d3992b3f8372297554ac77fe64fcfb1f30496e0259762a0670df",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/sign-intro-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 32238,
+          "sha256": "f28a86e0decc366b24a02233a9fed0ba73bf9bf9f5f54b38c3f2c16ead6fb399"
+        },
+        {
+          "url": "/assets/practice-lesson-art/sign-intro-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 106680,
+          "sha256": "d247bce67bd15ca4e0288c082ecbedd184cd92f5aed9851f9b44eb65b6480dda"
+        },
+        {
+          "url": "/assets/practice-lesson-art/sign-intro-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 226760,
+          "sha256": "eb84fd64951959f48e9255af06ed3a89dcd18137cf0bf8f39b1a98095ea0d61e"
+        }
+      ]
+    },
+    {
+      "id": "caesar",
+      "assetStem": "caesar-practice-v2",
+      "name": "Luân Chuyển Phù",
+      "category": "phù triện",
+      "deep": "#4b3c2a",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese talisman dancer in vermilion and turquoise silk controls the talisman wheel beside her. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE elegant circular talisman-wheel artifact made of layered ivory paper and bronze rings, floating at RIGHT in front of a soft vermilion silk backdrop. Abstract golden sigil strokes rotate in a restrained circle, long silk ribbons arc toward the bottom. Vermilion, turquoise, gold, cream; lively graceful rhythm, no readable writing or numbers.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese talisman dancer in vermilion and turquoise silk controls the talisman wheel beside her. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE elegant circular talisman-wheel artifact made of layered ivory paper and bronze rings, floating at RIGHT in front of a soft vermilion silk backdrop. Abstract golden sigil strokes rotate in a restrained circle, long silk ribbons arc toward the bottom. Vermilion, turquoise, gold, cream; lively graceful rhythm, no readable writing or numbers.",
+      "lessonTitle": "Caesar và cách đánh giá độ an toàn",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "7d573672e3c1230e2bdb2789dd40f6e6ad8c1604eb1a1c899408b9817e0c957f",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/caesar-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 41732,
+          "sha256": "ec79a16a36ee515fae76d0d31b3294310d5565d6fc415835fb399533c8ec0921"
+        },
+        {
+          "url": "/assets/practice-lesson-art/caesar-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 142920,
+          "sha256": "ee9f54304251cf5e71c959ddb3fbfc5bb0767b43d169524d7e024d8938647189"
+        },
+        {
+          "url": "/assets/practice-lesson-art/caesar-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 304338,
+          "sha256": "5feefa04e831bdfde93ea6eb3b736649e359ba69a1a6c0b086fa6fe579e44ce4"
+        }
+      ]
+    },
+    {
+      "id": "substitution",
+      "assetStem": "substitution-practice-v2",
+      "name": "Huyễn Ảnh Linh Phù",
+      "category": "phù triện",
+      "deep": "#44324b",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese illusion master in smoky violet hanfu holds the floating talisman above one palm. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE broad enchanted violet paper talisman suspended vertically at RIGHT above a polished black stone, its abstract gold-and-silver sigil strokes casting a softly shifted mirrored pattern, not a human face. A folded silk fan and pale plum petals support the scene. Smoky violet, dusty rose, black and silver; mysterious and refined, uncluttered LEFT.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese illusion master in smoky violet hanfu holds the floating talisman above one palm. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE broad enchanted violet paper talisman suspended vertically at RIGHT above a polished black stone, its abstract gold-and-silver sigil strokes casting a softly shifted mirrored pattern, not a human face. A folded silk fan and pale plum petals support the scene. Smoky violet, dusty rose, black and silver; mysterious and refined, uncluttered LEFT.",
+      "lessonTitle": "Thay thế đơn bảng và dấu vết ngôn ngữ",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "860486ab18cdf129391bd2693753a5770ee632fd6caf6ed61201e0dbe183d8f3",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/substitution-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 31036,
+          "sha256": "3bc874a0b271e3dfb0bd78df94957c79028c54d6852798a5ed78b2715dba44af"
+        },
+        {
+          "url": "/assets/practice-lesson-art/substitution-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 104754,
+          "sha256": "688eaf424440b6666784594a6123de479d20f2eb91955cbf23f72a5ece8abf6b"
+        },
+        {
+          "url": "/assets/practice-lesson-art/substitution-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 215320,
+          "sha256": "1dfec654d86a46ae1dee5c8aee91492d52c07fe72e9c569d526077c128cc4c40"
+        }
+      ]
+    },
+    {
+      "id": "otp",
+      "assetStem": "otp-practice-v2",
+      "name": "Nhất Niệm Châu",
+      "category": "đan dược",
+      "deep": "#273c50",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese alchemist in midnight blue and pale pink hanfu carefully catches the single pearl pill above the vial. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A SINGLE luminous pearl-like spiritual pill floating above the open mouth of a delicate blue crystal vial at RIGHT, one drop of moonlit dew suspended beneath it. Quiet lotus water and fine rain in the distance, a long horizontal silk ribbon below. Midnight blue, pale pink, silver and restrained gold; precious fleeting promise, elegant narrative composition.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese alchemist in midnight blue and pale pink hanfu carefully catches the single pearl pill above the vial. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A SINGLE luminous pearl-like spiritual pill floating above the open mouth of a delicate blue crystal vial at RIGHT, one drop of moonlit dew suspended beneath it. Quiet lotus water and fine rain in the distance, a long horizontal silk ribbon below. Midnight blue, pale pink, silver and restrained gold; precious fleeting promise, elegant narrative composition.",
+      "lessonTitle": "XOR và điều kiện của one-time pad",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "6052593796948ac0856a382485b74388f452db19a110625413471c513ad082fe",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/otp-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 33364,
+          "sha256": "3f921781b5035fe0386b40c29f5b94528046bbe421fcaaae93e84e1361f9ac10"
+        },
+        {
+          "url": "/assets/practice-lesson-art/otp-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 114906,
+          "sha256": "29c1f533b52155b9bb8c5e9d336f3d801818d729a0d2b535353696658d6cf5df"
+        },
+        {
+          "url": "/assets/practice-lesson-art/otp-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 247230,
+          "sha256": "b85b22e6e12e1493e80ad080af788d45dfeecfeec8e077ec014d16a41fdeba4a"
+        }
+      ]
+    },
+    {
+      "id": "aes",
+      "assetStem": "aes-practice-v2",
+      "name": "Hàn Ngọc Linh Kiếm",
+      "category": "pháp bảo",
+      "deep": "#253e54",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese sword cultivator in sapphire and silver hanfu stands beside the suspended sword with his hand resting near its hilt. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE magnificent crystalline jade sword suspended diagonally from LOWER CENTER to UPPER RIGHT in a serene ice grotto, its clear blade encasing a soft blue inner light. A restrained symmetrical frost geometry around the hilt and one smooth stone plinth beneath. Ice cyan, sapphire, silver, ivory; precise strength and serene protection, no busy particle storm.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese sword cultivator in sapphire and silver hanfu stands beside the suspended sword with his hand resting near its hilt. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE magnificent crystalline jade sword suspended diagonally from LOWER CENTER to UPPER RIGHT in a serene ice grotto, its clear blade encasing a soft blue inner light. A restrained symmetrical frost geometry around the hilt and one smooth stone plinth beneath. Ice cyan, sapphire, silver, ivory; precise strength and serene protection, no busy particle storm.",
+      "lessonTitle": "DES, AES và hai loại kích thước",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "10661539ff5878e09aec0f10dfd97a517c8588bf9af263bde2980c784572abe5",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/aes-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 34956,
+          "sha256": "92c3d14bfbd81268562eb9b1967757d227445b3f1487aae8ded7f44ce81aadfb"
+        },
+        {
+          "url": "/assets/practice-lesson-art/aes-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 127020,
+          "sha256": "3298bfdac7a802da36858f06d67245270dda0d55280c2fb266ab988dc4e321ae"
+        },
+        {
+          "url": "/assets/practice-lesson-art/aes-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 284524,
+          "sha256": "a9cbeefb394874bb395063a3b27e7e792896b23f448d9ce3150393ad652524b4"
+        }
+      ]
+    },
+    {
+      "id": "cbc",
+      "assetStem": "cbc-practice-v1",
+      "name": "Lưu Thủy Kiếm Thức",
+      "category": "võ công",
+      "deep": "#2c4a3c",
+      "scene": "EXACTLY ONE adult Chinese female cultivator in sage and cream hanfu performing a fluid sword form on a stone beside a winding stream on RIGHT. ONE elegant water arc follows her blade and curves gently toward CENTER; no extra arms, clones, opponents, beasts or human silhouettes. Jade, turquoise, honey light; grace, composure and continuity, broad quiet bamboo shapes on LEFT.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese female cultivator in sage and cream hanfu performing a fluid sword form on a stone beside a winding stream on RIGHT. ONE elegant water arc follows her blade and curves gently toward CENTER; no extra arms, clones, opponents, beasts or human silhouettes. Jade, turquoise, honey light; grace, composure and continuity, broad quiet bamboo shapes on LEFT.",
+      "lessonTitle": "ECB, CBC, IV và padding",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "9f77975ccd71564e3145876ae44bf3d9c7bcabc8f02f7c4422ced18a60f66c6b",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/cbc-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 38218,
+          "sha256": "fac232a037c689976e9f985c48f53acfaf152de1181b87f134914ae74c40aecd"
+        },
+        {
+          "url": "/assets/practice-lesson-art/cbc-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 138892,
+          "sha256": "89f6d6fd8f2eea959a6c7257be22c6518a419f8ee9ba9627ad9cbe6ba9bcb80b"
+        },
+        {
+          "url": "/assets/practice-lesson-art/cbc-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 299960,
+          "sha256": "c0f3befcb3992a85dd787c5c21c898e4ca4a76be44cad1d9a24156985b67e754"
+        }
+      ]
+    },
+    {
+      "id": "ctr",
+      "assetStem": "ctr-practice-v2",
+      "name": "Đạp Phong Bộ",
+      "category": "võ công",
+      "deep": "#294552",
+      "scene": "EXACTLY ONE adult Chinese cultivator in white and cobalt robes stepping lightly across three floating stones in a cloud canyon on RIGHT. He holds ONE clearly visible open jade-and-gold magic folding fan in his forward hand. A single flowing silk sash and a restrained golden wind arc show agile movement, with no body clones or repeated afterimages. Turquoise, cobalt, warm orange, ivory; exhilaration and freedom, clear full-body silhouette, no animals or other humans.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese cultivator in white and cobalt robes stepping lightly across three floating stones in a cloud canyon on RIGHT. He holds ONE clearly visible open jade-and-gold magic folding fan in his forward hand. A single flowing silk sash and a restrained golden wind arc show agile movement, with no body clones or repeated afterimages. Turquoise, cobalt, warm orange, ivory; exhilaration and freedom, clear full-body silhouette, no animals or other humans.",
+      "lessonTitle": "CFB, OFB và CTR: theo dấu dòng khóa",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "c894407355808e95e850798755171730e0c56861ffcdb8ffd3e9a4c4b31e57af",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/ctr-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 35320,
+          "sha256": "b0ff6f21219d5f0c0daf3c93d6f55b7360520fab7c90372e057e748766161790"
+        },
+        {
+          "url": "/assets/practice-lesson-art/ctr-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 113366,
+          "sha256": "8c361418ef6cd6f0f0320c9a5da0886a1e2297e9a5aac6f89e05fae28a18bf2d"
+        },
+        {
+          "url": "/assets/practice-lesson-art/ctr-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 216806,
+          "sha256": "b6be01e86d725f2afab8b1e0df109383e545e8d3d48dbd16d6ae42b118bc745a"
+        }
+      ]
+    },
+    {
+      "id": "shell",
+      "assetStem": "shell-practice-v2",
+      "name": "Vạn Hoa Đan Lô",
+      "category": "đan dược",
+      "deep": "#49412f",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese herbal alchemist in sage and amber hanfu tends the furnace and watches its single rising pill. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE ornate but restrained bronze alchemy furnace on a low wooden platform at RIGHT, its opened lid hovering slightly and a SINGLE glowing golden pill rising amid a few luminous medicinal blossoms. Sage, amber, pale plum and ivory; delightful wonder, soft herbal valley behind, no creature-shaped smoke or readable symbols.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese herbal alchemist in sage and amber hanfu tends the furnace and watches its single rising pill. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE ornate but restrained bronze alchemy furnace on a low wooden platform at RIGHT, its opened lid hovering slightly and a SINGLE glowing golden pill rising amid a few luminous medicinal blossoms. Sage, amber, pale plum and ivory; delightful wonder, soft herbal valley behind, no creature-shaped smoke or readable symbols.",
+      "lessonTitle": "Đọc lệnh theo ngữ cảnh",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "b362cb30959dfe2f500c1ad925e062d567a96b9b14457dbabe9e72e4298a6383",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/shell-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 35066,
+          "sha256": "4f94947fc8fd1ad09012703209a9f9edbc45085f9f238f426d97aecfa76027e7"
+        },
+        {
+          "url": "/assets/practice-lesson-art/shell-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 125068,
+          "sha256": "f1001626bbe4502738573eaa5816d8f71789184ed0da249776b9d91c5833ac06"
+        },
+        {
+          "url": "/assets/practice-lesson-art/shell-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 266738,
+          "sha256": "27bd41b769a80fbe9fea22ac3e16ad0f02a077d50dfe9b0575489e7a3b52ba73"
+        }
+      ]
+    },
+    {
+      "id": "hash-properties",
+      "assetStem": "hash-properties-practice-v2",
+      "name": "Khắc Ảnh Chân Phù",
+      "category": "phù triện",
+      "deep": "#3c3c50",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese talisman scholar in lavender and pale jade hanfu gently touches the edge of the jade tablet. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE translucent lavender jade talisman tablet standing at RIGHT above still black water, its unique abstract carved pattern glowing softly and mirrored precisely below. Weathered rock and a small branch of pale blossoms, distant mist without architecture. Lavender grey, pale jade, silver, ivory; memory and quiet certainty, elegant sculptural composition.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese talisman scholar in lavender and pale jade hanfu gently touches the edge of the jade tablet. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE translucent lavender jade talisman tablet standing at RIGHT above still black water, its unique abstract carved pattern glowing softly and mirrored precisely below. Weathered rock and a small branch of pale blossoms, distant mist without architecture. Lavender grey, pale jade, silver, ivory; memory and quiet certainty, elegant sculptural composition.",
+      "lessonTitle": "Hàm băm và ba bài toán không được nhầm",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "82f349446c44ff4e9b995504805acca9e2290375fe23b617de608cd3f1d956f3",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/hash-properties-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 28190,
+          "sha256": "034a5f6a26a390d1ec6a26ebe9b9c52f50e1e14260bf1ecc7558fb5100dfe411"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hash-properties-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 99268,
+          "sha256": "3bf9d1eac3ade1f9e92b7ff76855d3f5e02e795ab9375e1181b7e6f41f65236d"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hash-properties-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 215790,
+          "sha256": "11ba6dedb715e8689eeecd39e827fed76d236cb9cb0562be714e7a5b9efcd724"
+        }
+      ]
+    },
+    {
+      "id": "hash-algorithms",
+      "assetStem": "hash-algorithms-practice-v2",
+      "name": "Thiên Tầng Bảo Kính",
+      "category": "pháp bảo",
+      "deep": "#273f50",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese scholar cultivator in dark teal and sapphire hanfu examines the magic mirror with quiet wonder. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE exquisite ancient bronze-and-sapphire magic mirror at RIGHT, nested circular rings and a subtle spiral of reflected clouds INSIDE its face. A small dark scholar desk and faint library arch frame the background without repeated objects. Sapphire, dark teal, ivory, gold; awe and discovery, intricate focal rim with quiet surrounding air.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese scholar cultivator in dark teal and sapphire hanfu examines the magic mirror with quiet wonder. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE exquisite ancient bronze-and-sapphire magic mirror at RIGHT, nested circular rings and a subtle spiral of reflected clouds INSIDE its face. A small dark scholar desk and faint library arch frame the background without repeated objects. Sapphire, dark teal, ivory, gold; awe and discovery, intricate focal rim with quiet surrounding air.",
+      "lessonTitle": "MD, SHA và cấu trúc bên trong",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "20d33dd723be2f54499a6c3e6600357f6c4ae66975d558e76b758927a62e9999",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/hash-algorithms-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 31230,
+          "sha256": "36a831753a73f45e87e8f590782c55d80f484616872ee060d6978a561211805e"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hash-algorithms-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 110514,
+          "sha256": "164d584672c545e436923d97054c6cd2a0cc158833c8c682ffdf7645de94eb2a"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hash-algorithms-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 233466,
+          "sha256": "013793ac5f1b72a7a34f9536d1e42f7c2cdff69a164312b1760927e41a577f6c"
+        }
+      ]
+    },
+    {
+      "id": "hash-apps",
+      "assetStem": "hash-apps-practice-v2",
+      "name": "Hồi Xuân Đan",
+      "category": "đan dược",
+      "deep": "#334c37",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese healer in spring green and pale pink hanfu kneels beside the celadon box and lifts its lid. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE pale green spiritual pill resting in an open small celadon box at RIGHT beneath a rejuvenating flowering branch. Fresh leaves emerge around an old root, a thin warm beam lights the pill. Pale pink, spring green, honey gold, ivory; renewal and hope, close foreground objects against a soft garden, no excessive magical particles.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese healer in spring green and pale pink hanfu kneels beside the celadon box and lifts its lid. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE pale green spiritual pill resting in an open small celadon box at RIGHT beneath a rejuvenating flowering branch. Fresh leaves emerge around an old root, a thin warm beam lights the pill. Pale pink, spring green, honey gold, ivory; renewal and hope, close foreground objects against a soft garden, no excessive magical particles.",
+      "lessonTitle": "Toàn vẹn, cam kết và mật khẩu",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "db318e4ef9fbe3721c05b592cf208e41fd44252921fef789df0baa47d719d072",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/hash-apps-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 38744,
+          "sha256": "26d6ee5080304b93c24cecc10fd44c2d0ecb469c7cb0dcf1491aaba1762937b8"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hash-apps-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 124370,
+          "sha256": "9c2e4afe261e567e2a5576f449ef50456006b6408a93ba9aa142ee3550f5182d"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hash-apps-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 248006,
+          "sha256": "236363aeffd7b838d203824ed28a86996bd8d6506f51f17d7f10386d6f14fce9"
+        }
+      ]
+    },
+    {
+      "id": "hmac",
+      "assetStem": "hmac-practice-v2",
+      "name": "Đồng Tâm Song Phù",
+      "category": "phù triện",
+      "deep": "#4b3430",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese talisman artisan in indigo and burgundy hanfu ties the red cord between the two talismans. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A SINGLE BONDED PAIR of matching ivory-and-burgundy paper talismans at RIGHT, linked by one delicate red cord and one warm golden seal-like light between them. Abstract non-lettered strokes echo on both papers, a quiet rain-streaked pavilion wall far behind. Amber, indigo, burgundy, ivory; intimacy and trust, no extra faces or animals.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese talisman artisan in indigo and burgundy hanfu ties the red cord between the two talismans. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. A SINGLE BONDED PAIR of matching ivory-and-burgundy paper talismans at RIGHT, linked by one delicate red cord and one warm golden seal-like light between them. Abstract non-lettered strokes echo on both papers, a quiet rain-streaked pavilion wall far behind. Amber, indigo, burgundy, ivory; intimacy and trust, no extra faces or animals.",
+      "lessonTitle": "MAC, HMAC và mở rộng độ dài",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "ceba5334fcc67cf8130ecc5ae2282dde441cb874a3b0a8c52197f0a5ff006b45",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/hmac-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 32986,
+          "sha256": "4974d3b365fa8f1402110f8309a9ffed66a3c3569a0d9614c13e0ecf882af5bb"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hmac-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 110806,
+          "sha256": "c8c1943cb07f5e8b94946af30e2bee33eddace129beb41dce7244abf6f0a8017"
+        },
+        {
+          "url": "/assets/practice-lesson-art/hmac-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 238368,
+          "sha256": "cf37c4e110c7febbfc0eb174955dbb048faa8f2c9e3ae82801dea19ad0861946"
+        }
+      ]
+    },
+    {
+      "id": "blockchain",
+      "assetStem": "blockchain-practice-v1",
+      "name": "Liên Hoàn Thương Quyết",
+      "category": "võ công",
+      "deep": "#353d50",
+      "scene": "EXACTLY ONE adult Chinese spear master in deep violet and ivory robes at RIGHT on a mountain pass, performing one grounded sweeping spear form. ONE connected golden arc of light follows the spear and a few small lanterns trace an S-curve in the distant pass. Violet, blue, gold; endurance and discipline, no opponents, clones, extra limbs or animals.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese spear master in deep violet and ivory robes at RIGHT on a mountain pass, performing one grounded sweeping spear form. ONE connected golden arc of light follows the spear and a few small lanterns trace an S-curve in the distant pass. Violet, blue, gold; endurance and discipline, no opponents, clones, extra limbs or animals.",
+      "lessonTitle": "Chuỗi băm, proof of work và va chạm",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "a5b2991d3dc7be304530f249d6c3ec4e1d9e7ab7a359042afc7d9247407977ed",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/blockchain-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 37428,
+          "sha256": "7c46aee581affa74b385a106196b85bda8c7ffaa411112e2e2b0ee55baaeaf48"
+        },
+        {
+          "url": "/assets/practice-lesson-art/blockchain-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 133052,
+          "sha256": "e0da3c522e23a63b14389e56c0c3b643a4c216793808a5505bc1570f0ec987b1"
+        },
+        {
+          "url": "/assets/practice-lesson-art/blockchain-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 283542,
+          "sha256": "9e04947c10011365e3c6dbf2225f496d398f5043883e75ac837da9eecf4c483b"
+        }
+      ]
+    },
+    {
+      "id": "number-theory",
+      "assetStem": "number-theory-practice-v2",
+      "name": "Tinh La Pháp Bàn",
+      "category": "pháp bảo",
+      "deep": "#333d52",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese astronomer in lapis and antique gold hanfu studies and adjusts the celestial compass. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE celestial compass artifact at RIGHT, a refined bronze circular disk with geometric jade stones and a small central armillary sphere, floating above an octagonal stone table. Stars reflected in a shallow water basin, distant Chinese terrace silhouettes. Lapis, walnut, antique gold, cream; patient curiosity, no readable numerals or text.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese astronomer in lapis and antique gold hanfu studies and adjusts the celestial compass. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE celestial compass artifact at RIGHT, a refined bronze circular disk with geometric jade stones and a small central armillary sphere, floating above an octagonal stone table. Stars reflected in a shallow water basin, distant Chinese terrace silhouettes. Lapis, walnut, antique gold, cream; patient curiosity, no readable numerals or text.",
+      "lessonTitle": "Modulo, Euler và Euclid mở rộng",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "69e7ee01924b84891b9aaaec41ccbeb8c69d2f8494e4dc5f8cb27f84ab5dca55",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/number-theory-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 36728,
+          "sha256": "d493cd2fede1f2e1de157cb424f0bc9a50d305181834c221e055686e0ab97354"
+        },
+        {
+          "url": "/assets/practice-lesson-art/number-theory-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 135738,
+          "sha256": "59ee5ef7d06af18796b6660cece875c8845ee05214e3b8818879c51293c22f55"
+        },
+        {
+          "url": "/assets/practice-lesson-art/number-theory-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 304594,
+          "sha256": "aa554e98db77af02e6e7bbd515abd54c776db9fd77dd8f5518565f15f65cf242"
+        }
+      ]
+    },
+    {
+      "id": "dh",
+      "assetStem": "dh-practice-v1",
+      "name": "Kim Bằng Truyền Tín",
+      "category": "nhân vật & linh thú",
+      "deep": "#454434",
+      "scene": "EXACTLY ONE adult Chinese female messenger in ivory and rust-red robes at RIGHT and EXACTLY ONE majestic golden roc/eagle with partially opened wings beside her. She ties a small unmarked silk message tube to its leg on a high maple-covered cliff. Russet, muted teal, rose dawn, gold; longing and hopeful trust, no other birds, humans or beast-shaped clouds.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese female messenger in ivory and rust-red robes at RIGHT and EXACTLY ONE majestic golden roc/eagle with partially opened wings beside her. She ties a small unmarked silk message tube to its leg on a high maple-covered cliff. Russet, muted teal, rose dawn, gold; longing and hopeful trust, no other birds, humans or beast-shaped clouds.",
+      "lessonTitle": "Diffie–Hellman và điều gì chưa được xác thực",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "c5daf486c76084d1eb3dd5e4ef93f9c92e5164b1ad96b7445dbe098af5d57cb3",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/dh-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 40238,
+          "sha256": "d3baaa48321e044c168e8be6970d93e5fb94c51dcc5bcfe3cfab0a001c443946"
+        },
+        {
+          "url": "/assets/practice-lesson-art/dh-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 137376,
+          "sha256": "e4935a273d79d3de305701ffb8f86b821c5fcfed360088d0763af72e5a43cc9b"
+        },
+        {
+          "url": "/assets/practice-lesson-art/dh-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 288958,
+          "sha256": "a04aa3b63bbbdf2aeda64b20665ac3fcc43375ece752fb19f20209ed1974683c"
+        }
+      ]
+    },
+    {
+      "id": "rsa",
+      "assetStem": "rsa-practice-v2",
+      "name": "Thiên Môn Cơ Khóa",
+      "category": "pháp bảo",
+      "deep": "#394043",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese gate keeper in deep jade and bronze hanfu reaches toward the floating mechanical key. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE monumental but elegantly sized bronze-and-jade mechanical key artifact suspended at RIGHT before the softly blurred edge of an ancient sealed Chinese spirit gate. Complementary carved geometric channels, a single violet slit of light on the far edge. Oxidized bronze, deep jade, violet, gold; solemn power and hidden possibility, no face-shaped sculptures.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese gate keeper in deep jade and bronze hanfu reaches toward the floating mechanical key. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE monumental but elegantly sized bronze-and-jade mechanical key artifact suspended at RIGHT before the softly blurred edge of an ancient sealed Chinese spirit gate. Complementary carved geometric channels, a single violet slit of light on the far edge. Oxidized bronze, deep jade, violet, gold; solemn power and hidden possibility, no face-shaped sculptures.",
+      "lessonTitle": "RSA: từ p, q đến khóa công khai",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "3e1d5e54b94c0a79c372ede03b9e454cb5baa957b3b8527d9e97f9803a7c8cdc",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/rsa-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 31546,
+          "sha256": "58c7397e095174b48490c1ac4659884656403ea1c62f28d33ee0c1b21d0cdcdc"
+        },
+        {
+          "url": "/assets/practice-lesson-art/rsa-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 111228,
+          "sha256": "74d3e6a4c0515d7c074d85f9d68c0ee827c10d4456d88b47e440fbc7c6dfba0b"
+        },
+        {
+          "url": "/assets/practice-lesson-art/rsa-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 240518,
+          "sha256": "9abbb23455c0b012d8983cb5cadaf596654e5e269c93300d2b47162e56135014"
+        }
+      ]
+    },
+    {
+      "id": "oaep",
+      "assetStem": "oaep-practice-v2",
+      "name": "Liên Tâm Hộ Đan",
+      "category": "đan dược",
+      "deep": "#4a4334",
+      "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese immortal healer in cream and coral hanfu cradles the jade lotus casket containing its precious pill. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE small luminous coral spiritual pill nested inside layers of a translucent jade LOTUS CASKET at RIGHT, the protective petals opened just enough to reveal its center. A pale silk wrapping curves across the lower foreground, soft immortal flower garden far behind. Cream, sage, coral, honey; tender care and treasured warmth, no butterflies or animals.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult female Chinese immortal healer in cream and coral hanfu cradles the jade lotus casket containing its precious pill. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE small luminous coral spiritual pill nested inside layers of a translucent jade LOTUS CASKET at RIGHT, the protective petals opened just enough to reveal its center. A pale silk wrapping curves across the lower foreground, soft immortal flower garden far behind. Cream, sage, coral, honey; tender care and treasured warmth, no butterflies or animals.",
+      "lessonTitle": "OAEP và giới hạn dữ liệu RSA",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "16ad390be3bf53968ea5003e117df96bbbfe009b95a1cb53b8e76d2f4939128a",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/oaep-practice-v2-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 35248,
+          "sha256": "1ebe50656fd3a6a56212c1b9f0a15d4a3e80cd72888628105e5ec6c364f43067"
+        },
+        {
+          "url": "/assets/practice-lesson-art/oaep-practice-v2-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 119542,
+          "sha256": "7a996fbde4950783c50ab41bd1edd872579bebb868345bb781f065838d686da2"
+        },
+        {
+          "url": "/assets/practice-lesson-art/oaep-practice-v2.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 250762,
+          "sha256": "8b6140e801bf0c67983de65bd292127f15d1f676d962271070993b566b465b2b"
+        }
+      ]
+    },
+    {
+      "id": "pss",
+      "assetStem": "pss-practice-v1",
+      "name": "Nhất Bút Kiếm Ý",
+      "category": "võ công",
+      "deep": "#36404e",
+      "scene": "EXACTLY ONE adult Chinese swordsman in slate and burgundy robes on RIGHT, finishing a quiet precise sword form beneath one red plum branch in snow. A SINGLE elegant ink-like golden stroke traces the blade's final line, no readable calligraphy, clones or extra figures. Snow ivory, slate blue, faded red, warm gold; restraint, acceptance and dignified strength, no animals.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese swordsman in slate and burgundy robes on RIGHT, finishing a quiet precise sword form beneath one red plum branch in snow. A SINGLE elegant ink-like golden stroke traces the blade's final line, no readable calligraphy, clones or extra figures. Snow ivory, slate blue, faded red, warm gold; restraint, acceptance and dignified strength, no animals.",
+      "lessonTitle": "RSA-PSS: ký, kiểm chứng và byte được bảo vệ",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "65a74d367ff28be7fadf8fdfedd993483f2eb2047b0e627913b8f6788d10be19",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/pss-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 35294,
+          "sha256": "4eb24ae05837f4348ecdab1b908531c0d7da505e546b66c67cd007daf00221fe"
+        },
+        {
+          "url": "/assets/practice-lesson-art/pss-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 116772,
+          "sha256": "a46b9e472dd174cde03ea6111843039ed5a737264a49101c715e37692be04440"
+        },
+        {
+          "url": "/assets/practice-lesson-art/pss-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 249636,
+          "sha256": "8eed66aadb4b18eed64c5d76ec99e7297eb80391226feb34dd357a51c63f5f45"
+        }
+      ]
+    },
+    {
+      "id": "protocols",
+      "assetStem": "protocols-practice-v1",
+      "name": "Hỏa Phượng Quy Lai",
+      "category": "nhân vật & linh thú",
+      "deep": "#4d4133",
+      "scene": "EXACTLY ONE adult Chinese immortal traveler in ivory and peach hanfu at RIGHT and EXACTLY ONE magnificent cinnabar-and-gold phoenix perched beside them on a luminous cloud-harbor terrace. The traveler and phoenix turn toward each other in a warm greeting; distant wooden sky docks fade into the LEFT cloud sea. Peach, sea jade, ivory, gold; reunion and fulfillment, no other people, birds or beast-shaped clouds.",
+      "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese immortal traveler in ivory and peach hanfu at RIGHT and EXACTLY ONE magnificent cinnabar-and-gold phoenix perched beside them on a luminous cloud-harbor terrace. The traveler and phoenix turn toward each other in a warm greeting; distant wooden sky docks fade into the LEFT cloud sea. Peach, sea jade, ivory, gold; reunion and fulfillment, no other people, birds or beast-shaped clouds.",
+      "lessonTitle": "SSH, TLS và xác thực giao dịch",
+      "width": 1774,
+      "height": 887,
+      "pixelHash": "922005fe7f86e391b6fc4ab9372df0c1daa9fd98bcd3713c040d553983d20b50",
+      "variants": [
+        {
+          "url": "/assets/practice-lesson-art/protocols-practice-v1-480.webp",
+          "width": 480,
+          "height": 240,
+          "bytes": 36546,
+          "sha256": "1975775c5f71ccf1237f4c4cfc67312d84bb70bec789314575475408e4f63a09"
+        },
+        {
+          "url": "/assets/practice-lesson-art/protocols-practice-v1-960.webp",
+          "width": 960,
+          "height": 480,
+          "bytes": 124512,
+          "sha256": "a98d7ebad64c0f52b998cedf7c58afd2e5676ba1d052d94d36a9b6816796f602"
+        },
+        {
+          "url": "/assets/practice-lesson-art/protocols-practice-v1.webp",
+          "width": 1536,
+          "height": 768,
+          "bytes": 262992,
+          "sha256": "37af5a90fe450ba7e1aa724578a4d9e073c97fbc24f3c584e301edd4f803cdd8"
+        }
+      ]
+    }
+  ]
+}

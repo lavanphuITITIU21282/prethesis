@@ -1,0 +1,33 @@
+{
+  "id": "rsa",
+  "assetStem": "rsa-practice-v2",
+  "name": "Thiên Môn Cơ Khóa",
+  "category": "pháp bảo",
+  "deep": "#394043",
+  "scene": "EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese gate keeper in deep jade and bronze hanfu reaches toward the floating mechanical key. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE monumental but elegantly sized bronze-and-jade mechanical key artifact suspended at RIGHT before the softly blurred edge of an ancient sealed Chinese spirit gate. Complementary carved geometric channels, a single violet slit of light on the far edge. Oxidized bronze, deep jade, violet, gold; solemn power and hidden possibility, no face-shaped sculptures.",
+  "prompt": "Use case: stylized-concept. NEW original premium CHINESE XIANXIA CULTIVATION FANTASY painting for one lesson's practice interface. Wide landscape 2:1. Exquisite gongbi detail, poetic ink wash and mineral pigments on silk, cinematic atmosphere, richly textured yet composed, not simplistic, not photographic, not 3D rendered. Clear focal subject mainly in the RIGHT half with a calm darker LEFT third suitable for interface text, beautiful nuanced lighting. Entirely Chinese fantasy aesthetic; no modern or Western elements. No captions, no logos, no watermarks, no borders, no website UI. Fantasy sigils may be abstract ornamental strokes, but no readable prose or numbers. EXACTLY ONE adult Chinese human character, no animals or additional humans. One adult male Chinese gate keeper in deep jade and bronze hanfu reaches toward the floating mechanical key. Clearly show the person and their object together at RIGHT with believable hands and anatomy; medium-wide full or three-quarter figure, enough breathing room around both. ONE monumental but elegantly sized bronze-and-jade mechanical key artifact suspended at RIGHT before the softly blurred edge of an ancient sealed Chinese spirit gate. Complementary carved geometric channels, a single violet slit of light on the far edge. Oxidized bronze, deep jade, violet, gold; solemn power and hidden possibility, no face-shaped sculptures.",
+  "generator": "Built-in ImageGen; person paired with cultivation object",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/practice-lesson-art/rsa-practice-v2-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 31546
+    },
+    {
+      "url": "/assets/practice-lesson-art/rsa-practice-v2-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 111228
+    },
+    {
+      "url": "/assets/practice-lesson-art/rsa-practice-v2.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 240518
+    }
+  ],
+  "original": "resources/artwork/practice-lesson-art/rsa-practice-v2.png"
+}

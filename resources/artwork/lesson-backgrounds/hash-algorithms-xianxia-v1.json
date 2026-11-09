@@ -1,0 +1,32 @@
+{
+  "id": "hash-algorithms",
+  "assetStem": "hash-algorithms-xianxia-v1",
+  "name": "Thư hải Thiên Tầng",
+  "emotion": "kinh ngạc, khám phá",
+  "scene": "An immense celestial Chinese library with a SPIRAL COMPOSITION seen from a HIGH INTERIOR balcony. A young scholar and a small golden spirit bird at LOWER RIGHT discover a glowing unlettered scroll; elegant curved stairways and book galleries coil toward an open luminous cloud well at CENTER. Sapphire, dark teal, warm ivory and gold. Awe and discovery, exquisite wooden craftsmanship; readable large architecture instead of overwhelming tiny objects, no visible letters.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: kinh ngạc, khám phá. An immense celestial Chinese library with a SPIRAL COMPOSITION seen from a HIGH INTERIOR balcony. A young scholar and a small golden spirit bird at LOWER RIGHT discover a glowing unlettered scroll; elegant curved stairways and book galleries coil toward an open luminous cloud well at CENTER. Sapphire, dark teal, warm ivory and gold. Awe and discovery, exquisite wooden craftsmanship; readable large architecture instead of overwhelming tiny objects, no visible letters.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/hash-algorithms-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 49046
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hash-algorithms-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 175354
+    },
+    {
+      "url": "/assets/lesson-backgrounds/hash-algorithms-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 379292
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/hash-algorithms-xianxia-v1.png"
+}

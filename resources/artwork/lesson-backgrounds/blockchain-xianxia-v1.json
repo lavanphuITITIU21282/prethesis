@@ -1,0 +1,32 @@
+{
+  "id": "blockchain",
+  "assetStem": "blockchain-xianxia-v1",
+  "name": "Dòng đèn vượt Thiên Lĩnh",
+  "emotion": "bền bỉ, đoàn kết",
+  "scene": "A long pilgrimage of immortal travelers crossing a steep mountain pass at blue twilight, PANORAMIC HIGH VIEW. A guide at LOWER RIGHT turns back to help an exhausted friend, while many small lanterns trace a graceful S-CURVE through mist toward a distant sanctuary at UPPER LEFT. Pack spirit deer, winter pines and a vast cloud sea. Smoky violet, deep blue, olive and lantern gold. Solidarity and endurance, no crowd packed in foreground, no giant moon.",
+  "prompt": "Use case: stylized-concept. NEW original high-end contemporary CHINESE XIANXIA CULTIVATION FANTASY fine-art painting for one learning website lesson background. Entirely Chinese fantasy architecture, hanfu robes, spiritual animals and magical atmosphere, no Western medieval or modern city elements. Horizontal landscape 2:1. Exquisite gongbi detail merged with layered ink wash and mineral pigments on silk, sophisticated painterly texture, cinematic depth and poetic light. Rich and beautiful, not simplistic, not photographic, not 3D-rendered. Clear main scene and storytelling gestures with breathing space; medium-small human figures integrated into the environment, no giant portrait faces. No words, no readable letters, no captions, no numbers, no seals, no watermarks, no border, no website UI. Every composition must be distinct; avoid the habitual giant moon in upper-right and pavilion in lower-right. Emotional narrative: bền bỉ, đoàn kết. A long pilgrimage of immortal travelers crossing a steep mountain pass at blue twilight, PANORAMIC HIGH VIEW. A guide at LOWER RIGHT turns back to help an exhausted friend, while many small lanterns trace a graceful S-CURVE through mist toward a distant sanctuary at UPPER LEFT. Pack spirit deer, winter pines and a vast cloud sea. Smoky violet, deep blue, olive and lantern gold. Solidarity and endurance, no crowd packed in foreground, no giant moon.",
+  "generator": "Built-in ImageGen; confirmed Chinese Xianxia; one original scene per lesson; no CLI",
+  "width": 1774,
+  "height": 887,
+  "variants": [
+    {
+      "url": "/assets/lesson-backgrounds/blockchain-xianxia-v1-480.webp",
+      "width": 480,
+      "height": 240,
+      "bytes": 45524
+    },
+    {
+      "url": "/assets/lesson-backgrounds/blockchain-xianxia-v1-960.webp",
+      "width": 960,
+      "height": 480,
+      "bytes": 166438
+    },
+    {
+      "url": "/assets/lesson-backgrounds/blockchain-xianxia-v1.webp",
+      "width": 1536,
+      "height": 768,
+      "bytes": 363082
+    }
+  ],
+  "original": "resources/artwork/lesson-backgrounds/blockchain-xianxia-v1.png"
+}
